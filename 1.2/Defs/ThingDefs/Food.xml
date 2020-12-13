@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <!-- 대량 요리 -->
+<!--  <ThingDef ParentName="MealRottable">
+    <defName>RBPickled_vegetables</defName>
+    <label>Pickled vegetables</label>
+    <description>새콤짭짤하게 재운 채소들입니다. 대량으로 만들 수 있습니다.</description>
+    <graphicData>
+      <texPath>Food/Pickles</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>12</MarketValue>
+	  <Nutrition>0.75</Nutrition>
+    </statBases>
+    <ingestible>
+      <preferability>MealSimple</preferability>
+	  <optimalityOffsetHumanlikes>-1</optimalityOffsetHumanlikes>
+			<ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+    </ingestible>
+  </ThingDef>
+  
+  <ThingDef ParentName="MealRottable">
+    <defName>RBCurryrice</defName>
+    <label>VegiCurryrice</label>
+    <description>달의 야채 카레라이스입니다. 래비 군에서도, 학교에서도, 가정에서도 모두가 좋아합니다. 대량으로 끓일 수 있습니다.</description>
+    <graphicData>
+      <texPath>Food/Curry</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>22</MarketValue>
+	  <Nutrition>0.75</Nutrition>
+    </statBases>
+    <ingestible>
+      <preferability>MealFine</preferability>
+	  <optimalityOffsetHumanlikes>-1</optimalityOffsetHumanlikes>
+			<tasteThought>AteFineMeal</tasteThought>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+    </ingestible>
+  </ThingDef>
+
+
+  <ThingDef ParentName="MealRottable">
+    <defName>RBNabe</defName>
+    <label>MoonNabe</label>
+    <description>달의 채소 냄비전골입니다. 여러 채소의 맛이 잘 배어나왔습니다. 래비들이 가족과 둘러앉아 먹는 맛있는 요리입니다. 대량으로 끓일 수 있습니다.</description>
+    <graphicData>
+      <texPath>Food/Nabe</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>22</MarketValue>
+      <Nutrition>0.75</Nutrition>
+    </statBases>
+    <ingestible>
+      <preferability>MealLavish</preferability>
+      <optimalityOffsetHumanlikes>-1</optimalityOffsetHumanlikes>
+      <tasteThought>AteHeartwarmFood</tasteThought>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+    </ingestible>
+  </ThingDef> -->
+  
+  
+  
+  
+
+  <!-- 단품 요리 -->
+<!--  <ThingDef ParentName="MealRottable">
+    <defName>RBSalad</defName>
+    <label>Salad</label>
+    <description>채소를 다듬어 만든 간단한 샐러드입니다.</description>
+    <graphicData>
+      <texPath>Food/Salad</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>18</MarketValue>
+      <WorkToMake>300</WorkToMake>
+      <nutrition>0.90</nutrition>
+    </statBases>
+    <ingestible>
+      <preferability>MealSimple</preferability>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+    </ingestible>
+  </ThingDef>
+
+  <ThingDef ParentName="MealRottable">
+    <defName>RBRatatouille</defName>
+    <label>Ratatouille</label>
+    <description>여러가지 맛있는 채소를 잘 썰어서 소스를 넣어 익힌 요리입니다.</description>
+    <graphicData>
+      <texPath>Food/Ratatouille</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>24</MarketValue>
+      <WorkToMake>450</WorkToMake>
+      <nutrition>0.90</nutrition>
+    </statBases>
+    <ingestible>
+      <preferability>MealFine</preferability>
+      <tasteThought>AteFineMeal</tasteThought>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+    </ingestible>
+  </ThingDef>
+
+
+  <ThingDef ParentName="MealRottable">
+    <defName>RBVegistake</defName>
+    <label>Vegistake</label>
+    <description>공들여 구운 신선한 채소들에 고급 소스로 맛을 낸, 대지의 은혜를 담은 요리입니다.</description>
+    <graphicData>
+      <texPath>Food/Vegistake</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>36</MarketValue>
+      <WorkToMake>800</WorkToMake>
+      <nutrition>1.00</nutrition>
+    </statBases>
+    <ingestible>
+      <preferability>MealLavish</preferability>
+      <tasteThought>AteLavishMeal</tasteThought>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+    </ingestible>
+  </ThingDef>
+  
+  <ThingDef ParentName="MealBase">
+  <defName>RBMRE</defName>
+  <label>R.E MRE</label>
+  <description>래비 제국군에 지급되는 전투식량입니다. 잘 씻어 말린 채소와 곡물, 과일 양념이 들어 있습니다.</description>
+  <graphicData>
+    <texPath>Food/MRE</texPath>
+    <graphicClass>Graphic_StackCount</graphicClass>
+  </graphicData>
+  <statBases>
+      <DeteriorationRate>0.25</DeteriorationRate>
+      <MarketValue>24</MarketValue>
+      <Mass>0.3</Mass>
+      <WorkToMake>450</WorkToMake>
+      <Nutrition>0.9</Nutrition>
+  </statBases>
+  <ingestible>
+    <preferability>MealSimple</preferability>
+    <chairSearchRadius>1</chairSearchRadius>
+    <optimalityOffsetHumanlikes>-5</optimalityOffsetHumanlikes>
+    <optimalityOffsetFeedingAnimals>-10</optimalityOffsetFeedingAnimals>
+    <ingestEffect>EatVegetarian</ingestEffect>
+    <ingestSound>Meal_Eat</ingestSound>
+  </ingestible>
+  </ThingDef> -->
+
+
+  <!-- Meals -->
+
+  <!--<ThingDef ParentName="MealRottable">
+    <defName>MealNutrientPaste</defName>
+    <label>nutrient paste meal</label>
+    <description>A synthetic mixture of protein, carbohydrates, and vitamins, amino acids and minerals. Everything the body needs, and absolutely disgusting.</description>
+    <graphicData>
+      <texPath>Things/Item/Meal/NutrientPaste</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>12</MarketValue>
+    </statBases>
+    <ingestible>
+	  <chairSearchRadius>25</chairSearchRadius>
+      <preferability>MealAwful</preferability>
+			<tasteThought>AteAwfulMeal</tasteThought>
+			<nutrition>0.75</nutrition>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+    </ingestible>
+  </ThingDef>
+
+  <ThingDef ParentName="MealRottable">
+    <defName>MealSimple</defName>
+    <label>simple meal</label>
+    <description>A simple, bland tasting meal quickly cooked from a single set of ingredients..</description>
+    <graphicData>
+      <texPath>Things/Item/Meal/Simple</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>18</MarketValue>
+      <WorkToMake>300</WorkToMake>
+    </statBases>
+    <ingestible>
+      <preferability>MealSimple</preferability>
+			<nutrition>0.90</nutrition>
+			<ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+    </ingestible>
+  </ThingDef>
+  
+   <ThingDef ParentName="MealRottable">
+    <defName>MealFine</defName>
+    <label>fine meal</label>
+    <description>A complex dish assembled with care from a selection of meats, vegetables, and grains</description>
+    <graphicData>
+      <texPath>Things/Item/Meal/Fine</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>24</MarketValue>
+      <WorkToMake>450</WorkToMake>
+    </statBases>
+    <ingestible>
+      <preferability>MealFine</preferability>
+			<tasteThought>AteFineMeal</tasteThought>
+			<nutrition>0.90</nutrition>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+    </ingestible>
+  </ThingDef>
+  
+  <ThingDef ParentName="MealRottable">
+    <defName>MealLavish</defName>
+    <label>lavish meal</label>
+    <description>A complex and masterful dish made from a wide variety of quality ingredients and spices.  Delicious.</description>
+    <graphicData>
+      <texPath>Things/Item/Meal/Lavish</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>36</MarketValue>
+      <WorkToMake>800</WorkToMake>
+    </statBases>
+    <ingestible>
+      <preferability>MealLavish</preferability>
+			<tasteThought>AteLavishMeal</tasteThought>
+      <nutrition>1.00</nutrition>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+    </ingestible>
+  </ThingDef>-->
+  
+</Defs>

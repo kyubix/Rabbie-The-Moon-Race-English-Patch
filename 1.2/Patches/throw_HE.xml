@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>	
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="Shell_HighExplosive"]</xpath>
+		<value>
+			<equipmentType>Primary</equipmentType>
+			<equippedAngleOffset>-150</equippedAngleOffset>	
+			<verbs>
+				<li>
+					<label>throw HE Shell</label>
+					<verbClass>Verb_ShootOneUse</verbClass>
+					<hasStandardCommand>true</hasStandardCommand>
+					<range>10.9</range>
+					<forcedMissRadius>1.9</forcedMissRadius>
+					<warmupTime>5</warmupTime>
+					<noiseRadius>4</noiseRadius>
+					<ai_IsBuildingDestroyer>false</ai_IsBuildingDestroyer>
+					<soundCast>ThrowGrenade</soundCast>
+					<targetParams>
+						<canTargetLocations>true</canTargetLocations>
+					</targetParams>
+					<defaultProjectile>Proj_RBHEShell</defaultProjectile>
+					<rangedFireRulepack>Combat_RangedFire_Thrown</rangedFireRulepack>
+				</li>
+			</verbs>
+			<tools>
+				<li>
+					<label>Shell</label>
+					<capacities>
+						<li>Blunt</li>
+					</capacities>
+					<power>9</power>
+					<cooldownTime>2</cooldownTime>
+				</li>
+				<li>
+					<label>neck</label>
+					<capacities>
+						<li>Poke</li>
+					</capacities>
+					<power>9</power>
+					<cooldownTime>2</cooldownTime>
+				</li>
+			</tools>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="Shell_HighExplosive"]/comps</xpath>
+		<value>
+			<li>
+				<compClass>CompEquippable</compClass>
+			</li>
+		</value>
+	</Operation>	
+</Patch>

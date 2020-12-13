@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  
+  <!--
+  <RecipeDef ParentName="CookMealBase">
+    <defName>CookRBPickled_vegetables</defName>
+    <label>절임 채소 준비</label>
+    <description>대량의 채소를 준비해 간단히 절입니다. 한번에 10개를 준비하나 열량이 적습니다.</description>
+    <jobString>생채소를 절이는 중.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <requiredGiverWorkType>Cooking</requiredGiverWorkType>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <allowMixingIngredients>True</allowMixingIngredients>
+	<workAmount>1500</workAmount>
+    <ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+	<recipeUsers>
+        <li>ElectricStove</li>
+	    <li>FueledStove</li>
+    </recipeUsers>
+	<fixedIngredientFilter>
+		<disallowedCategories>
+      <li>MeatRaw</li>
+      <li>AnimalProductRaw</li>
+		</disallowedCategories>
+	</fixedIngredientFilter>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>PlantFoodRaw</li>
+          </categories>
+        </filter>
+        <count>5.0</count>
+      </li>
+    </ingredients>
+		<products>
+      <RBPickled_vegetables>10</RBPickled_vegetables>
+		</products>
+    <workSkill>Cooking</workSkill>
+	<researchPrerequisite>RBTS_BasicCooking</researchPrerequisite>
+  </RecipeDef>
+
+  <RecipeDef ParentName="CookMealBase">
+    <defName>CookRBSalad</defName>
+    <label>달채소 샐러드 준비</label>
+    <description>간단한 요리인 채소 샐러드를 만듭니다.</description>
+    <jobString>채소를 자르는 중.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <requiredGiverWorkType>Cooking</requiredGiverWorkType>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <allowMixingIngredients>True</allowMixingIngredients>
+    <ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+    <recipeUsers>
+      <li>ElectricStove</li>
+      <li>FueledStove</li>
+    </recipeUsers>
+    <fixedIngredientFilter>
+      <disallowedCategories>
+        <li>MeatRaw</li>
+        <li>AnimalProductRaw</li>
+      </disallowedCategories>
+    </fixedIngredientFilter>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>PlantFoodRaw</li>
+          </categories>
+        </filter>
+        <count>0.5</count>
+      </li>
+    </ingredients>
+    <products>
+      <RBSalad>1</RBSalad>
+    </products>
+    <workSkill>Cooking</workSkill>
+    <researchPrerequisite>RBTS_BasicCooking</researchPrerequisite>
+  </RecipeDef>
+  
+  
+  <RecipeDef ParentName="CookMealBase">
+    <defName>CookVegiCurryrice</defName>
+    <label>야채 카레라이스 준비</label>
+    <description>들통에 맛있는 야채 카레를 끓입니다. 한번에 10개인분을 준비하나 열량이 적습니다.</description>
+    <jobString>야채 카레를 끓이는 중.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <requiredGiverWorkType>Cooking</requiredGiverWorkType>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <allowMixingIngredients>True</allowMixingIngredients>
+    <workAmount>2100</workAmount>
+    <ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+    <recipeUsers>
+      <li>ElectricStove</li>
+      <li>FueledStove</li>
+    </recipeUsers>
+    <fixedIngredientFilter>
+      <disallowedCategories>
+        <li>MeatRaw</li>
+        <li>AnimalProductRaw</li>
+      </disallowedCategories>
+    </fixedIngredientFilter>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>PlantFoodRaw</li>
+          </categories>
+        </filter>
+        <count>5.0</count>
+      </li>
+    </ingredients>
+    <products>
+      <RBCurryrice>10</RBCurryrice>
+    </products>
+    <skillRequirements>
+      <Cooking>6</Cooking>
+    </skillRequirements>
+    <workSkill>Cooking</workSkill>
+    <researchPrerequisite>RBTS_MiddleCooking</researchPrerequisite>
+  </RecipeDef>
+
+  <RecipeDef ParentName="CookMealBase">
+    <defName>CookRBRatatouille</defName>
+    <label>라따뚜이 준비</label>
+    <description>맛있는 요리인 라따뚜이를 만듭니다.</description>
+    <jobString>라따뚜이 준비하는 중.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <requiredGiverWorkType>Cooking</requiredGiverWorkType>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <allowMixingIngredients>True</allowMixingIngredients>
+    <ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+    <recipeUsers>
+      <li>ElectricStove</li>
+      <li>FueledStove</li>
+    </recipeUsers>
+    <fixedIngredientFilter>
+      <disallowedCategories>
+        <li>MeatRaw</li>
+        <li>AnimalProductRaw</li>
+      </disallowedCategories>
+    </fixedIngredientFilter>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>PlantFoodRaw</li>
+          </categories>
+        </filter>
+        <count>0.5</count>
+      </li>
+    </ingredients>
+    <products>
+      <RBRatatouille>1</RBRatatouille>
+    </products>
+    <workSkill>Cooking</workSkill>
+    <skillRequirements>
+      <Cooking>6</Cooking>
+    </skillRequirements>
+    <researchPrerequisite>RBTS_MiddleCooking</researchPrerequisite>
+  </RecipeDef>
+
+  <RecipeDef ParentName="CookMealBase">
+    <defName>CookMoonNabe</defName>
+    <label>달냄비 요리 준비</label>
+    <description>달냄비에 호화로운 야채 전골을 끓입니다. 한번에 10개인분을 준비하나 열량이 적습니다.</description>
+    <jobString>냄비 전골을 끓이는 중.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <requiredGiverWorkType>Cooking</requiredGiverWorkType>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <allowMixingIngredients>True</allowMixingIngredients>
+    <workAmount>3500</workAmount>
+    <ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+    <recipeUsers>
+      <li>ElectricStove</li>
+      <li>FueledStove</li>
+    </recipeUsers>
+    <fixedIngredientFilter>
+      <disallowedCategories>
+        <li>MeatRaw</li>
+        <li>AnimalProductRaw</li>
+      </disallowedCategories>
+    </fixedIngredientFilter>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>PlantFoodRaw</li>
+          </categories>
+        </filter>
+        <count>6.0</count>
+      </li>
+    </ingredients>
+    <products>
+      <RBNabe>10</RBNabe>
+    </products>
+    <skillRequirements>
+      <Cooking>10</Cooking>
+    </skillRequirements>
+    <workSkill>Cooking</workSkill>
+    <researchPrerequisite>RBTS_AdvancedCooking</researchPrerequisite>
+  </RecipeDef>
+
+  <RecipeDef ParentName="CookMealBase">
+    <defName>RBVegistake</defName>
+    <label>채소스테이크 준비</label>
+    <description>호화스러운 요리인 채소스테이크를 만듭니다.</description>
+    <jobString>채소를 굽는 중.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <requiredGiverWorkType>Cooking</requiredGiverWorkType>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <allowMixingIngredients>True</allowMixingIngredients>
+    <ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+    <recipeUsers>
+      <li>ElectricStove</li>
+      <li>FueledStove</li>
+    </recipeUsers>
+    <fixedIngredientFilter>
+      <disallowedCategories>
+        <li>MeatRaw</li>
+        <li>AnimalProductRaw</li>
+      </disallowedCategories>
+    </fixedIngredientFilter>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>PlantFoodRaw</li>
+          </categories>
+        </filter>
+        <count>0.5</count>
+      </li>
+    </ingredients>
+    <products>
+      <RBVegistake>1</RBVegistake>
+    </products>
+    <skillRequirements>
+      <Cooking>12</Cooking>
+    </skillRequirements>
+    <workSkill>Cooking</workSkill>
+    <researchPrerequisite>RBTS_AdvancedCooking</researchPrerequisite>
+  </RecipeDef>
+  
+  
+  -->
+  
+  
+  
+  
+  
+  
+  
+  
+<!--  <RecipeDef ParentName="CookMealBase">
+		<defName>CookHeartyStew</defName>
+		<label>cook hearty stew</label>
+		<description>Cooks a hearty stew out of meat and any kind of plant food.  Makes 10 meals.</description>
+		<jobString>Cooking hearty stew.</jobString>
+		<workSpeedStat>CookSpeed</workSpeedStat>
+		<effectWorking>Cook</effectWorking>
+		<soundWorking>Recipe_CookMeal</soundWorking>
+		<allowMixingIngredients>True</allowMixingIngredients>
+		<ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+		<workAmount>1500</workAmount>
+		<recipeUsers>
+        <li>ElectricStove</li>
+	    <li>FueledStove</li>
+    </recipeUsers>
+		<fixedIngredientFilter>
+			<disallowedCategories>
+				<li>SweetsRaw</li>			
+				<li>SweetsProcessed</li>
+			</disallowedCategories>
+		</fixedIngredientFilter>		
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+					<li>MeatRaw</li>
+					<li>MeatProcessed</li>
+					<li>AnimalProductProcessed</li>
+					<li>AnimalProductRaw</li>
+				</categories>
+			</filter>
+				<count>2.5</count>
+			</li>
+			<li>
+				<filter>
+					<categories>
+						<li>VegetablesRaw</li>
+						<li>VegetablesProcessed</li>
+						<li>FruitRaw</li>
+						<li>FruitProcessed</li>
+						<li>GrainsRaw</li>
+						<li>GrainsProcessed</li>
+					</categories>
+				</filter>
+				<count>2.5</count>
+			</li>			
+		</ingredients>
+		<products>
+      <HeartyStew>10</HeartyStew>
+    </products>
+		<skillRequirements>
+			<Cooking>8</Cooking>
+		</skillRequirements>
+		<researchPrerequisite>RBTS_MiddleCooking</researchPrerequisite>
+  </RecipeDef> -->
+
+
+</Defs>

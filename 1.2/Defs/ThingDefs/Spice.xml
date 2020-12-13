@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!-- 플라네타리움 아이템 -->
+
+  <ThingDef ParentName="DrugPillBase">
+    <defName>RefinedPlanetarium</defName>
+    <label>Planetarium</label>
+    <description>행성의 대기에 화산활동으로 뿌려진 미량의 성분을 포집해서, 정제한 귀한 물질입니다.\n\n플라네타리움은 래비들의 맑은 정신 유지를 가능케 하여 생존엔 없어선 안 될 물질입니다. 그들의 빠른 뇌 활동에 관여함은 물론, 오랜 시간 꾸준히 이 물질을 섭취한 래비는 긴장했을 때 몇 초간의 짧고 흐릿한 미래를 내다볼수 있는 능력을 가진다고 합니다.
+\n\n래비 제국의 군대는 보통 '향신료'라 불리우는 이 물질을 달의 시민들에게 안정적으로 공급하는 데 온 힘을 쏟고 있습니다.\n타 종족은 중독될 뿐 아무 효과도 없지만 향을 즐기거나 거래하는 이들은 있는 모양입니다.</description>
+    <graphicData>
+      <texPath>Things/Drugs/Planetarium</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <stackLimit>100</stackLimit>
+    <rotatable>false</rotatable>
+    <statBases>
+      <MarketValue>60</MarketValue>
+      <Mass>0.01</Mass>
+    </statBases>
+    <techLevel>Ultra</techLevel>
+    <ingestible>
+      <drugCategory>Medical</drugCategory>
+      <outcomeDoers>
+        <li Class="IngestionOutcomeDoer_GiveHediff">
+          <hediffDef>RefinedPlanetarium</hediffDef>
+          <severity>1</severity>
+          <toleranceChemical>Planetarium</toleranceChemical>
+        </li>
+      </outcomeDoers>
+    </ingestible>
+    <comps>
+      <li Class="CompProperties_Drug">
+        <chemical>Planetarium</chemical>
+        <addictiveness>1</addictiveness>
+        <needLevelOffset>1.00</needLevelOffset>
+        <listOrder>1027</listOrder>
+      </li>
+      </comps>
+     <tradeTags>
+      <li>ExoticMisc</li>
+    </tradeTags>
+  </ThingDef>
+
+  <ThingDef ParentName="DrugPillBase">
+    <defName>RB_Braincrystal</defName>
+    <label>Braincrystal</label>
+    <description>래비의 뇌 속에서 나온 무언가입니다. \n\n그로테스크한 부정형의 모습을 하고 있으며, 먹으면 결정으로 침착된 플라네타륨 성분을 섭취할 수 있습니다. 이 비릿한 냄새를 좋아할 사람은 없겠지만요.</description>
+    <graphicData>
+      <texPath>Things/Drugs/Braincrystal</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <rotatable>false</rotatable>
+    <statBases>
+      <MarketValue>20</MarketValue>
+      <Mass>0.01</Mass>
+    </statBases>
+    <techLevel>Ultra</techLevel>
+    <ingestible>
+      <drugCategory>Medical</drugCategory>
+      <outcomeDoers>
+        <li Class="IngestionOutcomeDoer_GiveHediff">
+          <hediffDef>Braincrystal</hediffDef>
+          <severity>1</severity>
+          <toleranceChemical>Planetarium</toleranceChemical>
+        </li>
+      </outcomeDoers>
+    </ingestible>
+    <comps>
+      <li Class="CompProperties_Drug">
+        <chemical>Planetarium</chemical>
+        <addictiveness>1</addictiveness>
+        <needLevelOffset>1.00</needLevelOffset>
+        <listOrder>1027</listOrder>
+      </li>
+    </comps>
+    <tradeTags>
+      <li>ExoticMisc</li>
+    </tradeTags>
+  </ThingDef>
+  
+
+  <ThingDef ParentName="MakeableDrugBase">
+    <defName>PlanetariumTea</defName>
+    <label>Planetarium Tea</label>
+    <description>플라네타리움으로 끓인 향긋한 차입니다. \n\n기호품으로서의 역할도 하는 플라네타리움을 즐기는 방법으로 래비 제국에서 가장 널리 알려졌습니다. 달의 도시의 카페에서는 어느 곳이든 취급하고 있으며, 풍부하고 깊은 향신료의 향긋함이 가루로 섭취했을 때보다 오래 갑니다.\n\n약물로서의 즐거움도 조금 상승합니다.</description>
+
+    <graphicData>
+      <texPath>Things/Drugs/PLtea</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <rotatable>false</rotatable>
+    <statBases>
+      <WorkToMake>400</WorkToMake>
+      <MarketValue>60</MarketValue>
+      <Mass>0.05</Mass>
+      <DeteriorationRate>6</DeteriorationRate>
+    </statBases>
+    <techLevel>Ultra</techLevel>
+    <ingestible>
+      <foodType>Fluid, Processed</foodType>
+      <joyKind>Chemical</joyKind>
+      <joy>0.20</joy>
+      <baseIngestTicks>480</baseIngestTicks>
+      <nurseable>true</nurseable>
+      <drugCategory>Medical</drugCategory>
+      <ingestSound>Ingest_Drink</ingestSound>
+
+      <ingestHoldUsesTable>true</ingestHoldUsesTable>
+      <ingestCommandString>Drink {0}</ingestCommandString>
+      <ingestReportString>Drinking {0}.</ingestReportString>
+      <outcomeDoers>
+        <li Class="IngestionOutcomeDoer_GiveHediff">
+          <hediffDef>PlanetariumTea</hediffDef>
+          <severity>1</severity>
+          <toleranceChemical>Planetarium</toleranceChemical>
+        </li>
+      </outcomeDoers>
+    </ingestible>
+    <recipeMaker>
+      <researchPrerequisite>Planettea</researchPrerequisite>
+      <recipeUsers>
+        <li>Campfire</li>
+        <li>ElectricStove</li>
+        <li>FueledStove</li>
+      </recipeUsers>
+      <workSpeedStat>DrugCookingSpeed</workSpeedStat>
+      <workSkill>Cooking</workSkill>
+      <skillRequirements>
+        <Cooking>2</Cooking>
+      </skillRequirements>
+    </recipeMaker>
+    <costList>
+      <RefinedPlanetarium>1</RefinedPlanetarium>
+    </costList>
+    <comps>
+      <li Class="CompProperties_Drug">
+        <chemical>Planetarium</chemical>
+        <addictiveness>1</addictiveness>
+        <needLevelOffset>1.00</needLevelOffset>
+        <listOrder>1027</listOrder>
+      </li>
+    </comps>
+
+    <tradeTags>
+      <li>ExoticMisc</li>
+    </tradeTags>
+  </ThingDef>
+
+
+
+  <!-- 플라네타리움 섭취형태 반응 : 정제 가루 -->
+
+  <HediffDef>
+    <defName>RefinedPlanetarium</defName>
+    <hediffClass>HediffWithComps</hediffClass>
+    <label>Ate Refined Planetarium</label>
+    <labelNoun>Ate Refined Planetarium</labelNoun>
+    <description>최근에 정제된 플라네타륨을 섭취해 하루 동안 좀더 정신이 뚜렷해지고 기분이 좋아집니다.</description>
+    <defaultLabelColor>(1,0,0.5)</defaultLabelColor>
+    <scenarioCanAdd>true</scenarioCanAdd>
+    <maxSeverity>1.0</maxSeverity>
+    <isBad>false</isBad>
+    <comps>
+      <li Class="HediffCompProperties_SeverityPerDay">
+        <severityPerDay>-1.0</severityPerDay>
+      </li>
+    </comps>
+    <stages>
+      <li>
+        <capMods>
+          <li>
+            <capacity>Consciousness</capacity>
+            <offset>0.10</offset>
+          </li>
+        </capMods>
+      </li>
+    </stages>
+  </HediffDef>
+
+
+  <ThoughtDef>
+    <defName>RefinedPlanetarium</defName>
+    <workerClass>ThoughtWorker_Hediff</workerClass>
+    <hediff>RefinedPlanetarium</hediff>
+    <validWhileDespawned>true</validWhileDespawned>
+    <stages>
+      <li>
+        <label>Ate Refined Planetarium</label>
+        <description>향긋한 계피 냄새..? 모르는 향신료의 맛이 감돌아.</description>
+        <baseMoodEffect>6</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <!-- 플라네타리움 섭취형태 반응 : 뇌석 -->
+
+  <HediffDef>
+    <defName>Braincrystal</defName>
+    <hediffClass>HediffWithComps</hediffClass>
+    <label>Ate Braincrystal</label>
+    <labelNoun>Ate Braincrystal</labelNoun>
+    <description>최근에 래비의 뇌석을 섭취했습니다. 비릿한 피냄새가 목에서 올라옵니다.</description>
+    <defaultLabelColor>(1,0,0.5)</defaultLabelColor>
+    <scenarioCanAdd>true</scenarioCanAdd>
+    <maxSeverity>1.0</maxSeverity>
+    <isBad>false</isBad>
+    <comps>
+      <li Class="HediffCompProperties_SeverityPerDay">
+        <severityPerDay>-1.0</severityPerDay>
+      </li>
+    </comps>
+    <stages>
+      <li>
+        <capMods>
+          <li>
+            <capacity>Consciousness</capacity>
+            <offset>0.10</offset>
+          </li>
+        </capMods>
+      </li>
+    </stages>
+  </HediffDef>
+
+
+  <ThoughtDef>
+    <defName>Braincrystal</defName>
+    <workerClass>ThoughtWorker_Hediff</workerClass>
+    <hediff>Braincrystal</hediff>
+    <validWhileDespawned>true</validWhileDespawned>
+    <stages>
+      <li>
+        <label>Ate Rabbies Braincrystal</label>
+        <description>아무리 살기 위해서라지만.. 이걸.. 우욱...</description>
+        <baseMoodEffect>-8</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+
+
+  <!-- 플라네타리움 섭취형태 반응: 플라네타리움 차 -->
+
+  <HediffDef>
+    <defName>PlanetariumTea</defName>
+    <hediffClass>HediffWithComps</hediffClass>
+    <label>Drank PlanetariumTea</label>
+    <labelNoun>Drank PlanetariumTea</labelNoun>
+    <description>최근에 향긋한 플라네타륨 차를 마셔 이틀 동안 좀더 정신이 뚜렷해지고 기분이 좋아집니다.</description>
+    <defaultLabelColor>(1,0,0.5)</defaultLabelColor>
+    <scenarioCanAdd>true</scenarioCanAdd>
+    <maxSeverity>1.0</maxSeverity>
+    <isBad>false</isBad>
+    <comps>
+      <li Class="HediffCompProperties_SeverityPerDay">
+        <severityPerDay>-0.5</severityPerDay>
+      </li>
+    </comps>
+    <stages>
+      <li>
+        <capMods>
+          <li>
+            <capacity>Consciousness</capacity>
+            <offset>0.10</offset>
+          </li>
+        </capMods>
+      </li>
+    </stages>
+  </HediffDef>
+
+
+  <ThoughtDef>
+    <defName>PlanetariumTea</defName>
+    <workerClass>ThoughtWorker_Hediff</workerClass>
+    <hediff>PlanetariumTea</hediff>
+    <validWhileDespawned>true</validWhileDespawned>
+    <stages>
+      <li>
+        <label>Drank PlanetariumTea</label>
+        <description>이 풍부하고 깊은 향기라니..! 머리가 맑아져..</description>
+        <baseMoodEffect>12</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+
+
+  <!-- 래비전용 플라네타리움 개화 상태이상 -->
+
+  <HediffDef>
+    <defName>Whisperofplanet</defName>
+    <hediffClass>HediffWithComps</hediffClass>
+    <label>Whisper of planet</label>
+    <description>래비 종족에게만 나타나는 특이 현상으로, 플라네타륨을 오래 섭취한 래비들은 눈의 빛깔이 변하며 긴장 상황에서 2~3초간의 짧은 미래를 보는 능력을 가집니다. 래비들의 사격 솜씨와 결합하여 전장에서 무서운 명중률을 발휘한다고 알려져 있습니다.</description>
+    <defaultLabelColor>(0.79,0.66,1)</defaultLabelColor>
+    <scenarioCanAdd>false</scenarioCanAdd>
+    <maxSeverity>1.0</maxSeverity>
+    <isBad>false</isBad>
+    <comps>
+      <li Class="HediffCompProperties_Discoverable">
+        <sendLetterWhenDiscovered>true</sendLetterWhenDiscovered>
+        <discoverLetterLabel>{0}is awakened to Whisper of Planet</discoverLetterLabel>
+        <discoverLetterText>{0}에게 행성의 속삭임이 들려옵니다.\n\n오랜 플라네타리움 섭취의 결과로, 때떄로 흐릿하게나마 짧은 미래를 보는 능력을 가집니다.</discoverLetterText>
+        <letterType>PositiveEvent</letterType>
+        <messageType>PositiveEvent</messageType>
+      </li>
+    </comps>
+    <stages>
+      <li>
+        <capMods>
+					<li>
+						<capacity>Sight</capacity>
+						<offset>0.2</offset>
+					</li>
+        </capMods>
+      </li>
+    </stages>
+  </HediffDef>
+
+  <!-- 플라네타리움 화학 성분 -->
+
+  <ChemicalDef>
+    <defName>Planetarium</defName>
+    <label>Planetarium</label>
+    <addictionHediff>PlanetariumAddiction</addictionHediff>
+    <canBinge>false</canBinge>
+  </ChemicalDef>
+
+  <!-- 플라네타리움 Needs -->
+  <NeedDef ParentName="DrugAddictionNeedBase">
+    <defName>Chemical_Planetarium</defName>
+    <needClass>Need_Chemical</needClass>
+    <label>Planetarium</label>
+    <description>플라네타리움 섭취 상태입니다. \n\n래비들은 이 성분이 뇌에 끼치는 영향 덕에 맑은 정신을 유지하며, 빠른 지적 활동이 가능합니다. \n\n이 물질이 부족할 때에는.. 죽지는 않지만, 이들의 정신이 무너진 모습은 비참합니다. 플라네타리움을 다시 먹여 정신을 찾아 주세요.\n\n이 효과는 사라지지 않습니다.</description>
+    <listPriority>982</listPriority>
+    <fallPerDay>0.143</fallPerDay>
+  </NeedDef>
+
+
+  <!-- 플라네타리움 중독 -->
+  <HediffDef ParentName="AddictionBase">
+    <defName>PlanetariumAddiction</defName>
+    <hediffClass>Hediff_Addiction</hediffClass>
+    <label>Flow of Spice</label>
+    <description>몸에 미량의 플라네타륨이 흐릅니다. 플라네타륨 부족시 정신이 피폐해져 방황하게 됩니다. 벗어나는 방법은 현재까지는 없습니다.</description>
+    <defaultLabelColor>(0.63,0.79,1.0)</defaultLabelColor>
+    <causesNeed>Chemical_Planetarium</causesNeed>
+    <everCurableByItem>false</everCurableByItem>
+    <comps>
+      <li Class="HediffCompProperties_Discoverable">
+        <sendLetterWhenDiscovered>true</sendLetterWhenDiscovered>
+        <discoverLetterLabel>Flow of Spice</discoverLetterLabel>
+        <discoverLetterText>{0}의 몸에 미량의 플라네타리움이 흐르기 시작합니다.\n\n중독은 영영 제거할 수 없으며, 일생동안 기호품으로 즐길 수 있기를 바랄 뿐입니다.</discoverLetterText>
+        <letterType>NegativeEvent</letterType>
+        <messageType>NegativeEvent</messageType>
+      </li>
+    </comps>
+    <stages>
+      <li>
+      </li>
+      <li>
+        <label>Lunatic</label>
+        <painOffset>0.3</painOffset>
+        <capMods>
+          <li>
+            <capacity>Consciousness</capacity>
+            <setMax>0.8</setMax>
+          </li>
+        </capMods>
+        <mentalStateGivers>
+          <li>
+            <mentalState>Wander_Psychotic</mentalState>
+            <mtbDays>0.3</mtbDays>
+          </li>
+        
+        </mentalStateGivers>
+      </li>
+    </stages>
+  </HediffDef>
+    
+  
+
+  <!-- 플라네타리움 제조 및 플라네타리움 식품들 -->
+  
+
+
+  
+</Defs>

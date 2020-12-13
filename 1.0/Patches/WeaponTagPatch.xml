@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+<Operation Class="PatchOperationAdd">
+	<xpath>*/ThingDef[defName="Gun_AssaultRifle"]/weaponTags</xpath>
+	<value>
+		<li>RB_AssaultRifle</li>
+	</value>
+</Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>*/ThingDef[defName="Gun_Minigun"]/weaponTags</xpath>
+    <value>
+      <li>RB_Minigun</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>*/ThingDef[defName="Gun_ChargeRifle"]/weaponTags</xpath>
+    <value>
+      <li>RB_ChargeRifle</li>
+    </value>
+  </Operation>
+</Patch>

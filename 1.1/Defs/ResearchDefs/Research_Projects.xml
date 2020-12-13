@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+  
+  <ResearchTabDef>
+    <defName>LunarTech</defName>
+    <label>Lunar Technology</label>
+  </ResearchTabDef>
+
+  <!-- =======================산업 1tier -->
+
+  <!--===== Column 1 ====-->
+
+  <!-- 달의 건축기술 -->
+  <ResearchProjectDef>
+    <defName>Lunararchitecture</defName>
+    <label>Lunar architecture</label>
+    <description>Coming soon-달의 건축양식과 구조물을 시공하는 기술.</description>
+    <tab>LunarTech</tab>
+    <baseCost>1</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>ShipReactor</li>
+    </prerequisites>
+    <researchViewX>0</researchViewX>
+    <researchViewY>0</researchViewY>
+  </ResearchProjectDef>
+
+  <!-- 달의 재봉 -->
+  <ResearchProjectDef>
+    <defName>Lunarsewing</defName>
+    <label>Lunar Sewing</label>
+    <description>래비들의 재봉대를 만들 수 있으며, 래비들이 입는 세련된 의류를 제작하는 법을 배웁니다. 온대에서 입는 각종 일상복들이 포함됩니다.</description>
+    <tab>LunarTech</tab>
+    <baseCost>500</baseCost>
+    <prerequisites>
+      <li>ComplexClothing</li>
+      <li>Electricity</li>
+    </prerequisites>
+    <techLevel>Industrial</techLevel>
+    <researchViewX>0</researchViewX>
+    <researchViewY>2.25</researchViewY>
+  </ResearchProjectDef>
+  <!-- 달의 기계가공 -->
+  <ResearchProjectDef>
+    <defName>Lunarmachining</defName>
+    <label>Lunar machining</label>
+    <description>달 토끼들의 무기와 장비들을 생산하는 테이블을 만들 수 있습니다.</description>
+    <tab>LunarTech</tab>
+    <baseCost>500</baseCost>
+    <prerequisites>
+      <li>Machining</li>
+    </prerequisites>
+    <techLevel>Industrial</techLevel>
+    <researchViewX>0</researchViewX>
+    <researchViewY>3.0</researchViewY>
+  </ResearchProjectDef>
+  <!-- 개인 방어 화기 -->
+  <ResearchProjectDef>
+    <defName>RBPDW</defName>
+    <label>PDW</label>
+    <description>래비티시 제국의, 후방 비전투원 래비들이 장비하는 단축형 소총을 제작하는 법을 배웁니다. 저렴하고 사용성이 좋습니다.</description>
+    <tab>LunarTech</tab>
+    <baseCost>300</baseCost>
+    <prerequisites>
+      <li>Lunarmachining</li>
+      <li>BlowbackOperation</li>
+    </prerequisites>
+    <techLevel>Industrial</techLevel>
+    <researchViewX>0</researchViewX>
+    <researchViewY>3.75</researchViewY>
+  </ResearchProjectDef>
+
+<!--  <ResearchProjectDef>
+    <defName>ComplexClothing</defName>
+    <label>complex clothing</label>
+    <description>Tailor complicated garments like pants, dusters, and cowboy hats.</description>
+    <tab>LunarTech</tab>
+    <baseCost>600</baseCost>
+    <techLevel>Medieval</techLevel>
+    <researchViewX>0</researchViewX>
+    <researchViewY>4.5</researchViewY>
+    <tags>
+      <li>ClassicStart</li>
+    </tags>
+  </ResearchProjectDef> -->
+
+  <!--===== Column 2 ====-->
+
+  <!-- 달의 합성원단 -->
+  <ResearchProjectDef>
+    <defName>Moonthread</defName>
+    <label>Weave Moonthread</label>
+    <description>래비 제국에서 널리 쓰이는 달의 합성원단을 직조하는 기술을 배웁니다.</description>
+    <tab>LunarTech</tab>
+    <baseCost>1000</baseCost>
+    <prerequisites>
+      <li>Lunarsewing</li>
+    </prerequisites>
+    <techLevel>Industrial</techLevel>
+    <researchViewX>2</researchViewX>
+    <researchViewY>2.25</researchViewY>
+  </ResearchProjectDef>
+
+  <!-- 야전군 무기체계 -->
+  <ResearchProjectDef>
+    <defName>RBFieldWeapon</defName>
+    <label>Fieldarmy Weapon</label>
+    <description>Coming soon - 래비티시 제국의 야전군이 행성 현지에서 생산하는 무기를 제작합니다. \n미개한 수준의 종족들 다수를 제압하는 데 초점을 맞춘 무기체계로, 비교적 저렴하며, 실탄을 사용합니다.</description>
+    <tab>LunarTech</tab>
+    <baseCost>1</baseCost> <!--1000-->
+    <prerequisites>
+      <li>Lunarmachining</li>
+      <li>PrecisionRifling</li>
+    </prerequisites>
+    <techLevel>Industrial</techLevel>
+    <researchViewX>1</researchViewX>
+    <researchViewY>3.75</researchViewY>
+  </ResearchProjectDef>
+
+
+    <!-- Electrothermal chemical gun Upgrade -->
+  <ResearchProjectDef>
+    <defName>ElectrothermalChemical</defName>
+    <label>전열화학포 모듈</label>
+    <description>Coming soon - 래비티시 제국 야전군의 기존 무기를 전열화학 무기로 개량합니다. 무기에 모듈을 장착하면 더 많은 장약을 완전연소시켜 강한 위력과 관통력, 명중률의 향상을 가져옵니다.</description>
+    <tab>LunarTech</tab>
+    <baseCost>1</baseCost> <!--1000-->
+    <prerequisites>
+      <li>RBFieldWeapon</li>
+    </prerequisites>
+    <techLevel>Industrial</techLevel>
+    <researchViewX>2</researchViewX>
+    <researchViewY>4.5</researchViewY>
+  </ResearchProjectDef>
+
+  <!--===== Column 3 ====-->
+
+
+  <!-- 복합소재 장비 -->
+  <ResearchProjectDef>
+    <defName>RBFieldGear</defName>
+    <label>Composite Gear</label>
+    <description>래비티시 제국 야전군이 착용하는 전투복과 야전 방탄모, 방탄재킷을 제작하는 방법을 연구합니다.</description>
+    <tab>LunarTech</tab>
+    <baseCost>500</baseCost>
+    <prerequisites>
+      <li>FlakArmor</li>
+      <li>Lunarmachining</li>
+      <li>Moonthread</li>
+    </prerequisites>
+    <techLevel>Industrial</techLevel>
+    <researchViewX>3</researchViewX>
+    <researchViewY>3.375</researchViewY>
+  </ResearchProjectDef>
+
+  <!--===== Column 4 ====-->
+
+  <!-- 기능 의류 -->
+  <ResearchProjectDef>
+    <defName>EFClothing</defName>
+    <label>Efficient clothing</label>
+    <description>달의 합성원단으로 작업 능률을 올리는 의류를 만드는 법을 배웁니다. 래비 시민들의 직업 의류 및 방열, 방한복, 각종 모자들이 포함됩니다.</description>
+    <tab>LunarTech</tab>
+    <baseCost>1000</baseCost>
+    <prerequisites>
+      <li>Moonthread</li>
+    </prerequisites>
+    <techLevel>Industrial</techLevel>
+    <researchViewX>4</researchViewX>
+    <researchViewY>2.25</researchViewY>
+  </ResearchProjectDef>
+  
+
+  <!--===== Column 5 ====-->
+
+  <!-- 플라네타륨 정제 -->
+  <ResearchProjectDef>
+    <defName>RefinePlanetarium</defName>
+    <label>Refine Planetarium</label>
+    <description>주로 '향신료' 라고 불리는, 플라네타리움을 공기 중에서 포집 및 정제하는 방법을 연구합니다. 래비들의 생존에 직결되는 기술입니다.</description>
+    <tab>LunarTech</tab>
+    <baseCost>2000</baseCost>
+    <prerequisites>
+      <li>MicroelectronicsBasics</li>
+    </prerequisites>
+    <techLevel>Industrial</techLevel>
+    <researchViewX>3</researchViewX>
+    <researchViewY>1.5</researchViewY>
+  </ResearchProjectDef>
+
+    <!-- 달의 다도 -->
+  <ResearchProjectDef>
+    <defName>Planettea</defName>
+    <label>Planetarim tea</label>
+    <description>플라네타륨으로 차를 끓이는 방법을 배웁니다.</description>
+    <tab>LunarTech</tab>
+    <baseCost>200</baseCost>
+    <prerequisites>
+      <li>RefinePlanetarium</li>
+    </prerequisites>
+    <techLevel>Industrial</techLevel>
+    <researchViewX>4</researchViewX>
+    <researchViewY>0.75</researchViewY>
+  </ResearchProjectDef>
+  <!-- 칵테일 섞기 -->
+  <ResearchProjectDef>
+    <defName>Planetcocktail</defName>
+    <label>Mix cocktail</label>
+    <description>Coming soon-알코올과 플라네타륨을 섞는 고유의 기술로, 블루 플래닛이라 불리는 칵테일을 만드는 법을 배웁니다.</description>
+    <tab>LunarTech</tab>
+    <baseCost>1</baseCost>
+    <prerequisites>
+      <li>ShipReactor</li>
+      <li>Planettea</li>
+    </prerequisites>
+    <techLevel>Industrial</techLevel>
+    <researchViewX>5</researchViewX>
+    <researchViewY>0.75</researchViewY>
+  </ResearchProjectDef>
+
+    <!-- 공직 의류 -->
+  <ResearchProjectDef>
+    <defName>officiaryclothing</defName>
+    <label>Officiary clothing</label>
+    <description>래비티시 제국의 공직자들이 입는 의류를 제작합니다. 전력관리국 직원, 실무장교 제복, 고위장교 지휘복을 포함합니다.</description>
+    <tab>LunarTech</tab>
+    <baseCost>1100</baseCost>
+    <prerequisites>
+      <li>EFClothing</li>
+    </prerequisites>
+    <techLevel>Industrial</techLevel>
+    <researchViewX>5</researchViewX>
+    <researchViewY>2.25</researchViewY>
+  </ResearchProjectDef>
+
+
+
+    <!-- 산업 2tier -->
+  
+  <!--===== Column 6 ====-->
+
+
+    <!-- Moon heavy industry -->
+  <ResearchProjectDef>
+    <defName>RBheavyindustry</defName>
+    <label>달의 중공업</label>
+    <description>Coming soon - 달의 중공업 기술로 발전된 기계장치와 방어 포탑, 화력강화 랙을 만듭니다.</description>
+    <tab>LunarTech</tab>
+    <baseCost>1</baseCost>
+    <prerequisites>
+      <li>MicroelectronicsBasics</li>
+    </prerequisites>
+    <techLevel>Industrial</techLevel>
+    <researchViewX>6</researchViewX>
+    <researchViewY>5.25</researchViewY>
+  </ResearchProjectDef>
+
+
+    <!-- 기초 에너지 무기 -->
+  <ResearchProjectDef>
+    <defName>RBEnergyweapon</defName>
+    <label>Basic energy weapon</label>
+    <description>Coming soon 제국 최초로 개발되었던 에너지 무기인 단발형 라이플을 연구합니다.</description>
+    <tab>LunarTech</tab>
+    <baseCost>1</baseCost>
+    <prerequisites>
+      <li>RBFieldWeapon</li>
+    </prerequisites>
+    <techLevel>Industrial</techLevel>
+    <researchViewX>6</researchViewX>
+    <researchViewY>3.75</researchViewY>
+  </ResearchProjectDef>
+
+  <!--===== Column 7 ====-->
+
+
+    <!-- 나노머신 공업 -->
+  <ResearchProjectDef>
+    <defName>NanoBreeder</defName>
+    <label>Nanomachine Industry</label>
+    <description>Coming soon - 달의 도시의 초정밀 공업에 이용하는 나노머신 증식로를 개발합니다.</description>
+    <tab>LunarTech</tab>
+    <baseCost>1</baseCost>
+    <prerequisites>
+      <li>Fabrication</li>
+    </prerequisites>
+    <techLevel>Spacer</techLevel>
+    <researchViewX>7</researchViewX>
+    <researchViewY>3.0</researchViewY>
+  </ResearchProjectDef>
+
+  <!-- 우주 -->
+
+  <!--===== Column 8 ====-->
+
+  <!-- 산업용 대량 정제 -->
+  <ResearchProjectDef>
+    <defName>Massrefinery</defName>
+    <label>Industrial Mass refine</label>
+    <description>Coming soon - 달의 도시에 공급할만한 대량의 플라네타륨을 정제하는 기술을 연구합니다.</description>
+    <tab>LunarTech</tab>
+    <baseCost>1</baseCost>
+    <prerequisites>
+      <li>RefinePlanetarium</li>
+    </prerequisites>
+    <techLevel>Spacer</techLevel>
+    <researchViewX>7</researchViewX>
+    <researchViewY>1.5</researchViewY>
+  </ResearchProjectDef>
+
+    <!-- 나노 결합 조직 -->
+  <ResearchProjectDef>
+    <defName>RBMoonsilk</defName>
+    <label>Nano-tied fabric</label>
+    <description>래비 제국의 공산품인 문실크를 제작합니다. 원단과 플라스틸을 이용해, 나노머신으로 짜내는 강력하고 아름다운 섬유입니다.</description>
+    <tab>LunarTech</tab>
+    <baseCost>5500</baseCost>
+    <prerequisites>
+      <li>Moonthread</li>
+      <li>NanoBreeder</li>
+    </prerequisites>
+    <techLevel>Spacer</techLevel>
+    <researchViewX>8</researchViewX>
+    <researchViewY>2.25</researchViewY>
+  </ResearchProjectDef>
+
+
+  <!--===== Column 9 ====-->
+
+  <!-- Special clothing -->
+  <ResearchProjectDef>
+    <defName>Specialclothing</defName>
+    <label>특수 의류</label>
+    <description>Coming soon - 래비 제국의 스페셜리스트와 기갑 파일럿들이 입는 고성능 슈트와 의류를 연구합니다.</description>
+    <tab>LunarTech</tab>
+      <!-- 6000 -->
+    <baseCost>1</baseCost>
+    <prerequisites>
+      <li>RBMoonsilk</li>
+    </prerequisites>
+    <techLevel>Spacer</techLevel>
+    <researchViewX>9</researchViewX>
+    <researchViewY>2.25</researchViewY>
+  </ResearchProjectDef>
+
+
+  <!-- 래비 정규군 무기체계 -->
+  <ResearchProjectDef>
+    <defName>RBregularweapon</defName>
+    <label>Regulararmy Weapon</label>
+    <description>Coming soon - 래비티시 제국의 정규군이 사용하는 무기체계를 연구합니다. 강력한 하전 에너지탄을 사용합니다.</description>
+    <tab>LunarTech</tab>
+    <baseCost>1</baseCost>
+    <prerequisites>
+      <li>NanoBreeder</li>
+      <li>RBEnergyweapon</li>
+    </prerequisites>
+    <techLevel>Spacer</techLevel>
+    <researchViewX>9</researchViewX>
+    <researchViewY>3.75</researchViewY>
+  </ResearchProjectDef>
+
+  <!--===== Column 10 ====-->
+
+  <!-- 진보된 파워 아머 -->
+  <ResearchProjectDef>
+    <defName>RBpowerarmor</defName>
+    <label>Advanced Power armor</label>
+    <description>래비티시 제국 정규군이 장비하는, 진보된 파워 아머를 연구합니다.</description>
+    <tab>LunarTech</tab>
+    <baseCost>12000</baseCost>
+    <prerequisites>
+      <li>NanoBreeder</li>
+    </prerequisites>
+    <techLevel>Spacer</techLevel>
+    <researchViewX>10</researchViewX>
+    <researchViewY>3.0</researchViewY>
+  </ResearchProjectDef>
+
+  <!-- 초가속 기술 -->
+  <ResearchProjectDef>
+    <defName>RBsuperaccel</defName>
+    <label>Super Acceleration</label>
+    <description>Coming soon - 래비 무기설계국의 최신기술이 집약된 차세대 무기를 연구합니다.</description>
+    <tab>LunarTech</tab>
+    <baseCost>1</baseCost>
+    <prerequisites>
+      <li>RBregularweapon</li>
+    </prerequisites>
+    <techLevel>Spacer</techLevel>
+    <researchViewX>10</researchViewX>
+    <researchViewY>4.5</researchViewY>
+  </ResearchProjectDef>
+
+      <!-- Rabbie Armored weapon  -->
+  <ResearchProjectDef>
+    <defName>RBArmoredweapon</defName>
+    <label>달의 기갑무기</label>
+    <description>Coming soon - 문명화된 적과의 전쟁에 투입되는 파일럿 탑승형 기갑 장비를 연구합니다.</description>
+    <tab>LunarTech</tab>
+    <baseCost>1</baseCost>
+    <prerequisites>
+      <li>RBheavyindustry</li>
+    </prerequisites>
+    <techLevel>Industrial</techLevel>
+    <researchViewX>10</researchViewX>
+    <researchViewY>5.25</researchViewY>
+  </ResearchProjectDef>
+  
+</Defs>

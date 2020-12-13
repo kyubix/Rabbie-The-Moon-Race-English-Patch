@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef ParentName="BodyPartBionicBase">
+		<defName>RB_BionicTail</defName>
+		<label>생체공학 래비 꼬리</label>
+		<description>척추와 신경이 연결된 생체공학 꼬리입니다. 내장된 자이로스코프가 균형과 걸음을 자연스럽게 조정해줍니다.</description>
+		<techLevel>Spacer</techLevel>
+		<costList> 
+			<Plasteel>15</Plasteel>
+			<ComponentSpacer>4</ComponentSpacer>
+		</costList>
+		<statBases>
+			<WorkToMake>26000</WorkToMake>
+			<Mass>5</Mass>
+		</statBases>
+		<techHediffsTags>
+			<li>Advanced</li>
+		</techHediffsTags>
+	</ThingDef>
+
+</Defs>

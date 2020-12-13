@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 래비 속옷 -->
+
+  <RB_Camisole.label>Laby underwear</RB_Camisole.label>
+  <RB_Camisole.description>This is a fiber underwear set with a camisole and panties. If you wear it, you can keep your body clean. Of course, there is no protection at all.</RB_Camisole.description>
+
+
+  <!-- 래비 캐주얼 티셔츠 = 티셔츠+발목 바지 -->
+
+  <RB_CasualTshirt.label>Rabbie casual t-shirt</RB_CasualTshirt.label>
+  <RB_CasualTshirt.description>A comfortable short-sleeved T-shirt and simple pants that reveal the ankles. \n\nThis is the clothes that rabbis wear comfortably indoors..</RB_CasualTshirt.description>
+
+
+  <!-- 래비 실내용 앞치마 -->
+
+  <RB_Apron.label>Laby Indoor Apron</RB_Apron.label>
+  <RB_Apron.description>It is a good apron to wear in front of you and do indoor chores. When doing crafts or cleaning..</RB_Apron.description>
+
+
+  <!-- 래비 토끼후드 바람막이 -->
+
+  <RB_Earjacket.label>Rabbit Hood Windbreaker</RB_Earjacket.label>
+  <RB_Earjacket.description>It is a non-thick, tough windshield with ear hoods. Even if you get caught up in rough work in the back alleys of the city, or in the hot sun, it's perfect to wear..</RB_Earjacket.description>
+
+
+  <!-- 래비 리본셔츠 = 끈리본셔츠 주름치마 오버니 -->
+
+  <RB_Casualribbonshirt.label>Rabbie ribbon shirt</RB_Casualribbonshirt.label>
+  <RB_Casualribbonshirt.description>A shirt and skirt with pretty ribbons and buttons, and over-knee stockings. \n\nIn the city of the moon, this style has long been loved by everyone as everyday wear.</RB_Casualribbonshirt.description>
+
+
+  <!-- 래비 별 점퍼 -->
+
+  <RB_Starjacket.label>Rabbie star jumper</RB_Starjacket.label>
+  <RB_Starjacket.description>It is a warm jumper with a slightly thick lining that is worn when the Moon City gets chilly.\n\nStar-shaped stylish style that is the taste of young rabbis.</RB_Starjacket.description>
+
+
+  <!-- 래비 넥타이셔츠 = 넥타이셔츠 주름치마 맨다리 -->
+
+  <RB_Casualtieshirt.label>Rabbie tie shirt</RB_Casualtieshirt.label>
+  <RB_Casualtieshirt.description>A point-colored tie, a cool short-sleeved shirt, and a mini skirt that reveals the legs.This is a recent trend of the moon city. It is gaining popularity with young rabbies who like stylish styles.</RB_Casualtieshirt.description>
+
+
+  <!-- 래비 블레이저 -->
+
+  <RB_Blazer.label>Laby Blazer</RB_Blazer.label>
+  <RB_Blazer.description>It is a neat blazer that rabbis usually wear in public places.It goes well with a tie.\nIt is also somewhat sturdy.</RB_Blazer.description>
+
+
+  <!-- 래비 여름옷 = 상의+짧바지 -->
+
+  <RB_Summerfit.label>Rabbie summer clothes</RB_Summerfit.label>
+  <RB_Summerfit.description>Cool summer clothes and short pants that reveal the body.The moon city's seasonal circulation system points to summer and wears when the city gets hot.</RB_Summerfit.description>
+
+
+  <!-- 래비 여름 가디건 = 시스루 여름가디건 -->
+
+  <RB_Summerouter.label>Rabbie summer cardigan</RB_Summerouter.label>
+  <RB_Summerouter.description>A thin summer cardigan squeezed out of the moon's synthetic fabric.\n\nThe structure that blocks light and dissipates heat efficiently cools the body even in hot places.</RB_Summerouter.description>
+
+
+  <!-- 래비 흰챙 여름모자 -->
+
+  <RB_Summerhat.label>Rabbi White-brimmed Summer Hat</RB_Summerhat.label>
+  <RB_Summerhat.description>It's a white, wide-brimmed hat that reflects the hot sun.Of course, it's also useful on planets.</RB_Summerhat.description>
+
+
+  <!-- 래비 겨울 스웨터 = 목폴라니트+치마+스타킹 -->
+
+  <RB_Winterknit.label>Rabbie winter sweater</RB_Winterknit.label>
+  <RB_Winterknit.description>Warm knit sweatshirts, thick tights, and fur boots.\n\nThe seasonal circulation system of the moon city points to winter and is the clothes you wear when it snows.</RB_Winterknit.description>
+
+
+  <!-- 래비 겨울극지 파카 = 털달린 파카 -->
+
+  <RB_Winterouter.label>Ravi Winter Polar Parka</RB_Winterouter.label>
+  <RB_Winterouter.description>It is a parka that can withstand extreme extremes when worn. The fillings are really warm.\n\nIt's rare to wear this suit in the Moon City, but when power runs out and even the central air-conditioning system starts to shut down, the temperature of the universe freezes the city.\n I put on a parka and start holding it.</RB_Winterouter.description>
+
+
+  <!-- 래비 겨울 털뭉치모자 -->
+
+  <RB_Winterhat.label>Rabbie Winter Woolen Hat</RB_Winterhat.label>
+  <RB_Winterhat.description>This is a winter hat for cold weather in the moon city. It captures the warmth that escapes through the head and face.\nThere is a fluffy bundle of hair attached to it.</RB_Winterhat.description>
+
+
+  <!-- 금속냄비 -->
+
+  <RB_Metalpot.label>Rabbi Metal Pot</RB_Metalpot.label>
+  <RB_Metalpot.description>It's a metal pot.\n\nIn an emergency, especially when you fall in a hurry to avoid injuring your head, it's a law that you have to turn over whatever you hold in your hand.\n\nIt can be melted and used as scrap metal. There is.</RB_Metalpot.description>
+
+
+  <!-- 래비 멋내기 리본 -->
+
+  <RB_Headribbon.label>Rabbie cool ribbon</RB_Headribbon.label>
+  <RB_Headribbon.description>It's a ribbon to make your hair look nice.\nIf you use leather, you might hear that the taste is unusual among rabbis.</RB_Headribbon.description>
+
+
+  <!-- 래비 패션 모자 -->
+
+  <RB_Fashionhat.label>Rabbie fashion hat</RB_Fashionhat.label>
+  <RB_Fashionhat.description>It's a pretty hat that rabbis use when going out on a picnic or on a date. The filling material inside reduces the external mental effects very slightly.</RB_Fashionhat.description>
+
+
+  <!-- 래비 겨울 목도리 -->
+
+  <RB_Neckscarf.label>Rabbie Winter Shawl</RB_Neckscarf.label>
+  <RB_Neckscarf.description>It's a warm and soft scarf.\nIn the old days, when it was cold and couldn't bear it, I saw pioneering rabbits that I started wearing and everyone followed it.</RB_Neckscarf.description>
+
+
+  <!-- 래비 야전군 전투복 A -->
+
+  <RB_Infantryuniform.label>Rabbie Field Army Combat Suit Type A</RB_Infantryuniform.label>
+  <RB_Infantryuniform.description>It is a type A combat suit of the field army consisting of citizens of the Rabitish Empire.\n\nThe camouflage pattern guarantees a certain degree of low visibility in the plains and mountains of the planet, as well as in the desert and polar regions, and provides protection against harsh activities.</RB_Infantryuniform.description>
+
+
+  <!-- 래비 야전군 전투복 B -->
+
+  <RB_Infantrynewuniform.label>Rabbie Field Army Combat Suit Type B</RB_Infantrynewuniform.label>
+  <RB_Infantrynewuniform.description>It is the B-type combat suit of the field army consisting of citizens of the Rabitish Empire.\n\nThere is no significant difference from the A-type, but the carbon fiber tights in the bottoms are more comfortable to move.</RB_Infantrynewuniform.description>
+
+
+  <!-- 래비 야전군 방탄재킷 -->
+
+  <RB_Infantryvest.label>Rabbie Field Army Bulletproof Jacket</RB_Infantryvest.label>
+  <RB_Infantryvest.description>It is a bulletproof jacket of the Rabitish field army. The plate carrier contains a composite bulletproof plate.\n\nIt is an old-fashioned combat equipment in the empire, but it has a lot of bulletproof performance to be used against natives and miscellaneous people in the empire.\n\nAmmunition box that aids in quick reloading, This set includes a heating device that maintains the user's body temperature, and an empty kit for storing food, sleeping bags, and equipment during long-distance expeditions.</RB_Infantryvest.description>
+
+
+  <!-- 래비티시 야전군 방탄헬멧 -->
+
+  <RB_Infantryhelmet.label>Rabbi Field Army Bulletproof Helmet</RB_Infantryhelmet.label>
+  <RB_Infantryhelmet.description>It is a standard bulletproof helmet for the Rabbie Field Army.\n\nIt is equipped with a transceiver capable of communicating with squad members and optical equipment to aid aiming.</RB_Infantryhelmet.description>
+
+
+  <!-- 래비 정규군 파워슈트 -->
+
+  <RB_RegularInfantrySuit.label>Rabbie Regular Army Power Armor</RB_RegularInfantrySuit.label>
+  <RB_RegularInfantrySuit.description>It is a power armor that is the symbol of the regular army of the ravity empire.\n\nThe reflective coated armor covering the entire body resists even energy bullets, and the high-power power source and operational performance, and the reloading assistance system quickly project the firepower of the weapon Help. The survivability of extreme conditions has also been greatly increased.\n\nAlthough power armor is used on civilized planets and many spaces, the ones of the ravity empire have been completed in a more advanced form with several wars and high technology.\n\n ★Cannot be worn with field military uniforms.</RB_RegularInfantrySuit.description>
+
+
+  <!-- 래비 정규군 파워헬멧 -->
+
+  <RB_RegularInfantryhelmet.label>Rabbie Regular Army Power Helmet</RB_RegularInfantryhelmet.label>
+  <RB_RegularInfantryhelmet.description>This helmet is fitted to the power armor of the regular army of the Ravity Empire.\n\nThis helmet, which is integrated with the suit gloves, seals the head, and the internal indicator indicates the enemy you are seeing as well as the targets acquired by the regiment members. Helps aim</RB_RegularInfantryhelmet.description>
+
+
+  <!-- 래비 실무장교 제복 -->
+
+  <RB_Subofficer.label>Laby Officer Uniform</RB_Subofficer.label>
+  <RB_Subofficer.description>This uniform is worn by officers in charge of commanding, supplying, and managing a field army composed of citizens. There is a sense of dignity that makes you follow the people around you.\n\nPractical officers usually work with the field forces of the planetarium production facility. Rabbi officers are the backbone of the envy of the empire's military profession and are envied by everyone.</RB_Subofficer.description>
+
+
+  <!-- 래비 실무장교 베레모 -->
+
+  <RB_Subofficerhat.label>Laby Officer Beret</RB_Subofficerhat.label>
+  <RB_Subofficerhat.description>It is a beret used by rabbie officers. I feel a sense of responsibility as an officer.\n\nWholesalers and merchants in the universe will also give you a price advantage because they know they're executing large sums.</RB_Subofficerhat.description>
+
+
+  <!-- 래비 고위장교 지휘복 -->
+
+  <RB_SeniorOfficer.label>Rabbie Senior Officer Command Uniform</RB_SeniorOfficer.label>
+  <RB_SeniorOfficer.description>It is a command uniform worn by high-ranking officers of the Rabitic Empire, skilled in strategy and negotiation. They will follow and listen to those around you.\n\nAs seen in the medals and medals, the rabbis in these clothes are the only ones who have achieved limited achievements in the Empire. They are usually responsible for one continent or planet, and they project regular forces from the head quarter or fleet. From Empress, you will be given a sword used for command.</RB_SeniorOfficer.description>
+
+
+  <!-- 래비 고위장교 망토 -->
+
+  <RB_HighCloak.label>Rabbie High Officer Cloak</RB_HighCloak.label>
+  <RB_HighCloak.description>This is the cloak of high-ranking Rabbie officers. You will be reminded of the overbearing of others, the patience of yourself, and your responsibilities.</RB_HighCloak.description>
+
+
+  <!-- 래비 고위장교 지휘모 -->
+
+  <RB_SeniorOfficerhat.label>Rabbie Senior Officer Command Hat</RB_SeniorOfficerhat.label>
+  <RB_SeniorOfficerhat.description>This is the commanding cap of the high-ranking Labitishi officer. \n\nThe imperial crest and the weight of the hat symbolize the authority and the corresponding responsibility.</RB_SeniorOfficerhat.description>
+
+
+  <!-- 래비 전력관리국 직원정장 -->
+
+  <RB_Energymanager.label>Rabbie Electric Power Management Bureau Staff Suit</RB_Energymanager.label>
+  <RB_Energymanager.description>A suit of the staff of the Labitish Empire Power Management Bureau featuring a blue tie. In tight skirts and shirts, there are holsters that allow you to quickly take out your weapon.\n\nThe power management staff are scientists, and sometimes with soldiers, they carry weapons to protect the planet's power plants and facilities from vicious natives. Field agent.</RB_Energymanager.description>
+
+
+  <!-- 래비 전력관리국 과학자 가운 -->
+
+  <RB_Energygown.label>Laby Electric Power Authority scientist gown</RB_Energygown.label>
+  <RB_Energygown.description>It is a gown worn by scientists at the Labity City Power Authority. It aids in research and prevents contamination from the synthesis of planetarium drugs.\nSince most of these are major facilities, they carry an employee ID around their neck.</RB_Energygown.description>
+
+
+  <!-- 래비 의사 진료가운 -->
+
+  <RB_Inteligown.label>Laby Doctor Gown</RB_Inteligown.label>
+  <RB_Inteligown.description>It is a gown worn by rabbie doctors over their clothes. Cleanliness prevents infection of the wound and also prevents contamination from drug synthesis.\nPatients will also be relieved to see the doctor in white, neat clothes.</RB_Inteligown.description>
+
+
+  <!-- 래비 인텔리 안경 -->
+
+  <RB_Glasses.label>Laby Intelli glasses</RB_Glasses.label>
+  <RB_Glasses.description>They are round glasses that make you look intelligent even if you wear them.\n\nEven when a rabbi scientist looks at a small report in a lab, or when a doctor performs surgery, it allows you to see things in detail and clearly, improving efficiency.</RB_Glasses.description>
+
+
+  <!-- 래비 요리사옷 -->
+
+  <RB_Cookwear.label>Laby Chef Clothes</RB_Cookwear.label>
+  <RB_Cookwear.description>It's the clothes that rabbis wear when cooking.\nThe ravity empire hasn't developed much cooking, but there are chefs anyway.</RB_Cookwear.description>
+
+
+  <!-- 래비 요리모자 -->
+
+  <RB_Cookhat.label>Rabbi Cooking Hat</RB_Cookhat.label>
+  <RB_Cookhat.description>It is a hat for cooking It's neat and hygienic, so it can reduce food poisoning.\n\nIt even has a sophisticated look that looks like a craftsman.</RB_Cookhat.description>
+
+
+  <!-- 래비 기술자 점프슈트 -->
+
+  <RB_Technician.label>Ravi Technician Jumpsuit</RB_Technician.label>
+  <RB_Technician.description>It is a jumpsuit worn by field technicians. It is also useful when making machines, dismantling efficiently, and cutting.</RB_Technician.description>
+
+
+  <!-- 래비 노동자 작업복 -->
+
+  <RB_Handygirl.label>Laby Worker Workwear</RB_Handygirl.label>
+  <RB_Handygirl.description>It is the clothes worn by the laborers of the Labitish Empire.\nThe tough synthetic fabric allows you to work without scratching your body. Convenient extension belt can also be attached</RB_Handygirl.description>
+
+
+  <!-- 래비 안전모 -->
+
+  <RB_Safehelmet.label>Rabbie hard hat</RB_Safehelmet.label>
+  <RB_Safehelmet.description>Both technicians, workers, and hard hats must be worn.\n\nYou can reduce the worries about the danger and make the work fast.</RB_Safehelmet.description>
+
+
+</LanguageData>

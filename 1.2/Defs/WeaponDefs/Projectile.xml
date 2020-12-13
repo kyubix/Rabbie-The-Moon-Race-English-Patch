@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+    <ThingDef ParentName="BaseGrenadeProjectile">
+    <defName>Proj_RBHEShell</defName>
+    <label>Throw HE Shell</label>
+    <thingClass>Projectile_Explosive</thingClass>
+    <graphicData> 
+      <texPath>Things/Projectile/Shell_HighExplosive</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <explosionRadius >2.9</explosionRadius>
+      <damageDef>Bomb</damageDef>
+      <damageAmountBase>50</damageAmountBase>
+      <explosionDelay>0</explosionDelay>
+    </projectile>
+  </ThingDef>
+
+</Defs>

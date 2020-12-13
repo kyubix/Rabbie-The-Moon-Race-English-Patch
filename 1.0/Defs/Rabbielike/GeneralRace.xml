@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <AlienRace.ThingDef_AlienRace ParentName="RB_PawnBase">
+    <defName>Rabbie</defName>
+    <label>Rabbie</label>
+    <description>토끼의 유전자를 가진, 전쟁과 건설에 능숙한 달 도시의 주민들입니다.\n\n거의 번화계 수준에 다다른 기술로 여러 우주로 이주해 다니며, 플라네타륨이 분포하는 행성을 찾아 그 달에 도시를 건설하고 있습니다. \n\n먼 거리로 인해 이전 우주의 래비들과는 단절됩니다.</description>
+    <alienRace>
+		<generalSettings>
+			<maleGenderProbability>0.01</maleGenderProbability>
+			<useOnlyPawnkindBackstories>true</useOnlyPawnkindBackstories>
+			<immuneToAge>false</immuneToAge>
+      <humanRecipeImport>true</humanRecipeImport>
+      <canLayDown>true</canLayDown>
+			<maxDamageForSocialfight>6</maxDamageForSocialfight>
+      <immuneToXenophobia>false</immuneToXenophobia>
+      <disallowedTraits>
+        <li>CreepyBreathing</li>
+      </disallowedTraits>
+
+      <chemicalSettings>
+        <li>
+          <chemical>Planetarium</chemical>
+          <reactions>
+            <li Class="IngestionOutcomeDoer_GiveHediff">
+              <hediffDef>Whisperofplanet</hediffDef>
+              <chance>0.07</chance>
+              <doToGeneratedPawnIfAddicted>false</doToGeneratedPawnIfAddicted>
+            </li>
+          </reactions>
+        </li>
+      </chemicalSettings>
+
+<!--=파트제네레이터==========================================================================================-->
+      <alienPartGenerator>
+        <aliencrowntypes>
+          <li>Custom_1</li>
+          <li>Custom_2</li>
+          <li>Custom_3</li>
+          <li>Custom_4</li>
+          <li>Custom_5</li>
+          <li>Custom_6</li>
+          <li>Custom_7</li>
+          <li>Custom_8</li>
+          <li>Custom_9</li>
+          <li>Custom_10</li>
+          <li>Custom_11</li>
+          <li>Custom_12</li>
+        </aliencrowntypes>
+        <alienbodytypes>
+            <li>Thin</li>
+        </alienbodytypes>
+        <headOffset>(0.0, -0.05)</headOffset>
+        <useGenderedHeads>false</useGenderedHeads>
+        <useGenderedBodies>false</useGenderedBodies>
+        <!-- 신체 드로잉 크기 -->
+        <customDrawSize>(1.0, 1.0)</customDrawSize>
+        <customHeadDrawSize>(1.0, 1.0)</customHeadDrawSize>
+        <customPortraitDrawSize>(1.1, 1.1)</customPortraitDrawSize>
+        <!--스킨컬러-->
+        <alienskincolorgen Class="ColorGenerator_Options">
+          <options>
+            <li>
+              <weight>1</weight>
+              <only>RGBA(1.0,1.0,1.0,1)</only>
+            </li> 
+          </options>
+        </alienskincolorgen>
+        <!--헤어컬러-->
+        <alienhaircolorgen Class="ColorGenerator_Options">
+          <options>
+            <!--====================마이너================== -->
+
+            <!-- 골드로즈(레드-밝은 연한) -->
+            <li>
+              <weight>4</weight>
+              <min>(0.71,0.45,0.27)</min>
+              <max>(0.71,0.60,0.53)</max>
+            </li>
+            <!-- 다크 로즈 -->
+            <!-- <li>
+              <weight>3</weight>
+              <min>(0.67,0.12,0.12)</min>
+              <max>(0.67,0.18,0.24)</max>
+            </li>-->
+            <!-- 연보라 -->
+            <li>
+              <weight>4</weight>
+              <min>(0.88,0.73,1.0)</min>
+              <max>(0.92,0.81,1.0)</max>
+            </li>
+            <!-- 물색-하늘색 -->
+            <li>
+              <weight>4</weight>
+              <min>(0,0.76,1.0)</min>
+              <max>(0.47,0.88,1.0)</max>
+            </li>
+            <!-- 화이트 -->
+            <li>
+              <weight>2</weight>
+              <min>(0.9,0.9,0.9)</min>
+              <max>(0.9,0.9,0.9)</max>
+            </li>
+
+            <!-- ===================메이저================== -->
+
+            <!-- 챠콜블랙 -->
+            <li>
+              <weight>7</weight>
+              <min>(0.36,0.36,0.36)</min>
+              <max>(0.36,0.36,0.36)</max>
+            </li>
+            <!-- 밝은 코코아SA -->
+            <li>
+              <weight>15</weight>
+              <min>(0.71,0.45,0.27)</min>
+              <max>(0.71,0.60,0.53)</max>
+            </li>
+            <!-- 브라운BR -->
+            <li>
+              <weight>15</weight>
+              <min>(0.49,0.24,0.0)</min>
+              <max>(0.71,0.33,0.0)</max>
+            </li>
+            <!-- 골드 블론드 -->
+            <li>
+              <weight>10</weight>
+              <min>(0.87,0.59,0.0)</min>
+              <max>(0.87,0.67,0.25)</max>
+            </li>
+            
+            <!-- 화이트 블론드 -->
+            <li>
+              <weight>10</weight>
+              <min>(0.95,0.80,0.45)</min>
+              <max>(0.95,0.88,0.72)</max>
+            </li>
+            
+            <!-- 슈가애쉬 -->
+            <li>
+              <weight>5</weight>
+              <min>(0.54,0.51,0.51)</min>
+              <max>(0.61,0.57,0.57)</max>
+            </li>
+          </options>
+        </alienhaircolorgen>
+        <useSkincolorForHair>false</useSkincolorForHair>
+        
+        <!-- 신체 부착물 -->
+            <bodyAddons>
+              <!-- 꼬리 -->
+              <li>
+                <drawSize>1</drawSize>
+                <path>Rabbielike/Tails/RBTail</path>
+                <bodyPart>tail</bodyPart>
+                <inFrontOfBody>false</inFrontOfBody>
+                <useSkinColor>true</useSkinColor>
+                <offsets>
+                  <south>
+                    <bodyTypes>
+                      <Thin>(0,0.55)</Thin>
+                    </bodyTypes>
+                  </south>
+                  <north>
+                    <bodyTypes>
+                      <Thin>(0,0.55)</Thin>
+                    </bodyTypes>
+                  </north>
+                  <east>
+                    <bodyTypes>
+                      <Thin>(-0.41,0.24)</Thin>
+                    </bodyTypes>
+                  </east>
+                </offsets>
+              </li>
+              <!--왼쪽귀A-->
+              <li>
+                <path>Rabbielike/Ear/RBEarLA</path>
+                <bodyPart>left ear</bodyPart>
+                <inFrontOfBody>true</inFrontOfBody>
+                <useSkinColor>true</useSkinColor>
+                <drawSize>1</drawSize>
+                <angle>0</angle>
+                <offsets>
+                  <south>
+                    <bodyTypes>
+                      <Thin>(-0.415,0.51)</Thin>
+                    </bodyTypes>
+                  </south>
+                  <north>
+                    <bodyTypes>
+                      <Thin>(-0.0,0.78)</Thin>
+                    </bodyTypes>
+                  </north>
+                  <east>
+                    <bodyTypes>
+                      <Thin>(-0.52,0.50)</Thin>
+                    </bodyTypes>
+                  </east>
+                </offsets>
+              </li>
+              <!--왼쪽귀B-->
+              <li>
+                <path>Rabbielike/Ear/RBEarLB</path>
+                <bodyPart>left ear</bodyPart>
+                <inFrontOfBody>false</inFrontOfBody>
+                <useSkinColor>true</useSkinColor>
+                <drawSize>1</drawSize>
+                <angle>0</angle>
+                <offsets>
+                  <south>
+                    <bodyTypes>
+                      <Thin>(-0.42,0.50)</Thin>
+                    </bodyTypes>
+                  </south>
+                  <north>
+                    <bodyTypes>
+                      <Thin>(-0.0,0.78)</Thin>
+                    </bodyTypes>
+                  </north>
+                  <east>
+                    <bodyTypes>
+                      <Thin>(-0.53,0.50)</Thin>
+                    </bodyTypes>
+                  </east>
+                </offsets>
+              </li>
+              <!--오른쪽귀A-->
+              <li>
+                <path>Rabbielike/Ear/RBEarRA</path>
+                <bodyPart>right ear</bodyPart>
+                <inFrontOfBody>true</inFrontOfBody>
+                <useSkinColor>true</useSkinColor>
+                <drawSize>1</drawSize>
+                <angle>0</angle>
+                <offsets>
+                  <south>
+                    <bodyTypes>
+                      <Thin>(-0.425,0.51)</Thin>
+                    </bodyTypes>
+                  </south>
+                  <north>
+                    <bodyTypes>
+                      <Thin>(-0.0,0.78)</Thin>
+                    </bodyTypes>
+                  </north>
+                  <east>
+                    <bodyTypes>
+                      <Thin>(-0.52,0.50)</Thin>
+                    </bodyTypes>
+                  </east>
+                </offsets>
+              </li>
+              <!--오른쪽귀B-->
+              <li>
+                <path>Rabbielike/Ear/RBEarRB</path>
+                <bodyPart>right ear</bodyPart>
+                <inFrontOfBody>false</inFrontOfBody>
+                <useSkinColor>true</useSkinColor>
+                <drawSize>1</drawSize>
+                <angle>0</angle>
+                <offsets>
+                  <south>
+                    <bodyTypes>
+                      <Thin>(-0.42,0.50)</Thin>
+                    </bodyTypes>
+                  </south>
+                  <north>
+                    <bodyTypes>
+                      <Thin>(-0.0,0.78)</Thin>
+                    </bodyTypes>
+                  </north>
+                  <east>
+                    <bodyTypes>
+                      <Thin>(-0.53,0.50)</Thin>
+                    </bodyTypes>
+
+                  </east>
+                </offsets>
+              </li>
+        </bodyAddons>
+		  </alienPartGenerator>
+      
+    </generalSettings>
+      
+<!--텍스처경로-->
+        <graphicPaths>
+            <li>
+                <head>Rabbielike/Heads/</head>
+                <body>Rabbielike/Bodies/</body>
+                <skeleton>Things/Pawn/Humanlike/Bodies/Dessicated/Dessicated_Thin</skeleton>
+            </li>
+        </graphicPaths>
+      
+        <hairSettings>
+            <hasHair>true</hasHair>
+            <hairTags>
+                <li>RBhair</li>
+            </hairTags>
+        </hairSettings>
+      
+      <relationSettings>
+
+      </relationSettings>
+      
+      <thoughtSettings>
+        
+        
+      </thoughtSettings>
+      
+      
+<!--=============================================================================================================================-->
+      <raceRestriction>
+        <onlyUseRaceRestrictedApparel>false</onlyUseRaceRestrictedApparel>
+            <apparelList>
+              <li>RB_Apron</li>
+              <li>RB_Blazer</li>
+              <li>RB_Camisole</li>
+              <li>RB_Casualribbonshirt</li>
+              <li>RB_Casualtieshirt</li>
+              <li>RB_CasualTshirt</li>
+              <li>RB_Cookhat</li>
+              <li>RB_Cookwear</li>
+              <li>RB_Earjacket</li>
+              <li>RB_Energygown</li>
+              <li>RB_Energymanager</li>
+              <li>RB_Fashionhat</li>
+              <li>RB_Glasses</li>
+              <li>RB_Handygirl</li>
+              <li>RB_Headribbon</li>
+              <li>RB_HighCloak</li>
+              <li>RB_Infantryhelmet</li>
+              <li>RB_Infantrynewuniform</li>
+              <li>RB_Infantryuniform</li>
+              <li>RB_Infantryvest</li>
+              <li>RB_Inteligown</li>
+              <li>RB_Metalpot</li>
+              <li>RB_Neckscarf</li>
+              <li>RB_RegularInfantryhelmet</li>
+              <li>RB_RegularInfantrySuit</li>
+              <li>RB_Safehelmet</li>
+              <li>RB_SeniorOfficer</li>
+              <li>RB_SeniorOfficerhat</li>
+              <li>RB_Starjacket</li>
+              <li>RB_Subofficer</li>
+              <li>RB_Subofficerhat</li>
+              <li>RB_Summerfit</li>
+              <li>RB_Summerhat</li>
+              <li>RB_Summerouter</li>
+              <li>RB_Technician</li>
+              <li>RB_Winterhat</li>
+              <li>RB_Winterknit</li>
+              <li>RB_Winterouter</li>
+
+
+
+              <li>RK_ApronSkirt</li>
+              <li>RK_SummerDress</li>
+              <li>RK_StrawHat</li>
+              <li>RK_Muffler</li>
+              <li>RK_CrossBack</li>
+              <li>RK_Cardigan</li>
+              <li>RK_WoolenHat</li>
+              <li>RK_Backpack</li>
+              <li>RK_WorkerWear</li>
+              <li>RK_Coif</li>
+              <li>RK_ResearchGown</li>
+              <li>RK_ResearchGlasses</li>
+              <li>RK_ExplorerWear</li>
+              <li>RK_ExplorerHat</li>
+              <li>RK_ChefSuit</li>
+              <li>RK_ChefHat</li>
+              <li>RK_GaurdenUniform</li>
+              <li>RK_WinterRobe</li>
+              <li>RK_OutdoorBackpack</li>
+              <li>RK_OrderUniform</li>
+              <li>RK_BulletProofHelmet</li>
+              <li>RK_FlatColorCoat</li>
+              <li>RK_FrillOnepiece</li>
+              <li>RK_HairCorsage</li>
+              <li>RK_RibbonHairBand</li>
+              <li>RK_SistersDerss</li>
+              <li>RK_SistersVeil</li>
+
+              <li>RK_Sack</li>
+              <li>RK_BattleSuit</li>
+              <li>RK_Mask</li>
+              <li>RK_HeadBand</li>
+
+              <li>RK_Plate</li>
+              <li>RK_PlateHelm</li>
+
+
+              <li>RK_SantaRobe</li>
+              <li>RK_SantaHat</li>
+              <li>RK_SantaSack</li>
+            </apparelList>
+			    <whiteApparelList>
+		    	</whiteApparelList>
+            <buildingList>
+              
+            </buildingList>
+        </raceRestriction>
+	</alienRace>
+<!--=============================================================================================================================-->
+    <statBases>
+	<!--기본-->
+      <MarketValue>2000</MarketValue>
+      <Flammability>1</Flammability>
+      <MoveSpeed>4.85</MoveSpeed>
+	  <MentalBreakThreshold>0.1</MentalBreakThreshold>
+      <ComfyTemperatureMax>26</ComfyTemperatureMax>
+      <ComfyTemperatureMin>16</ComfyTemperatureMin>
+	  <ImmunityGainSpeed>1.0</ImmunityGainSpeed>
+	  <CarryingCapacity>75</CarryingCapacity>
+	  <MeatAmount>60</MeatAmount>
+      <LeatherAmount>50</LeatherAmount>
+      <Mass>55</Mass>
+	  <PainShockThreshold>0.80</PainShockThreshold>
+    <PsychicSensitivity>1.2</PsychicSensitivity>
+  <!-- 전투 -->
+      <MeleeDodgeChance>0.9</MeleeDodgeChance>
+      <MeleeHitChance>0.8</MeleeHitChance>
+      <AimingDelayFactor>0.8</AimingDelayFactor>
+      <ShootingAccuracyPawn>1.2</ShootingAccuracyPawn>
+	<!--사교-->
+	  <NegotiationAbility>1.0</NegotiationAbility> <!--외교 영향력-->
+	  <SellPriceFactor>1.0</SellPriceFactor> <!--거래 가격 개선-->
+	  <SocialImpact>1.0</SocialImpact> <!--사회적 영향력-->
+	<!--제작-->
+	  <ButcheryMechanoidEfficiency>1.0</ButcheryMechanoidEfficiency> <!--메카노이드 분해 효율-->
+	  <ButcheryMechanoidSpeed>1.0</ButcheryMechanoidSpeed> <!--메카노이드 분해 속도-->
+	  <SmeltingSpeed>1.0</SmeltingSpeed> <!--금속 제련 속도-->
+	  <SmithingSpeed>1.0</SmithingSpeed> <!--제련 속도-->
+	  <TailoringSpeed>1.0</TailoringSpeed> <!--재단 속도-->
+	<!--조리-->
+	  <ButcheryFleshEfficiency>1.0</ButcheryFleshEfficiency> <!--도축 효율-->
+	  <ButcheryFleshSpeed>1.0</ButcheryFleshSpeed> <!--도축 속도-->
+	  <FoodPoisonChance>1.0</FoodPoisonChance> <!--식중독 확률-->
+	  <CookSpeed>1.0</CookSpeed> <!--조리 속도-->
+	<!--수면-->
+	  <RestRateMultiplier>1.0</RestRateMultiplier>
+	<!--재배-->
+	  <PlantWorkSpeed>1.0</PlantWorkSpeed>
+  <!--의학및연구-->
+    <ResearchSpeed>1.2</ResearchSpeed>  <!--연구 속도-->
+    <MedicalTendQuality>1.1</MedicalTendQuality>
+    <DrugSynthesisSpeed>1.2</DrugSynthesisSpeed>
+    <MedicalSurgerySuccessChance>1.2</MedicalSurgerySuccessChance>
+  <!--채굴-->
+   	<MiningSpeed>0.8</MiningSpeed>
+		<MiningYield>1.0</MiningYield>
+      
+      
+    </statBases>
+<!--==맨손전투===================================================================================================================-->
+    <tools>
+      <li>
+        <label>left fist</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>6</power>
+        <cooldownTime>1.6</cooldownTime>
+        <linkedBodyPartsGroup>LeftHand</linkedBodyPartsGroup>
+        <surpriseAttack>
+          <extraMeleeDamages>
+            <li>
+              <def>Blunt</def>
+              <amount>10</amount>
+            </li>
+          </extraMeleeDamages>
+        </surpriseAttack>
+      </li>
+      <li>
+        <label>right fist</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>6</power>
+        <cooldownTime>1.6</cooldownTime>
+        <linkedBodyPartsGroup>RightHand</linkedBodyPartsGroup>
+        <surpriseAttack>
+          <extraMeleeDamages>
+            <li>
+              <def>Stun</def>
+              <amount>10</amount>
+            </li>
+          </extraMeleeDamages>
+        </surpriseAttack>
+      </li>
+      <li>
+        <label>Teeth</label>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <power>10</power>
+        <cooldownTime>1.6</cooldownTime>
+        <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+        <surpriseAttack>
+          <extraMeleeDamages>
+            <li>
+              <def>Bite</def>
+              <amount>20</amount>
+            </li>
+          </extraMeleeDamages>
+        </surpriseAttack>
+        <chanceFactor>0.4</chanceFactor>
+      </li>
+    </tools>
+<!--=============================================================================================================================-->
+    <race>
+      <thinkTreeMain>Humanlike</thinkTreeMain>
+      <thinkTreeConstant>HumanlikeConstant</thinkTreeConstant>
+      <intelligence>Humanlike</intelligence>
+      <makesFootprints>true</makesFootprints>
+      <lifeExpectancy>80</lifeExpectancy>
+      <leatherDef>Leather_Human</leatherDef>
+      <nameCategory>HumanStandard</nameCategory>
+      <hasGenders>true</hasGenders>
+	    <body>Rabbie</body>
+      <baseBodySize>0.9</baseBodySize>
+      <baseHealthScale>1</baseHealthScale>
+      <foodType>OmnivoreHuman</foodType>
+      <gestationPeriodDays>30</gestationPeriodDays>
+      <litterSizeCurve>
+				<points>
+          <li>(0.5, 0)</li>
+					<li>(1, 0.50)</li>
+					<li>(2, 0.30)</li>
+					<li>(3, 0.10)</li>
+					<li>(4, 0.10)</li>
+          <li>(5, 0)</li>
+				</points>
+      </litterSizeCurve>
+      <lifeStageAges>
+        <li>
+          <def>HumanlikeBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>HumanlikeToddler</def>
+          <minAge>1.2</minAge>
+        </li>
+        <li>
+          <def>HumanlikeChild</def>
+          <minAge>4</minAge>
+        </li>
+        <li>
+          <def>HumanlikeTeenager</def>
+          <minAge>12</minAge>
+        </li>
+        <li>
+          <def>HumanlikeAdult</def>
+          <minAge>16</minAge>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_Punch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_Punch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_Punch_Miss</soundMeleeMiss>
+      <specialShadowData>
+        <volume>(0.3, 0.8, 0.4)</volume>
+        <offset>(0,0,-0.3)</offset>
+      </specialShadowData>
+      <ageGenerationCurve>
+        <points>
+          <li>(14,0)</li>
+          <li>(16,40)</li>
+          <li>(18,70)</li>
+          <li>(22,100)</li>
+          <li>(30,20)</li>
+          <li>(60,3)</li>
+          <li>(80,0)</li>
+        </points>
+      </ageGenerationCurve>
+      <hediffGiverSets>
+        <li>OrganicStandard</li>
+      </hediffGiverSets>
+    </race>
+<!--=============================================================================================================================-->
+    <recipes>
+      <li>InstallArchotechEye</li>
+      <li>InstallArchotechArm</li>
+      <li>InstallArchotechLeg</li>
+      <li>InstallPowerClaw</li>
+      <li>InstallBionicEye</li>
+      <li>InstallBionicArm</li>
+      <li>InstallBionicLeg</li>
+      <li>InstallBionicSpine</li>
+      <li>InstallBionicHeart</li>
+      <li>InstallBionicStomach</li>
+      <li>InstallBionicEar</li>
+      <li>RB_InstallBionicTail</li>
+      <li>InstallSimpleProstheticArm</li>
+      <li>InstallSimpleProstheticLeg</li>
+      <li>InstallSimpleProstheticHeart</li>
+      <li>InstallCochlearImplant</li>
+      <li>InstallPegLeg</li>
+      <li>InstallWoodenFoot</li>
+      <li>InstallDenture</li>
+      <li>InstallJoywire</li>
+      <li>InstallPainstopper</li>
+      <li>InstallNaturalHeart</li>
+      <li>InstallNaturalLung</li>
+      <li>InstallNaturalKidney</li>
+      <li>InstallNaturalLiver</li>
+      <li>ExciseCarcinoma</li>
+      <li>AdministerMechSerumHealer</li>
+      <li>RemoveBodyPart</li>
+      <li>Euthanize</li>
+      <li>Anesthetize</li>
+    </recipes>
+</AlienRace.ThingDef_AlienRace>
+</Defs>

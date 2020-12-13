@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <HairDef>
+    <defName>RBhair_A</defName>
+    <label>RB_A</label>
+    <hairGender>Any</hairGender>
+    <texPath>Rabbielike/Hairs/RBhair_A</texPath>
+    <hairTags>
+      <li>RBhair</li>
+    </hairTags>
+  </HairDef>
+
+  <HairDef>
+		<defName>RBhair_B</defName>
+		<label>RB_B</label>
+		<hairGender>Any</hairGender>
+		<texPath>Rabbielike/Hairs/RBhair_B</texPath>
+		<hairTags>
+			<li>RBhair</li>
+		</hairTags>
+	</HairDef>
+
+  <HairDef>
+    <defName>RBhair_C</defName>
+    <label>RB_C</label>
+    <hairGender>Any</hairGender>
+    <texPath>Rabbielike/Hairs/RBhair_C</texPath>
+    <hairTags>
+      <li>RBhair</li>
+    </hairTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>RBhair_D</defName>
+    <label>RB_D</label>
+    <hairGender>Any</hairGender>
+    <texPath>Rabbielike/Hairs/RBhair_D</texPath>
+    <hairTags>
+      <li>RBhair</li>
+    </hairTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>RBhair_E</defName>
+    <label>RB_E</label>
+    <hairGender>Any</hairGender>
+    <texPath>Rabbielike/Hairs/RBhair_E</texPath>
+    <hairTags>
+      <li>RBhair</li>
+    </hairTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>RBhair_F</defName>
+    <label>RB_F</label>
+    <hairGender>Any</hairGender>
+    <texPath>Rabbielike/Hairs/RBhair_F</texPath>
+    <hairTags>
+      <li>RBhair</li>
+    </hairTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>RBhair_G</defName>
+    <label>RB_G</label>
+    <hairGender>Any</hairGender>
+    <texPath>Rabbielike/Hairs/RBhair_G</texPath>
+    <hairTags>
+      <li>RBhair</li>
+    </hairTags>
+  </HairDef>
+
+
+  <HairDef>
+    <defName>RBhair_H</defName>
+    <label>RB_H</label>
+    <hairGender>Any</hairGender>
+    <texPath>Rabbielike/Hairs/RBhair_H</texPath>
+    <hairTags>
+      <li>RBhair</li>
+    </hairTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>RBhair_I</defName>
+    <label>RB_I</label>
+    <hairGender>Any</hairGender>
+    <texPath>Rabbielike/Hairs/RBhair_I</texPath>
+    <hairTags>
+      <li>RBhair</li>
+    </hairTags>
+  </HairDef>
+
+
+  <HairDef>
+    <defName>RBhair_J</defName>
+    <label>RB_J</label>
+    <hairGender>Any</hairGender>
+    <texPath>Rabbielike/Hairs/RBhair_J</texPath>
+    <hairTags>
+      <li>RBhair</li>
+    </hairTags>
+  </HairDef>
+
+
+  <HairDef>
+    <defName>RBhair_K</defName>
+    <label>RB_K</label>
+    <hairGender>Any</hairGender>
+    <texPath>Rabbielike/Hairs/RBhair_K</texPath>
+    <hairTags>
+      <li>RBhair</li>
+    </hairTags>
+  </HairDef>
+
+
+  <HairDef>
+    <defName>RBhair_L</defName>
+    <label>RB_L</label>
+    <hairGender>Any</hairGender>
+    <texPath>Rabbielike/Hairs/RBhair_L</texPath>
+    <hairTags>
+      <li>RBhair</li>
+    </hairTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>RBhair_M</defName>
+    <label>RB_M</label>
+    <hairGender>Any</hairGender>
+    <texPath>Rabbielike/Hairs/RBhair_M</texPath>
+    <hairTags>
+      <li>RBhair</li>
+    </hairTags>
+  </HairDef>
+
+</Defs>
