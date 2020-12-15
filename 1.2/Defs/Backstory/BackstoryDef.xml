@@ -1659,7 +1659,7 @@
   <defName>Rabbie_PetshopKP</defName>
   <title>Rabbie Petshop keeper</title>
   <titleShort>Petshop Keeper</titleShort>
-  <baseDescription>[PAWN_nameDef]은 부모님이 전쟁에서 목숨을 잃어 펫샵을 물려받은 아이였습니다. 강아지나 고양이는 물론이고 파충류와 설치류들을 돌보는데 능숙했습니다. 영업도 잘하는 편이었지요.</baseDescription>
+  <baseDescription>[PAWN_nameDef]Was a child whose parents inherited a pet shop after losing their lives in the war. He was good at caring for reptiles and rodents as well as dogs and cats. I was also good at sales.</baseDescription>
 
   <slot>Childhood</slot>
   <skillGains>

@@ -3,387 +3,387 @@
 
   <!-- 래비 이주선 고아 -->
 
-  <Rabbie_Shiporphan.title>래비 이주선 고아</Rabbie_Shiporphan.title>
-  <Rabbie_Shiporphan.titleShort>고아</Rabbie_Shiporphan.titleShort>
-  <Rabbie_Shiporphan.baseDescription>[PAWN_nameDef]은 외우주로 이주하는 날에, 가족과 다른 이주선에 태워지고 말았습니다. 새로운 달에서 깨어난 [PAWN_pronoun]은 생존을 위해 주로 도시 건설에 참여하고 급여를 받았습니다. 일은 고되고 가족들은 영영 볼 수 없었지만 [PAWN_pronoun]은 적응하고 있었습니다.</Rabbie_Shiporphan.baseDescription>
+  <Rabbie_Shiporphan.title>Rabbi Lee Ju-sun orphan</Rabbie_Shiporphan.title>
+  <Rabbie_Shiporphan.titleShort>orphanage</Rabbie_Shiporphan.titleShort>
+  <Rabbie_Shiporphan.baseDescription>[PAWN_nameDef] was taken on a different ship from his family on the day he moved to outer space. Awakening from the new moon [PAWN_pronoun] mainly participated in city construction and was paid to survive. Work was hard and my family couldn't see forever, but [PAWN_pronoun] was adjusting.</Rabbie_Shiporphan.baseDescription>
 
 
   <!-- 래비 농장 아이 -->
 
-  <Rabbie_Farmkid.title>래비 농장 아이</Rabbie_Farmkid.title>
-  <Rabbie_Farmkid.titleShort>농장아이</Rabbie_Farmkid.titleShort>
-  <Rabbie_Farmkid.baseDescription>[PAWN_nameDef]은 유리너머 깊은 우주가 올려다보이는 달의 온실 농장에서, 부모님의 일을 도우며 사랑받는 아이로 자랐습니다. \n\n[PAWN_pronoun]네 밭은 크지 않아서 넉넉한 살림은 아니었지만, 학교에서는 공부를 하고 집에서는 여러 채소와 풀, 그리고 당근을 기르는 지식을 알게 되었습니다.</Rabbie_Farmkid.baseDescription>
+  <Rabbie_Farmkid.title>Rabbie farm kids</Rabbie_Farmkid.title>
+  <Rabbie_Farmkid.titleShort>Farm kids</Rabbie_Farmkid.titleShort>
+  <Rabbie_Farmkid.baseDescription>[PAWN_nameDef] grew up as a beloved child by helping parents' work on the lunar greenhouse farm where the deep space over the glass can be seen. \n\n[PAWN_pronoun]Your field wasn't big, so I didn't have enough living, but I studied at school and learned the knowledge of growing various vegetables, grass, and carrots at home.</Rabbie_Farmkid.baseDescription>
 
 
   <!-- 래비 레스토랑 견습생 -->
 
-  <Rabbie_Dishwasher.title>래비 레스토랑 견습생</Rabbie_Dishwasher.title>
-  <Rabbie_Dishwasher.titleShort>접시닦이</Rabbie_Dishwasher.titleShort>
-  <Rabbie_Dishwasher.baseDescription>[PAWN_nameDef]은 식당에서 접시를 닦고 청소를 하며, 어깨 너머로 선배들의 요리를 배웠습니다. [PAWN_pronoun]가 만든 채소 요리는 좋은 평가를 받진 못했지만 동료들은 맛있게 먹어주었습니다.</Rabbie_Dishwasher.baseDescription>
+  <Rabbie_Dishwasher.title>Laby restaurant apprentice</Rabbie_Dishwasher.title>
+  <Rabbie_Dishwasher.titleShort>Dishwasher</Rabbie_Dishwasher.titleShort>
+  <Rabbie_Dishwasher.baseDescription>[PAWN_nameDef] washed and cleaned dishes in a restaurant, and learned to cook from his seniors over his shoulder. The vegetable dish made by [PAWN_pronoun] did not receive good reviews, but my colleagues ate it deliciously.</Rabbie_Dishwasher.baseDescription>
 
 
   <!-- 래비 소년병 -->
 
-  <Rabbie_Childsoldier.title>래비 소년병</Rabbie_Childsoldier.title>
-  <Rabbie_Childsoldier.titleShort>소년병</Rabbie_Childsoldier.titleShort>
-  <Rabbie_Childsoldier.baseDescription>[PAWN_nameDef]은 전투가 벌어지는 달에서 태어났습니다. 부서진 대피소에까지 적들이 들이닥쳤을 때, [PAWN_pronoun]은 버려진 총을 집어들고 싸우는 길을 택했습니다.</Rabbie_Childsoldier.baseDescription>
+  <Rabbie_Childsoldier.title>Rabbie boy soldier</Rabbie_Childsoldier.title>
+  <Rabbie_Childsoldier.titleShort>Boy soldier</Rabbie_Childsoldier.titleShort>
+  <Rabbie_Childsoldier.baseDescription>[PAWN_nameDef] was born on the moon in battle. When enemies hit the broken shelter, [PAWN_pronoun] picked up the abandoned gun and chose to fight.</Rabbie_Childsoldier.baseDescription>
 
 
   <!-- 래비 도시 소매치기 -->
 
-  <Rabbie_Pickpocket.title>래비 도시 소매치기</Rabbie_Pickpocket.title>
-  <Rabbie_Pickpocket.titleShort>소매치기</Rabbie_Pickpocket.titleShort>
-  <Rabbie_Pickpocket.baseDescription>아직 개발중인 달에서 태어난 [PAWN_nameDef]은 해진 옷을 입고 맨발로 돌아다니며, 래비들이 많이 모이는 시내와 지하철 역에서 특유의 손재주로 짐 속에 손을 집어넣어 물건을 훔치며 생계를 이었습니다. \n\n어느 날, 성격 나쁜 범죄자 래비에게 소매치기를 들킨 [PAWN_pronoun]은 흠씬 두들겨 맞고 다시는 그런 일을 하지 않았습니다.</Rabbie_Pickpocket.baseDescription>
+  <Rabbie_Pickpocket.title>Rabbie City Pickpocket</Rabbie_Pickpocket.title>
+  <Rabbie_Pickpocket.titleShort>pickpocket</Rabbie_Pickpocket.titleShort>
+  <Rabbie_Pickpocket.baseDescription>Born on the moon still under development, [PAWN_nameDef] walked barefoot in tattered clothes, and earned a living by stealing things by putting his hand in his luggage with his unique dexterity in downtown and subway stations where many rabbis gather. \n\nOne day, [PAWN_pronoun], caught pickpocketing by Rabbie, a bad-natured criminal, was beaten up and never did that again.</Rabbie_Pickpocket.baseDescription>
 
 
   <!-- 래비 학생 -->
 
-  <Rabbie_Student.title>래비 학생</Rabbie_Student.title>
-  <Rabbie_Student.titleShort>학생</Rabbie_Student.titleShort>
-  <Rabbie_Student.baseDescription>[PAWN_nameDef]은 평화로운 달에서 주택가의 집과 학교를 통학하는 학생이었습니다. 크리켓을 치는 걸 좋아하고, 성적과 진학을 걱정하는 평범한 학생입니다.</Rabbie_Student.baseDescription>
+  <Rabbie_Student.title>Rabbie student</Rabbie_Student.title>
+  <Rabbie_Student.titleShort>student</Rabbie_Student.titleShort>
+  <Rabbie_Student.baseDescription>[PAWN_nameDef] was a student commuting to a residential home and school in a peaceful month. He is an ordinary student who loves to play cricket and is concerned about grades and progression.</Rabbie_Student.baseDescription>
 
 
   <!-- 래비 은둔형 외톨이 -->
 
-  <Rabbie_Hikikomori.title>래비 은둔형 외톨이</Rabbie_Hikikomori.title>
-  <Rabbie_Hikikomori.titleShort>외톨이</Rabbie_Hikikomori.titleShort>
-  <Rabbie_Hikikomori.baseDescription>래비 사회에 잘 적응하지 못한 [PAWN_nameDef]은 컴퓨터와 서버가 돌아가는 소음과 모니터의 빛만이 있는 작은 쪽방에서 자신만의 세계에 틀어박혀 영상이나 저작물을 만들곤 했습니다.</Rabbie_Hikikomori.baseDescription>
+  <Rabbie_Hikikomori.title>Rabbie reclusive</Rabbie_Hikikomori.title>
+  <Rabbie_Hikikomori.titleShort>loner</Rabbie_Hikikomori.titleShort>
+  <Rabbie_Hikikomori.baseDescription>[PAWN_nameDef], who did not adapt well to the rabbi society, used to make videos and works of his own in a small room with only the noise of computers and servers running and the light of the monitor.</Rabbie_Hikikomori.baseDescription>
 
 
   <!-- 래비 뒷골목 대장 -->
 
-  <Rabbie_Bully.title>래비 뒷골목 대장</Rabbie_Bully.title>
-  <Rabbie_Bully.titleShort>골목대장</Rabbie_Bully.titleShort>
-  <Rabbie_Bully.baseDescription>어린 시절, [PAWN_nameDef] 은 푸른 네온사인의 불빛이 비쳐 들어오는 도시의 뒷골목에서, 자신을 따르는 아이들과 함께 뭉친 두려움을 모르는 무법자였습니다. 누구든 [PAWN_pronoun]의 심기에 거슬리면 무자비한 주먹에 맞고 앞니에 깨물리는 걸 피할 수 없었습니다</Rabbie_Bully.baseDescription>
+  <Rabbie_Bully.title>Laby Back Alley</Rabbie_Bully.title>
+  <Rabbie_Bully.titleShort>Alley leader</Rabbie_Bully.titleShort>
+  <Rabbie_Bully.baseDescription>As a child, [PAWN_nameDef] was a fearless outlaw who gathered with the children who followed him in the back streets of a city lit up with blue neon lights. Anyone who was against the planting of [PAWN_pronoun] could not avoid being hit by a ruthless fist and biting in the front teeth.</Rabbie_Bully.baseDescription>
 
 
   <!-- 래비 저택의 양녀 -->
 
-  <Rabbie_Adoptedchild.title>래비 저택의 양녀</Rabbie_Adoptedchild.title>
-  <Rabbie_Adoptedchild.titleShort>저택의 양녀</Rabbie_Adoptedchild.titleShort>
-  <Rabbie_Adoptedchild.baseDescription>[PAWN_nameDef]은 달도시 장교의 저택에서 어릴적 허드렛일을 하며 자랐습니다. \n\n다행히도 [PAWN_pronoun]의 주인은 좋은 사람이어서, [PAWN_nameDef]를 양녀로 받아들여 다른 자제와 함께 귀족 교육을 듣게 해 주었습니다.</Rabbie_Adoptedchild.baseDescription>
+  <Rabbie_Adoptedchild.title>Rabbie Mansion's foster daughter</Rabbie_Adoptedchild.title>
+  <Rabbie_Adoptedchild.titleShort>Mansion</Rabbie_Adoptedchild.titleShort>
+  <Rabbie_Adoptedchild.baseDescription>[PAWN_nameDef] grew up doing chores as a child in the residence of an officer in the moon city. \n\nFortunately, the owner of [PAWN_pronoun] was a good person, so he accepted [PAWN_nameDef] as a foster daughter, allowing him to take a noble education with other children.</Rabbie_Adoptedchild.baseDescription>
 
 
   <!-- 래비 사관학교 생도 -->
 
-  <Rabbie_Academystudent.title>래비 사관학교 생도</Rabbie_Academystudent.title>
-  <Rabbie_Academystudent.titleShort>사관학교 생도</Rabbie_Academystudent.titleShort>
-  <Rabbie_Academystudent.baseDescription>[PAWN_nameDef]은 대대로 군직에 종사한 집안에서 태어난 아이입니다. \n\n본인의 의사는 둘째였고, 가족들의 기대로 인해 정규 교육 대신 래비 사관학교에 들어가 군인 혹은 장교로 입대하기 위해 공부와 훈련에만 힘썼습니다.</Rabbie_Academystudent.baseDescription>
+  <Rabbie_Academystudent.title>Rabbie Academy Cadet</Rabbie_Academystudent.title>
+  <Rabbie_Academystudent.titleShort>Academy cadets</Rabbie_Academystudent.titleShort>
+  <Rabbie_Academystudent.baseDescription>[PAWN_nameDef] is a child born into a family who served in the military for generations. \n\nMy doctor was second, and due to the expectations of my family, I went to the Rabbie Academy instead of regular education and devoted myself to studying and training to enlist as a soldier or officer.</Rabbie_Academystudent.baseDescription>
 
 
   <!-- 래비 날품팔이 -->
 
-  <Rabbie_Daylaborer.title>래비 날품팔이</Rabbie_Daylaborer.title>
-  <Rabbie_Daylaborer.titleShort>날품팔이</Rabbie_Daylaborer.titleShort>
-  <Rabbie_Daylaborer.baseDescription>누구도 [PAWN_nameDef]이 어디에서 왔는지 어디로 가는지 모릅니다. [PAWN_pronoun] 같은 아이는 어디에나 있고 어디에도 없는 그런 고아였고, 그날 그날 품팔이로 생계를 이었습니다.</Rabbie_Daylaborer.baseDescription>
+  <Rabbie_Daylaborer.title>Rabbie</Rabbie_Daylaborer.title>
+  <Rabbie_Daylaborer.titleShort>Daily</Rabbie_Daylaborer.titleShort>
+  <Rabbie_Daylaborer.baseDescription>No one knows where [PAWN_nameDef] is from or where it is going. [PAWN_pronoun] A child like [PAWN_pronoun] was an orphan who was everywhere and nowhere.</Rabbie_Daylaborer.baseDescription>
 
 
   <!-- 래비 사육당번 -->
 
-  <Rabbie_Feeder.title>래비 사육당번</Rabbie_Feeder.title>
-  <Rabbie_Feeder.titleShort>사육당번</Rabbie_Feeder.titleShort>
-  <Rabbie_Feeder.baseDescription>[PAWN_nameDef]은 학교에서 기르는 털 쥐와 족제비를 보살피고 사육하는 당번이었습니다. 양동이에 물을 받아 거북이의 등을 닦아 주는것도 잊지 않았습니다.</Rabbie_Feeder.baseDescription>
+  <Rabbie_Feeder.title>Rabbie breeding turn</Rabbie_Feeder.title>
+  <Rabbie_Feeder.titleShort>Breeding duty</Rabbie_Feeder.titleShort>
+  <Rabbie_Feeder.baseDescription>[PAWN_nameDef] was on duty to take care of and breed hairless mice and weasels raised in school. I didn't forget to get water from the bucket and wipe the turtle's back.</Rabbie_Feeder.baseDescription>
 
 
   <!-- 래비 중산층 아이 -->
 
-  <Rabbie_Child.title>래비 중산층 아이</Rabbie_Child.title>
-  <Rabbie_Child.titleShort>아이</Rabbie_Child.titleShort>
-  <Rabbie_Child.baseDescription>[PAWN_nameDef]은 도심 한가운데 위치한 아파트에서 부모님의 따뜻한 사랑을 받으며 자라난 착한 토끼였습니다. 친구들에게도 항상 상냥했습니다. \n\n[PAWN_pronoun]은 높은 아파트 발코니에서 낮에는 따듯한 빛으로, 밤에는 푸른색과 네온사인에 감싸인 달의 도시 풍경을 그리곤 했습니다.</Rabbie_Child.baseDescription>
+  <Rabbie_Child.title>Rabbie middle class kid</Rabbie_Child.title>
+  <Rabbie_Child.titleShort>Child</Rabbie_Child.titleShort>
+  <Rabbie_Child.baseDescription>[PAWN_nameDef] was a kind rabbit who grew up receiving warm love from his parents in an apartment located in the middle of the city. I was always kind to my friends. \n\n[PAWN_pronoun] used to paint a city view of the moon wrapped in blue and neon signs at night with warm light during the day on the balcony of a tall apartment.</Rabbie_Child.baseDescription>
 
 
   <!-- 래비 학생 -->
 
-  <Rabbie_Topstudent.title>래비 학생</Rabbie_Topstudent.title>
-  <Rabbie_Topstudent.titleShort>학생</Rabbie_Topstudent.titleShort>
-  <Rabbie_Topstudent.baseDescription>[PAWN_nameDef]은 달의 도시 아파트에서 부모님과 떨어져 자취를 하는 학생이었습니다. 늦은 시간까지 공부하고 혼자 시내를 걸어 돌아오는것은 외롭기도 했지만 학업 성과는 뚜렷했습니다.</Rabbie_Topstudent.baseDescription>
+  <Rabbie_Topstudent.title>Rabbie student</Rabbie_Topstudent.title>
+  <Rabbie_Topstudent.titleShort>student</Rabbie_Topstudent.titleShort>
+  <Rabbie_Topstudent.baseDescription>[PAWN_nameDef] was a student living away from his parents in an apartment in the city of the moon. Studying until late and walking back downtown alone was lonely, but the academic achievements were clear.</Rabbie_Topstudent.baseDescription>
 
 
   <!-- 래비 학생회 위원 -->
 
-  <Rabbie_Studentunion.title>래비 학생회 위원</Rabbie_Studentunion.title>
-  <Rabbie_Studentunion.titleShort>학생회 위원</Rabbie_Studentunion.titleShort>
-  <Rabbie_Studentunion.baseDescription>[PAWN_nameDef]은 많은 일을 합니다. 선생님의 서류를 옮겨 주기도 하고, 교칙을 지키지 않는 아이들을 잡기도 하고, 학생회의 예산을 집행하는 일도 말이지요.</Rabbie_Studentunion.baseDescription>
+  <Rabbie_Studentunion.title>Rabbie Student Council Member</Rabbie_Studentunion.title>
+  <Rabbie_Studentunion.titleShort>Student council member</Rabbie_Studentunion.titleShort>
+  <Rabbie_Studentunion.baseDescription>[PAWN_nameDef] does a lot of work. Some of the tasks of transferring teacher documents, catching children who do not follow school rules, and executing student council budgets.</Rabbie_Studentunion.baseDescription>
 
 
   <!-- 래비 어린 음악가 -->
 
-  <Rabbie_Singer.title>래비 어린 음악가</Rabbie_Singer.title>
-  <Rabbie_Singer.titleShort>어린 음악가</Rabbie_Singer.titleShort>
-  <Rabbie_Singer.baseDescription>어린 [PAWN_nameDef]은 래비들이 좋아하는 노래를 만들기도 부르기도 하는 어린 스타였습니다. 많은 래비들이 [PAWN_pronoun]가 유명인이 될 거라 생각했습니다. 자신도 그렇게 생각했습니다.</Rabbie_Singer.baseDescription>
+  <Rabbie_Singer.title>Rabbie Young Musician</Rabbie_Singer.title>
+  <Rabbie_Singer.titleShort>Young musician</Rabbie_Singer.titleShort>
+  <Rabbie_Singer.baseDescription>Young [PAWN_nameDef] was a young star who made and sang songs that rabbis liked. Many rabbis thought [PAWN_pronoun] would become a celebrity. I thought so myself.</Rabbie_Singer.baseDescription>
 
 
   <!-- 래비 전력관리국 사환 -->
 
-  <Rabbie_Clerk.title>래비 전력관리국 사환</Rabbie_Clerk.title>
-  <Rabbie_Clerk.titleShort>사환</Rabbie_Clerk.titleShort>
-  <Rabbie_Clerk.baseDescription>[PAWN_nameDef]은 래비티시 제국의 전력관리국에서, 잔심부름을 하며 일을 배우는 아이였습니다. \n\n[PAWN_pronoun]가 태어난 달은 전쟁 중이었기 떄문에, 기초교육을 받는 대신 직원으로서의 교육을 받게 되었습니다</Rabbie_Clerk.baseDescription>
+  <Rabbie_Clerk.title>Rabbi's power management office</Rabbie_Clerk.title>
+  <Rabbie_Clerk.titleShort>boy</Rabbie_Clerk.titleShort>
+  <Rabbie_Clerk.baseDescription>[PAWN_nameDef] was a child who was learning to work with small errands at the Power Management Bureau of the Rabitish Empire. \n\nThe month when [PAWN_pronoun] was born was at war, so instead of basic training, I was trained as an employee.</Rabbie_Clerk.baseDescription>
 
 
   <!-- 래비 영재 책벌레 -->
 
-  <Rabbie_Bookworm.title>래비 영재 책벌레</Rabbie_Bookworm.title>
-  <Rabbie_Bookworm.titleShort>책벌레</Rabbie_Bookworm.titleShort>
-  <Rabbie_Bookworm.baseDescription>[PAWN_nameDef]은 평범한 가정에서 태어났지만 책을 좋아하고 뭐든지 빠르게 배워서, 일찍 고등 교육기관에 입학한 촉망받는 아이였습니다. \n\n하지만 책에 묻혀 지냈던 시간이 너무 길어서였는지, 다른 래비들과 친밀한 관계를 쌓거나 외부 활동을 하는데엔 조금 미숙했던 것 같습니다.</Rabbie_Bookworm.baseDescription>
+  <Rabbie_Bookworm.title>Rabbie Gifted Bookworm</Rabbie_Bookworm.title>
+  <Rabbie_Bookworm.titleShort>Bookworm</Rabbie_Bookworm.titleShort>
+  <Rabbie_Bookworm.baseDescription>[PAWN_nameDef] was born into an ordinary family, but he liked books and learned anything quickly, so he was a promising child who entered a higher education institution early. \n\nHowever, it was because the time I spent buried in the book was too long, and it seems that I was a little inexperienced in building close relationships with other rabbis or doing outside activities.</Rabbie_Bookworm.baseDescription>
 
 
   <!-- 래비 토끼굴 노예 -->
 
-  <Rabbie_Rabbitholeslave.title>래비 토끼굴 노예</Rabbie_Rabbitholeslave.title>
-  <Rabbie_Rabbitholeslave.titleShort>노예</Rabbie_Rabbitholeslave.titleShort>
-  <Rabbie_Rabbitholeslave.baseDescription>이주선이 도착한지 얼마 안 되어, 한창 개발중인 달의 도시에서는 불법적인 일들이 일어나곤 합니다. \n\n[PAWN_nameDef]은 불행하게도, 어린 시절부터 래비 매매단에 유괴되어 야삽을 하나 들고 죽도록 토끼굴을 파며 광물을 채굴해야 했습니다. 토끼굴이 매몰되는 사고를 겪고 간신히 살아나기도 했고요. \n\n당연하게도 교육을 받을 기회는 없었지요.</Rabbie_Rabbitholeslave.baseDescription>
+  <Rabbie_Rabbitholeslave.title>Rabbi Rabbit Cave Slave</Rabbie_Rabbitholeslave.title>
+  <Rabbie_Rabbitholeslave.titleShort>slave</Rabbie_Rabbitholeslave.titleShort>
+  <Rabbie_Rabbitholeslave.baseDescription>Not long after the arrival of the ship, illegal things happen in the developing lunar city. \n\nUnfortunately, [PAWN_nameDef] was kidnapped by the rabbi trading team since childhood and had to dig a rabbit hole and mine to die with a shovel. After suffering an accident in which the rabbit's den was buried, he managed to survive. \n\nOf course, I didn't have the opportunity to get an education.</Rabbie_Rabbitholeslave.baseDescription>
 
 
   <!-- 래비 빈민층 아이 -->
 
-  <Rabbie_Poorchild.title>래비 빈민층 아이</Rabbie_Poorchild.title>
-  <Rabbie_Poorchild.titleShort>빈민층 아이</Rabbie_Poorchild.titleShort>
-  <Rabbie_Poorchild.baseDescription>[PAWN_nameDef]은 달도시의 가난한 빈민굴에서 태어났습니다. [PAWN_pronoun]의 부모들은 궁핍한 삶으로 싸웠으며 세파에 찌든 삶을 비관했습니다. 상냥한 학교 친구들이 [PAWN_pronoun]의 유일한 버팀목이 되어 주었습니다.</Rabbie_Poorchild.baseDescription>
+  <Rabbie_Poorchild.title>Rabbie poor child</Rabbie_Poorchild.title>
+  <Rabbie_Poorchild.titleShort>Poor child</Rabbie_Poorchild.titleShort>
+  <Rabbie_Poorchild.baseDescription>[PAWN_nameDef] was born in a poor slum in the moon city. The parents of [PAWN_pronoun] fought in poverty and were pessimistic about the life of Sepa. Kind school friends served as the sole support for [PAWN_pronoun].</Rabbie_Poorchild.baseDescription>
 
 
   <!-- 래비 공순이 -->
 
-  <Rabbie_Gearhead.title>래비 공순이</Rabbie_Gearhead.title>
-  <Rabbie_Gearhead.titleShort>공순이</Rabbie_Gearhead.titleShort>
-  <Rabbie_Gearhead.baseDescription>[PAWN_nameDef]은 특이하게도 어릴 적부터 기계와 전자장비들의 작동에 관심을 가졌습니다. 작은 창고에서 자신의 작업장을 차린 [PAWN_pronoun]은 TV나 라디오를 수리해 주며 용돈을 벌고 그 돈으로 갖가지 기계를 만들었습니다.</Rabbie_Gearhead.baseDescription>
+  <Rabbie_Gearhead.title>Rabbi Gongsoon</Rabbie_Gearhead.title>
+  <Rabbie_Gearhead.titleShort>Gong Soon</Rabbie_Gearhead.titleShort>
+  <Rabbie_Gearhead.baseDescription>[PAWN_nameDef] was unusually interested in the operation of mechanical and electronic equipment from an early age. [PAWN_pronoun], who set up his own workshop in a small warehouse, earned pocket money by repairing TVs and radios, and made various machines with the money.</Rabbie_Gearhead.baseDescription>
 
 
   <!-- 래비 학교 보건위원 -->
 
-  <Rabbie_Nursestudent.title>래비 학교 보건위원</Rabbie_Nursestudent.title>
-  <Rabbie_Nursestudent.titleShort>보건위원</Rabbie_Nursestudent.titleShort>
-  <Rabbie_Nursestudent.baseDescription>[PAWN_nameDef]은 보건위원으로서 아픈 학생들이 있는지 확인하고, 몸이 좋지 않은 친구들을 양호실로 데려가거나 간단한 붕대를 싸매 주곤 했습니다. \n\n양호실에서 많은 시간을 보낸 [PAWN_pronoun]은 양호 선생님과 깊게 친해져 여러 의학 지식을 쌓을 수 있었습니다.</Rabbie_Nursestudent.baseDescription>
+  <Rabbie_Nursestudent.title>Rabbie School Health Commissioner</Rabbie_Nursestudent.title>
+  <Rabbie_Nursestudent.titleShort>Health Commissioner</Rabbie_Nursestudent.titleShort>
+  <Rabbie_Nursestudent.baseDescription>[PAWN_nameDef] is a health commissioner who checks for sick students, takes poorly ill friends to the infirmary or wraps a simple bandage. \n\n[PAWN_pronoun], who spent a lot of time in the nursing room, became deeply acquainted with the nursing teacher and was able to build up various medical knowledge.</Rabbie_Nursestudent.baseDescription>
 
 
   <!-- 래비 실험토끼 -->
 
-  <Rabbie_Subject.title>래비 실험토끼</Rabbie_Subject.title>
-  <Rabbie_Subject.titleShort>실험토끼</Rabbie_Subject.titleShort>
-  <Rabbie_Subject.baseDescription>[PAWN_nameDef]은 아기 때 버려진 래비들이 모이는 시설에서 지내다 연구소로 보내졌고, 이후 엄격한 통제 하에서 길러져 유전자조작과 강화시술을 받아가며 자랐습니다. 과정을 견디지 못한 다른 아이들은 목숨을 잃었습니다만, [PAWN_pronoun]은 초인적인 감각을 얻고 군사시설로 보내질 예정이었습니다. [PAWN_pronoun]은 자신이 뭔가 잃어버린 것 같다는 생각을 했지만 그게 뭔지 잘 몰랐습니다. 아마 따뜻한 마음이었을 겁니다.</Rabbie_Subject.baseDescription>
+  <Rabbie_Subject.title>Laby Rabbit</Rabbie_Subject.title>
+  <Rabbie_Subject.titleShort>Experimental rabbit</Rabbie_Subject.titleShort>
+  <Rabbie_Subject.baseDescription>[PAWN_nameDef] lived in a facility where rabbies abandoned as a baby and was sent to a laboratory, and then raised under strict control and raised while undergoing genetic manipulation and reinforcement procedures. Other children who could not stand the process lost their lives, but [PAWN_pronoun] gained a superhuman sense and was supposed to be sent to a military facility. [PAWN_pronoun] thought he might have lost something, but he didn't know what it was. It must have been a warm heart.</Rabbie_Subject.baseDescription>
 
 
   <!-- 래비 채소 배달부 -->
 
-  <Rabbie_Deliverygirl.title>래비 채소 배달부</Rabbie_Deliverygirl.title>
-  <Rabbie_Deliverygirl.titleShort>배달부</Rabbie_Deliverygirl.titleShort>
-  <Rabbie_Deliverygirl.baseDescription>달의 도시에도 손하나 까닥하기 귀찮은 래비들이 있게 마련입니다. [PAWN_nameDef]은 특유의 빠른 발로 고층 빌딩의 신청한 집들을 찾아다니며 새벽에 일찍 신선한 식료품을 배달하는 일을 했습니다. 낮에 학교에선 자주 졸았지만요.</Rabbie_Deliverygirl.baseDescription>
+  <Rabbie_Deliverygirl.title>Rabbi Vegetable Delivery</Rabbie_Deliverygirl.title>
+  <Rabbie_Deliverygirl.titleShort>Delivery man</Rabbie_Deliverygirl.titleShort>
+  <Rabbie_Deliverygirl.baseDescription>Even in the Moon City, there are always rabbies who are bothersome to touch each other. [PAWN_nameDef] worked to deliver fresh groceries early in the morning, locating the requested houses in high-rise buildings with a unique fast foot. I fell asleep often in school during the day.</Rabbie_Deliverygirl.baseDescription>
 
 
   <!-- 래비 술집 종업원 -->
 
-  <Rabbie_Pubwaitress.title>래비 술집 종업원</Rabbie_Pubwaitress.title>
-  <Rabbie_Pubwaitress.titleShort>술집 종업원</Rabbie_Pubwaitress.titleShort>
-  <Rabbie_Pubwaitress.baseDescription>[PAWN_nameDef]은 도심의 술집에서 잔심부름을 하는 웨이트리스 였습니다. 플라네타륨을 섞은 갖가지 기호품들을 손님 래비들에게 갖다주기도 하고, 연초를 말기도 하며, 바텐더에게 간단한 칵테일을 직접 만드는 법을 배우기도 했습니다.</Rabbie_Pubwaitress.baseDescription>
+  <Rabbie_Pubwaitress.title>Rabbie bar employee</Rabbie_Pubwaitress.title>
+  <Rabbie_Pubwaitress.titleShort>Bar staff</Rabbie_Pubwaitress.titleShort>
+  <Rabbie_Pubwaitress.baseDescription>[PAWN_nameDef] was a waitress doing small errands at a bar in the city center. We brought various favorite items mixed with planetarium to our guest rabbies, rolled the tobacco, and learned how to make simple cocktails from the bartender.</Rabbie_Pubwaitress.baseDescription>
 
 
   <!-- 래비 인테리어공 조수 -->
 
-  <Rabbie_Builderassistant.title>래비 인테리어공 조수</Rabbie_Builderassistant.title>
-  <Rabbie_Builderassistant.titleShort>건축 조수</Rabbie_Builderassistant.titleShort>
-  <Rabbie_Builderassistant.baseDescription>[PAWN_nameDef]은 건물의 내부 인테리어 마감을 맡는 팀의 조수입니다. \n\n같은 팀의 래비들이 타일을 잘라 붙이고, 벽과 기둥과 천정 마감을 하는 동안 분주히 자재를 가져다 주고 청소를 했습니다. 보수도 짭짤했고, 기술도 배울 수 있어 [PAWN_nameDef]은 꿋꿋히 일했습니다.</Rabbie_Builderassistant.baseDescription>
+  <Rabbie_Builderassistant.title>Laby Interior Engineer Assistant</Rabbie_Builderassistant.title>
+  <Rabbie_Builderassistant.titleShort>Construction assistant</Rabbie_Builderassistant.titleShort>
+  <Rabbie_Builderassistant.baseDescription>[PAWN_nameDef] is the assistant to the team responsible for finishing the interior of the building. \n\nWhile the rabbis on the same team cut and glued tiles and finished the walls, columns and ceilings, they were busy bringing materials and cleaning. [PAWN_nameDef] worked steadfastly because the pay was good and he could learn the skills.</Rabbie_Builderassistant.baseDescription>
 
 
   <!-- 래비 크리켓부 에이스 -->
 
-  <Rabbie_CricketMVP.title>래비 크리켓부 에이스</Rabbie_CricketMVP.title>
-  <Rabbie_CricketMVP.titleShort>크리켓 선수</Rabbie_CricketMVP.titleShort>
-  <Rabbie_CricketMVP.baseDescription>래비티시 제국 속주에서 가장 인기있는 스포츠인 쇼트 크리켓의 선수는 학교에서도 대단한 스타이며, 빠른 발과 정확한 타격을 자랑하는 [PAWN_nameDef]가 바로 그 래비입니다. \n\n사물함이나 책상엔 항상 선물과 편지가 가득했습니다. 운동신경이 뛰어나고 사교성도 좋았지만 [PAWN_nameDef]은 점점 거만해졌습니다</Rabbie_CricketMVP.baseDescription>
+  <Rabbie_CricketMVP.title>Rabbie Cricket Club Ace</Rabbie_CricketMVP.title>
+  <Rabbie_CricketMVP.titleShort>Cricket player</Rabbie_CricketMVP.titleShort>
+  <Rabbie_CricketMVP.baseDescription>Short cricket, the most popular sport in the province of the ravity empire, is a great star at school, and [PAWN_nameDef], which boasts a fast foot and accurate hitting, is that rabbi. \n\nThe locker or desk was always full of gifts and letters. Although he was very athletic and sociable, [PAWN_nameDef] became more and more arrogant.</Rabbie_CricketMVP.baseDescription>
 
 
   <!-- 래비 게임 스트리머 -->
 
-  <Rabbie_Streamer.title>래비 게임 스트리머</Rabbie_Streamer.title>
-  <Rabbie_Streamer.titleShort>스트리머</Rabbie_Streamer.titleShort>
-  <Rabbie_Streamer.baseDescription>[PAWN_nameDef]은 특출난 실력으로 게임 플레이 방송을 하며 래비들 사이에서 인기를 얻어 스타가 되었습니다. \n\n어릴 적엔 달의 도시에서 [PAWN_nameDef]를 모르는 사람이 없었지만, 모종의 일로 은퇴를 한 후 유년기의 유명세는 빠르게 온 만큼 빠르게 잊혀졌습니다.</Rabbie_Streamer.baseDescription>
+  <Rabbie_Streamer.title>Rabbie Game Streamer</Rabbie_Streamer.title>
+  <Rabbie_Streamer.titleShort>Streamer</Rabbie_Streamer.titleShort>
+  <Rabbie_Streamer.baseDescription>[PAWN_nameDef] became a star by broadcasting gameplay with exceptional skills and gaining popularity among rabbies. \n\nWhen I was young, no one in the Moon City did not know [PAWN_nameDef], but after retiring for some kind of work, my childhood fame was forgotten as quickly as it came.</Rabbie_Streamer.baseDescription>
 
 
   <!-- 래비 주둔군 아이 -->
 
-  <Rabbie_Garrisonkid.title>래비 주둔군 아이</Rabbie_Garrisonkid.title>
-  <Rabbie_Garrisonkid.titleShort>주둔군 아이</Rabbie_Garrisonkid.titleShort>
-  <Rabbie_Garrisonkid.baseDescription>[PAWN_nameDef]의 부모님은 행성에 내려온 군의 래비였습니다. 행성에서 태어나 어린 시절을 기지의 거주구에서 보내게 되었던 [PAWN_nameDef]은 똑같이 군인이 되고 싶은 꿈을 키워서, 최소 제한 나이에 사관학교에 들어가기로 했습니다.</Rabbie_Garrisonkid.baseDescription>
+  <Rabbie_Garrisonkid.title>Rabbie Garrison Child</Rabbie_Garrisonkid.title>
+  <Rabbie_Garrisonkid.titleShort>Garrison child</Rabbie_Garrisonkid.titleShort>
+  <Rabbie_Garrisonkid.baseDescription>[PAWN_nameDef]'s parents were military rabbies who came down to the planet. [PAWN_nameDef], who was born on a planet and spent his childhood in the base's residence, had the same dream of becoming a soldier and decided to enter the academy at the minimum age limit.</Rabbie_Garrisonkid.baseDescription>
 
 
   <!-- 래비 총기 덕후 -->
 
-  <Rabbie_Gunlover.title>래비 총기 덕후</Rabbie_Gunlover.title>
-  <Rabbie_Gunlover.titleShort>총기 덕후</Rabbie_Gunlover.titleShort>
-  <Rabbie_Gunlover.baseDescription>달의 도시엔 총을 사용할 곳이 없지만 [PAWN_nameDef]은 총기의 정교함과 기계적 결합을 사랑해 여러 총기를 모았습니다. 그렇다고 군대에 지원하기에는, [PAWN_nameDef]는 군대의 구속과 빡빡한 훈련이 너무나 싫어서 사격장에서 답답함을 풀곤 했습니다.</Rabbie_Gunlover.baseDescription>
+  <Rabbie_Gunlover.title>Rabbie Firearms Master</Rabbie_Gunlover.title>
+  <Rabbie_Gunlover.titleShort>Firearms master</Rabbie_Gunlover.titleShort>
+  <Rabbie_Gunlover.baseDescription>There is nowhere to use guns in the Moon City, but [PAWN_nameDef] loved the sophistication and mechanical combination of guns and collected several guns. Yet, to apply for the military, [PAWN_nameDef] used to relieve the frustration at the shooting range because he hated the army's restraint and intensive training.</Rabbie_Gunlover.baseDescription>
 
 
   <!-- 래비 낙제생 -->
 
-  <Rabbie_Failedstudent.title>래비 낙제생</Rabbie_Failedstudent.title>
-  <Rabbie_Failedstudent.titleShort>낙제생</Rabbie_Failedstudent.titleShort>
-  <Rabbie_Failedstudent.baseDescription>[PAWN_nameDef]은 게으른 학생이었습니다. 시험 전날까지도 게임을 하면서 밤을 새고, 자신과 비슷한 아이들과 어울려 다니곤 했습니다. 좋은 평가를 받을 턱이 없었지요.</Rabbie_Failedstudent.baseDescription>
+  <Rabbie_Failedstudent.title>Rabbie Fallout</Rabbie_Failedstudent.title>
+  <Rabbie_Failedstudent.titleShort>A failing student</Rabbie_Failedstudent.titleShort>
+  <Rabbie_Failedstudent.baseDescription>[PAWN_nameDef] was a lazy student. Until the day before the exam, I would stay up all night playing games and hang out with kids like myself. I didn't have the jaw to get good reviews.</Rabbie_Failedstudent.baseDescription>
 
 
   <!-- 래비 밴드부 아이 -->
 
-  <Rabbie_Guitarist.title>래비 밴드부 기타</Rabbie_Guitarist.title>
-  <Rabbie_Guitarist.titleShort>밴드부 기타</Rabbie_Guitarist.titleShort>
-  <Rabbie_Guitarist.baseDescription>[PAWN_nameDef]는 원래 하고싶은게 별로 없었지만, 좋은 선생님의 지도와 추천으로 학교의 밴드부에서 기타를 연주하는 기타리스트가 되었습니다. \n\n[PAWN_nameDef]은 축제나 공연도 성공적으로 해냈고 자신의 재능을 찾게 되었습니다.</Rabbie_Guitarist.baseDescription>
+  <Rabbie_Guitarist.title>Laby band part guitar</Rabbie_Guitarist.title>
+  <Rabbie_Guitarist.titleShort>Band part guitar</Rabbie_Guitarist.titleShort>
+  <Rabbie_Guitarist.baseDescription>[PAWN_nameDef] originally didn't want to do much, but with the guidance and recommendation of a good teacher, I became a guitarist playing guitar in the school's band division. \n\n[PAWN_nameDef] was successful in festivals and performances, and found her talent.</Rabbie_Guitarist.baseDescription>
 
 
   <!-- 래비 게임폐인 -->
 
-  <Rabbie_Gamer.title>래비 게임폐인</Rabbie_Gamer.title>
-  <Rabbie_Gamer.titleShort>게임폐인</Rabbie_Gamer.titleShort>
-  <Rabbie_Gamer.baseDescription>[PAWN_nameDef]은 게임을 하는게 취미가 아닌 일과였습니다. 뭔가를 짓고, 만들고, 생존하는 종류의 게임에 푹 빠진 [PAWN_nameDef]은 덕분에 잡다한 지식과 무언가를 꾸미는 것에 익숙했습니다. 가상에서지만.</Rabbie_Gamer.baseDescription>
+  <Rabbie_Gamer.title>Rabbie game</Rabbie_Gamer.title>
+  <Rabbie_Gamer.titleShort>Game waste</Rabbie_Gamer.titleShort>
+  <Rabbie_Gamer.baseDescription>For [PAWN_nameDef], playing games was a routine, not a hobby. Fascinated by the kind of game that builds, makes and survives, [PAWN_nameDef] was used to miscellaneous knowledge and decorating things. But in fiction.</Rabbie_Gamer.baseDescription>
 
 
   <!-- 래비 의사집안 아이 -->
 
-  <Rabbie_Littledoc.title>래비 의사집안 아이</Rabbie_Littledoc.title>
-  <Rabbie_Littledoc.titleShort>의사아이</Rabbie_Littledoc.titleShort>
-  <Rabbie_Littledoc.baseDescription>[PAWN_nameDef]은 의사 집안에서 태어났습니다. 아버지도, 어머니도 의사셨고 조부모님들도 의학계에 몸담고 있었습니다. \n\n[PAWN_nameDef]도 부모님의 기대를 받아 의학 공부를 하며 관련 학교로 진학했습니다. 자신이 훌륭한 의사가 될거라는 주변의 기대가 부담스럽기도 했습니다만.</Rabbie_Littledoc.baseDescription>
+  <Rabbie_Littledoc.title>Rabbie's Doctor's Child</Rabbie_Littledoc.title>
+  <Rabbie_Littledoc.titleShort>Doctor</Rabbie_Littledoc.titleShort>
+  <Rabbie_Littledoc.baseDescription>[PAWN_nameDef] was born into a doctor's family. My father and mother were doctors, and my grandparents were also in the medical field. \n\n[PAWN_nameDef] also went on to a related school while studying medicine in anticipation of his parents. The expectations around him that he would become a great doctor were burdensome.</Rabbie_Littledoc.baseDescription>
 
 
   <!-- 래비 조직 심부름꾼 -->
 
-  <Rabbie_Drugdealer.title>래비 조직 심부름꾼</Rabbie_Drugdealer.title>
-  <Rabbie_Drugdealer.titleShort>조직 심부름꾼</Rabbie_Drugdealer.titleShort>
-  <Rabbie_Drugdealer.baseDescription>[PAWN_nameDef]은 어릴 때 범죄조직의 심부름꾼으로 일했습니다. 학교 사물함에도 불법 밀수한 플라네타륨과 각종 약물들을 넣어두고 손님들에게 팔고, 상납금을 조직에 바치곤 했습니다. \n\n분명히 돈이 되는 일이었지만 몇번은 국가경찰에 덜미를 잡혀 끌려갈 뻔하고, 다른 조직에 의해 위험할 뻔한 적도 있었습니다.</Rabbie_Drugdealer.baseDescription>
+  <Rabbie_Drugdealer.title>Rabbi organization messenger</Rabbie_Drugdealer.title>
+  <Rabbie_Drugdealer.titleShort>Organization errands</Rabbie_Drugdealer.titleShort>
+  <Rabbie_Drugdealer.baseDescription>[PAWN_nameDef] worked as a messenger for a criminal organization as a child. In school lockers, illegally smuggled planetariums and drugs were stored and sold to customers, and rewards were given to organizations. \n\nIt was definitely money, but on some occasions, I was almost taken by the national police, and there were times when it was almost dangerous by other organizations.</Rabbie_Drugdealer.baseDescription>
 
 
   <!-- 래비 메트로놈 훈련생 -->
 
-  <Rabbie_Metronometrainee.title>래비 메트로놈 훈련생</Rabbie_Metronometrainee.title>
-  <Rabbie_Metronometrainee.titleShort>메트로놈 훈련생</Rabbie_Metronometrainee.titleShort>
-  <Rabbie_Metronometrainee.baseDescription>[PAWN_nameDef]은 살아있는 컴퓨터라 불리는, 메트로놈으로서 특수훈련을 받는 훈련생입니다. 일반인들과는 다른 특수한 논리 교육과 생각법을 배우고 보통보다 짙은 농도의 플라네타륨을 주입받습니다. \n\n[PAWN_nameDef]가 모든 과정을 끝까지 밟는다면 뭐든지 기억하고 복잡한 계산도 순식간에 해내는, 제국에 몇 안되는 특별한 비서가 될 예정입니다.</Rabbie_Metronometrainee.baseDescription>
+  <Rabbie_Metronometrainee.title>Laby Metronome Trainee</Rabbie_Metronometrainee.title>
+  <Rabbie_Metronometrainee.titleShort>Metronome trainee</Rabbie_Metronometrainee.titleShort>
+  <Rabbie_Metronometrainee.baseDescription>[PAWN_nameDef] is a trainee who receives special training as a metronome, called a living computer. Students learn special logic education and thinking methods that are different from those of ordinary people, and receive a planetarium with a darker concentration than normal. \n\nIf [PAWN_nameDef] goes through the whole process to the end, he will be one of the few special assistants to the Empire, who can remember anything and perform complex calculations in no time.</Rabbie_Metronometrainee.baseDescription>
 
 
   <!-- 래비 학생회 서기 -->
 
-  <Rabbie_StudentUnionclerk.title>래비 학생회 서기</Rabbie_StudentUnionclerk.title>
-  <Rabbie_StudentUnionclerk.titleShort>서기</Rabbie_StudentUnionclerk.titleShort>
-  <Rabbie_StudentUnionclerk.baseDescription>학생회의 회의내용을 기록하기도 하고 각종 문서화를 담당하는 [PAWN_nameDef]은 나서기를 꺼리고 조용한 토끼였습니다. 다들 집에 가고 조용해진 부실이나 도서실에 남아 자신의 책을 쓰기도 했습니다.</Rabbie_StudentUnionclerk.baseDescription>
+  <Rabbie_StudentUnionclerk.title>Rabbie Student Council Secretary</Rabbie_StudentUnionclerk.title>
+  <Rabbie_StudentUnionclerk.titleShort>clerk</Rabbie_StudentUnionclerk.titleShort>
+  <Rabbie_StudentUnionclerk.baseDescription>[PAWN_nameDef], who also records the contents of student council meetings and documents various documents, was a quiet rabbit who was reluctant to come forward. Everyone went home and stayed in the quiet room or library to write their own books.</Rabbie_StudentUnionclerk.baseDescription>
 
 
   <!-- 래비 의학협회 연구생 -->
 
-  <Rabbie_Researchassistant.title>래비 의학협회 연구생</Rabbie_Researchassistant.title>
-  <Rabbie_Researchassistant.titleShort>의학원생</Rabbie_Researchassistant.titleShort>
-  <Rabbie_Researchassistant.baseDescription>[PAWN_nameDef]은 인간들의 행성을 여기저기 떠돌던 래비였지만 래비티시 제국의학원 연구자에게 거둬졌습니다. 낯선 달의 도시에서 자신과 같은 어린 래비들과의 사교를 어려워해서, 의학원의 연구보조로서 일하게 되었습니다.</Rabbie_Researchassistant.baseDescription>
+  <Rabbie_Researchassistant.title>Laby Medical Association Research Student</Rabbie_Researchassistant.title>
+  <Rabbie_Researchassistant.titleShort>Medical student</Rabbie_Researchassistant.titleShort>
+  <Rabbie_Researchassistant.baseDescription>[PAWN_nameDef] was a rabbie who wandered around the planets of humans, but was reaped by a researcher at the Labytian Academy of Medicine. In an unfamiliar moon city, it was difficult to socialize with young rabbies like him, so he worked as a research assistant at a medical school.</Rabbie_Researchassistant.baseDescription>
 
 
   <!-- 래비 골목쟁이 -->
 
-  <Rabbie_Alleylunatic.title>래비 골목쟁이</Rabbie_Alleylunatic.title>
-  <Rabbie_Alleylunatic.titleShort>골목쟁이</Rabbie_Alleylunatic.titleShort>
-  <Rabbie_Alleylunatic.baseDescription>[PAWN_nameDef]은 인간 시골마을의 골목을 떠돌며 돌아다니는 래비였습니다. 마을 사람들에게 먹을 것을 얻어먹고 그들이 버린 옷을 입으면서 지냈습니다. 비싼 플라네타륨을 살 돈은 당연히 없었지요. \n\n인간들은 수군대며 손가락질을 했지만 플라네타륨을 섭취하지 못한 [PAWN_nameDef]의 뇌는 그게 무슨 뜻인지 잘 몰랐습니다. 그녀는 항상 헤실헤실 웃으며 방황했습니다.</Rabbie_Alleylunatic.baseDescription>
+  <Rabbie_Alleylunatic.title>Rabbie Alley</Rabbie_Alleylunatic.title>
+  <Rabbie_Alleylunatic.titleShort>Alley</Rabbie_Alleylunatic.titleShort>
+  <Rabbie_Alleylunatic.baseDescription>[PAWN_nameDef] was a rabbie wandering around the alleys of human rural villages. I spent time getting food from the villagers and wearing the clothes they discarded. Of course, I didn't have the money to buy an expensive planetarium. \n\nThe humans gossiped and fingered, but the brain of [PAWN_nameDef], who couldn't consume planetarium, didn't know what that meant. She always laughed and wandered.</Rabbie_Alleylunatic.baseDescription>
 
 
   <!-- 래비 구멍가게 소녀 -->
 
-  <Rabbie_Cornershopgirl.title>래비 구멍가게 소녀</Rabbie_Cornershopgirl.title>
-  <Rabbie_Cornershopgirl.titleShort>구멍가게소녀</Rabbie_Cornershopgirl.titleShort>
-  <Rabbie_Cornershopgirl.baseDescription>[PAWN_nameDef]은 달도시 정거장 인근의 벽에 칸막이를 치고, 겨우 래비 하나가 들어가는 크기의 가게를 차렸습니다. 판매 품목은 사탕과 초콜릿 그리고 연초 등이었습니다. \n\n간신히 자신과 가족들의 입에 풀칠할 정도였고 그나마도 불법이었지만, 동생이 여럿 딸린 고아라는 처지라는 사정에 제국 경찰들은 조금 눈 감아주기로 했습니다.</Rabbie_Cornershopgirl.baseDescription>
+  <Rabbie_Cornershopgirl.title>Rabbie shop girl</Rabbie_Cornershopgirl.title>
+  <Rabbie_Cornershopgirl.titleShort>Hole shop girl</Rabbie_Cornershopgirl.titleShort>
+  <Rabbie_Cornershopgirl.baseDescription>[PAWN_nameDef] put a partition on the wall near the moon city station and set up a store the size of only one rabbie. The items sold were candy, chocolate, and tobacco. \n\nIt was barely enough to put it in the mouth of himself and his family, and at least it was illegal, but the imperial police decided to close their eyes a little bit because of the situation of being an orphan with multiple younger brothers.</Rabbie_Cornershopgirl.baseDescription>
 
 
   <!-- 래비 동물샵 점주 -->
 
-  <Rabbie_PetshopKP.title>래비 펫샵 점주</Rabbie_PetshopKP.title>
-  <Rabbie_PetshopKP.titleShort>펫샵 점주</Rabbie_PetshopKP.titleShort>
-  <Rabbie_PetshopKP.baseDescription>[PAWN_nameDef]은 부모님이 전쟁에서 목숨을 잃어 펫샵을 물려받은 아이였습니다. 강아지나 고양이는 물론이고 파충류와 설치류들을 돌보는데 능숙했습니다. 영업도 잘하는 편이었지요.</Rabbie_PetshopKP.baseDescription>
+  <Rabbie_PetshopKP.title>Laby Pet Shop Owner</Rabbie_PetshopKP.title>
+  <Rabbie_PetshopKP.titleShort>Pet shop owner</Rabbie_PetshopKP.titleShort>
+  <Rabbie_PetshopKP.baseDescription>[PAWN_nameDef] was a child whose parents inherited a pet shop after losing their lives in the war. He was good at caring for reptiles and rodents as well as dogs and cats. I was also good at sales.</Rabbie_PetshopKP.baseDescription>
 
 
   <!-- 래비 가문의 생존자 -->
 
-  <Rabbie_Noblesurvivor.title>래비 가문의 생존자</Rabbie_Noblesurvivor.title>
-  <Rabbie_Noblesurvivor.titleShort>가문의 생존자</Rabbie_Noblesurvivor.titleShort>
-  <Rabbie_Noblesurvivor.baseDescription>[PAWN_nameDef]은 집안 대대로 장교인 명문가의 래비 아이였습니다. 적대하던 가문의 공작으로 집안이 몰락한 후, 가족은 뿔뿔히 흩어졌습니다. \n\n[PAWN_nameDef]은 생존을 위해 출신지인 달도시를 탈출했고, 신분을 숨긴 채 인간들의 도시와 행성, 위성을 전전했습니다. 여비를 벌기 위해 갖가지 고된 일도 하면서요.</Rabbie_Noblesurvivor.baseDescription>
+  <Rabbie_Noblesurvivor.title>Rabbie family survivor</Rabbie_Noblesurvivor.title>
+  <Rabbie_Noblesurvivor.titleShort>Family survivor</Rabbie_Noblesurvivor.titleShort>
+  <Rabbie_Noblesurvivor.baseDescription>[PAWN_nameDef] was a rabbi child of a prestigious officer who was an officer from generation to generation. After the family collapsed as a peacock of a hostile family, the family scattered. \n\n[PAWN_nameDef] escaped from the lunar city where he was born in order to survive, and while hiding his identity, he traversed human cities, planets, and satellites. Doing all kinds of hard work to earn travel expenses.</Rabbie_Noblesurvivor.baseDescription>
 
 
   <!-- 래비 행성 토끼 -->
 
-  <Rabbie_Planetrabbit.title>래비 행성 토끼</Rabbie_Planetrabbit.title>
-  <Rabbie_Planetrabbit.titleShort>행성 토끼</Rabbie_Planetrabbit.titleShort>
-  <Rabbie_Planetrabbit.baseDescription>[PAWN_nameDef]은 래비티시 제국이 없는 행성에서 태어난데다, 부모님과는 헤어져 버렸습니다. \n\n미개했던 행성이지만 촌락의 인간들은 아무것도 모르는 [PAWN_nameDef]을 데리고 살아주었고, 큰 돈을 들여 플라네타륨까지 구해 먹여 줬습니다. [PAWN_nameDef]도 그들을 부모처럼 여겨 열심히 농삿일을 도왔습니다</Rabbie_Planetrabbit.baseDescription>
+  <Rabbie_Planetrabbit.title>Rabbie planet rabbit</Rabbie_Planetrabbit.title>
+  <Rabbie_Planetrabbit.titleShort>Planet rabbit</Rabbie_Planetrabbit.titleShort>
+  <Rabbie_Planetrabbit.baseDescription>[PAWN_nameDef] was born on a planet without a labyrinth empire, and separated from his parents. \n\nAlthough it was a savage planet, the humans in the village lived with [PAWN_nameDef] who knew nothing, and spent a lot of money to save and feed the planetarium. [PAWN_nameDef] also treated them like their parents and helped hard on the farm.</Rabbie_Planetrabbit.baseDescription>
 
 
   <!-- 래비 꽃집 아이 -->
 
-  <Rabbie_Flowershopgirl.title>래비 꽃집 아이</Rabbie_Flowershopgirl.title>
-  <Rabbie_Flowershopgirl.titleShort>꽃집 아이</Rabbie_Flowershopgirl.titleShort>
-  <Rabbie_Flowershopgirl.baseDescription>[PAWN_nameDef]은 달도시 번화가 대로에 있는 비싼 꽃가게에서 일했습니다.\n\n말주변이 없는 [PAWN_nameDef]은 가게 뒤편에서 꽃을 재배하고, 습도를 맞추고 화환을 예쁘게 다듬는 일을 했습니다.</Rabbie_Flowershopgirl.baseDescription>
+  <Rabbie_Flowershopgirl.title>Rabbie florist kid</Rabbie_Flowershopgirl.title>
+  <Rabbie_Flowershopgirl.titleShort>Florist child</Rabbie_Flowershopgirl.titleShort>
+  <Rabbie_Flowershopgirl.baseDescription>[PAWN_nameDef] worked at an expensive flower shop on a street in the lunar city's downtown area.\n\n[PAWN_nameDef], who has no horses around, grew flowers in the back of the shop, adjusted the humidity, and trimmed the garland.</Rabbie_Flowershopgirl.baseDescription>
 
 
   <!-- 래비 상류층 아이 -->
 
-  <Rabbie_Wealthychild.title>래비 상류층 아이</Rabbie_Wealthychild.title>
-  <Rabbie_Wealthychild.titleShort>금수저</Rabbie_Wealthychild.titleShort>
-  <Rabbie_Wealthychild.baseDescription>달의 도심 가운데에 밀집한 고층빌딩의 최상부층에는 돈 많은 토끼들이 살게 마련입니다. \n\n[PAWN_nameDef]은 부모님을 잘 만나 금수저를 물고 원하는 것은 모두 가지며 살고 있었습니다만, 어리석고 거만한 거북이같은 래비는 아니었습니다. 그녀는 유일하게 흥미를 가진 의학 지식을 꾸준히 쌓고 있었습니다. </Rabbie_Wealthychild.baseDescription>
+  <Rabbie_Wealthychild.title>Rabbie upper class child</Rabbie_Wealthychild.title>
+  <Rabbie_Wealthychild.titleShort>Gold spoon</Rabbie_Wealthychild.titleShort>
+  <Rabbie_Wealthychild.baseDescription>Rich rabbits live on the top floor of high-rise buildings densely located in the center of the moon's city center. \n\n[PAWN_nameDef] met his parents well and lived with a gold spoon and whatever he wanted, but he was not a stupid and arrogant turtle-like rabbie. She was the only one who was constantly accumulating medical knowledge of interest. </Rabbie_Wealthychild.baseDescription>
 
 
   <!-- 래비 장교의 아이 -->
 
-  <Rabbie_Officerchild.title>래비 장교의 아이</Rabbie_Officerchild.title>
-  <Rabbie_Officerchild.titleShort>장교의 아이</Rabbie_Officerchild.titleShort>
-  <Rabbie_Officerchild.baseDescription>[PAWN_nameDef]은 달의 도시에서 상급 장교의 아이로 태어났습니다. 가문의 예법에 따라 식사 때 당근을 자르는 법, 전투기 조종술, 총, 검을 다루는 법 등을 배우며 교양을 쌓았습니다만, 고된 일을 해본 경험은 없나 봅니다.</Rabbie_Officerchild.baseDescription>
+  <Rabbie_Officerchild.title>Rabbie Officer's Child</Rabbie_Officerchild.title>
+  <Rabbie_Officerchild.titleShort>Officer's child</Rabbie_Officerchild.titleShort>
+  <Rabbie_Officerchild.baseDescription>[PAWN_nameDef] was born in the City of the Moon as a child of a senior officer. Following the family's etiquette, I learned how to cut carrots at meals, how to control fighter jets, and how to handle guns and swords.</Rabbie_Officerchild.baseDescription>
 
 
   <!-- 래비 전력관리국 고위직 -->
 
-  <Rabbie_ExcutiveEnergy.title>래비 전력관리국 고위직</Rabbie_ExcutiveEnergy.title>
-  <Rabbie_ExcutiveEnergy.titleShort>전력관리국 간부</Rabbie_ExcutiveEnergy.titleShort>
-  <Rabbie_ExcutiveEnergy.baseDescription>[PAWN_nameDef]은 래비티시 제국의 핵심인 전력관리국의 고위 직원으로, 군의 보호를 받으며 달의 도시가 소모하는 막대한 전력을 수급하는 책무를 맡고 있습니다. \n\n[PAWN_nameDef]은 하나의 연구부서 혹은 기술자부서를 이끌며, 전력관리국 국장이 중요한 정책을 결정내릴수 있도록 보좌했습니다.</Rabbie_ExcutiveEnergy.baseDescription>
+  <Rabbie_ExcutiveEnergy.title>Rabbie Power Management Bureau Senior Position</Rabbie_ExcutiveEnergy.title>
+  <Rabbie_ExcutiveEnergy.titleShort>Power Management Bureau Executive</Rabbie_ExcutiveEnergy.titleShort>
+  <Rabbie_ExcutiveEnergy.baseDescription>[PAWN_nameDef] is a high-ranking employee of the Power Management Bureau, the core of the Rabitic Empire, and is in charge of supplying and receiving the enormous amount of electricity consumed by the lunar city under military protection. \n\n[PAWN_nameDef] led a research department or engineering department, and assisted the Director of Power Management in making important policy decisions.</Rabbie_ExcutiveEnergy.baseDescription>
 
 
   <!-- 래비 전력관리국 기술자 -->
 
-  <Rabbie_EngineerEnergy.title>래비 전력관리국 기술자</Rabbie_EngineerEnergy.title>
-  <Rabbie_EngineerEnergy.titleShort>전력관리국 기술자</Rabbie_EngineerEnergy.titleShort>
-  <Rabbie_EngineerEnergy.baseDescription>[PAWN_nameDef]은 막대한 전력을 소모하는 아르콜로지인 달의 도시에 전력을 공급하는 책임기술자입니다. \n\n[PAWN_nameDef]은 공조기와 도시설비, 식량농장에 투입되는 전력량을 점검하고, 행성에서 보내지는 에너지를 수납하는 수납기를 점검하고 개선했습니다.</Rabbie_EngineerEnergy.baseDescription>
+  <Rabbie_EngineerEnergy.title>Laby Electric Power Management Bureau Engineer</Rabbie_EngineerEnergy.title>
+  <Rabbie_EngineerEnergy.titleShort>Electric Power Management Bureau Engineer</Rabbie_EngineerEnergy.titleShort>
+  <Rabbie_EngineerEnergy.baseDescription>[PAWN_nameDef] is a responsible engineer who supplies power to the Moon City, an arcology that consumes enormous power. \n\n[PAWN_nameDef] has checked the amount of electricity put into air conditioners, city facilities, and food farms, and inspected and improved the receivers that store energy sent from the planet.</Rabbie_EngineerEnergy.baseDescription>
 
 
   <!-- 래비 전력관리국 과학자 -->
 
-  <Rabbie_ScientistEnergy.title>래비 전력관리국 과학자</Rabbie_ScientistEnergy.title>
-  <Rabbie_ScientistEnergy.titleShort>전력관리국 과학자</Rabbie_ScientistEnergy.titleShort>
-  <Rabbie_ScientistEnergy.baseDescription>[PAWN_nameDef]은 래비티시 제국대학을 졸업하고 전력관리국에 들어온 엘리트 과학자입니다.\n\n최신 설비로 가득한 국립 연구실, 혹은 행성 현지에서, 효율적인 에너지 공급을 위해 [PAWN_nameDef]은 계속 연구에 힘썼습니다.</Rabbie_ScientistEnergy.baseDescription>
+  <Rabbie_ScientistEnergy.title>Laby Electric Power Authority Scientist</Rabbie_ScientistEnergy.title>
+  <Rabbie_ScientistEnergy.titleShort>Power Management Bureau Scientist</Rabbie_ScientistEnergy.titleShort>
+  <Rabbie_ScientistEnergy.baseDescription>[PAWN_nameDef] is an elite scientist who graduated from Labitish Imperial University and entered the Power Management Bureau.\n\nIn a national laboratory full of state-of-the-art facilities, or on a planetary site, [PAWN_nameDef] continued to work hard for efficient energy supply. .</Rabbie_ScientistEnergy.baseDescription>
 
 
   <!-- 래비 전력관리국 직원 -->
 
-  <Rabbie_StaffEnergy.title>래비 전력관리국 직원</Rabbie_StaffEnergy.title>
-  <Rabbie_StaffEnergy.titleShort>전력관리국 직원</Rabbie_StaffEnergy.titleShort>
-  <Rabbie_StaffEnergy.baseDescription>[PAWN_nameDef]은 래비티시 전력관리국의 직원이자 요원입니다. \n\n발전소와 송전기를 관리하고 점검하는 것도, 새로 들어온 직원을 지도교육하는 것도, 각종 서류업무도 [PAWN_nameDef]의 일입니다. \n가끔은 군인들과 함께 총을 들고 행성민들에게서 시설을 지키기도 해야 했습니다. [PAWN_nameDef]는 제국의 젊은 중추입니다.</Rabbie_StaffEnergy.baseDescription>
+  <Rabbie_StaffEnergy.title>Rabbie Electric Power Management Office Staff</Rabbie_StaffEnergy.title>
+  <Rabbie_StaffEnergy.titleShort>Power Management Bureau staff</Rabbie_StaffEnergy.titleShort>
+  <Rabbie_StaffEnergy.baseDescription>[PAWN_nameDef] is an employee and agent of the Labity City Power Authority. \n\nManaging and inspecting power plants and power transmission, supervising and training new employees, and various paperwork are [PAWN_nameDef]'s job. \nOccasionally, I had to hold guns with soldiers to protect facilities from planetary people. [PAWN_nameDef] is the young backbone of the empire.</Rabbie_StaffEnergy.baseDescription>
 
 
   <!-- 래비 전력관리국 신입직원 -->
 
-  <Rabbie_JStaffEnergy.title>래비 전력관리국 신입직원</Rabbie_JStaffEnergy.title>
-  <Rabbie_JStaffEnergy.titleShort>신입직원</Rabbie_JStaffEnergy.titleShort>
-  <Rabbie_JStaffEnergy.baseDescription>[PAWN_nameDef]은 대학을 졸업하고 관료로 발을 내딛은, 전력관리국의 신입 직원입니다. \n아직은 익숙지 않지만 곧 직책에 맞는 위치에 배속될 예정이었습니다.</Rabbie_JStaffEnergy.baseDescription>
+  <Rabbie_JStaffEnergy.title>Rabbie Power Management Bureau New Employee</Rabbie_JStaffEnergy.title>
+  <Rabbie_JStaffEnergy.titleShort>New employee</Rabbie_JStaffEnergy.titleShort>
+  <Rabbie_JStaffEnergy.baseDescription>[PAWN_nameDef] is a new employee of the Power Management Bureau, who graduated from university and stepped up as a bureaucrat. \nI'm not familiar with it yet, but soon I was going to be assigned to the right position.</Rabbie_JStaffEnergy.baseDescription>
 
 
   <!-- 래비 엠프레스의 수행비서 -->
 
-  <Rabbie_EmpressSecretary.title>래비 엠프레스의 수행비서</Rabbie_EmpressSecretary.title>
-  <Rabbie_EmpressSecretary.titleShort>비서</Rabbie_EmpressSecretary.titleShort>
-  <Rabbie_EmpressSecretary.baseDescription>[PAWN_nameDef]는 래비 엠프레스에게 사랑받는 첩이면서 참모 혹은 개인비서의 역할을 함께 수행하는 영리한 래비였습니다. \n\n[PAWN_nameDef]의 조언으로 행성에 대한 제국의 정책이 결정된 때도 있는, 아주 중요한 위치였습니다.</Rabbie_EmpressSecretary.baseDescription>
+  <Rabbie_EmpressSecretary.title>Rabbi Empress's assistant</Rabbie_EmpressSecretary.title>
+  <Rabbie_EmpressSecretary.titleShort>Secretary</Rabbie_EmpressSecretary.titleShort>
+  <Rabbie_EmpressSecretary.baseDescription>[PAWN_nameDef] was a concubine loved by Rabbie Empress and a clever rabbi who played the role of a staff or personal assistant. \n\nIt was a very important position, at times when the empire's policy on the planet was decided on the advice of [PAWN_nameDef].</Rabbie_EmpressSecretary.baseDescription>
 
 
   <!-- 래비 이주선 감독자 -->
 
-  <Rabbie_Starshipoverseer.title>래비 이주선 감독자</Rabbie_Starshipoverseer.title>
-  <Rabbie_Starshipoverseer.titleShort>이주선 감독자</Rabbie_Starshipoverseer.titleShort>
-  <Rabbie_Starshipoverseer.baseDescription>[PAWN_nameDef]은 인공지능이 도저히 결정할 수 없는 중대한 기로에 놓였을 때에 가끔 동면에서 깨워져, 모두에게 최선이 될 정책을 결정하고 기술적인 문제도 해결하곤 했습니다. \n\n오랜 잠에 든 래비들을 다른 우주까지 안전히 데려가는 것이 [PAWN_pronoun]의 책무이지만, 기나긴 시간 동안 어둠속에 싸인 인공지능과의 단편적인 대면만이 기억 속에 켜켜이 쌓여갔고 정신은 피폐해져 갔습니다.</Rabbie_Starshipoverseer.baseDescription>
+  <Rabbie_Starshipoverseer.title>Rabbi Lee Ju-sun Supervisor</Rabbie_Starshipoverseer.title>
+  <Rabbie_Starshipoverseer.titleShort>Supervisor Lee Ju-sun</Rabbie_Starshipoverseer.titleShort>
+  <Rabbie_Starshipoverseer.baseDescription>[PAWN_nameDef] would occasionally wake up from hibernation when AI was at a critical crossroads that could hardly be determined, deciding policies that would work best for everyone and solving technical problems. \n\nIt is the responsibility of [PAWN_pronoun] to safely take the rabbies who have been asleep for a long time to another universe, but for a long period of time, only a fragmentary encounter with the artificial intelligence shrouded in the dark was piled up in the memory, and the mind was devastated.</Rabbie_Starshipoverseer.baseDescription>
 
 
   <!-- 래비 함대 제독 -->
 
-  <Rabbie_Fleetadmiral.title>래비 함대 제독</Rabbie_Fleetadmiral.title>
-  <Rabbie_Fleetadmiral.titleShort>제독</Rabbie_Fleetadmiral.titleShort>
-  <Rabbie_Fleetadmiral.baseDescription>[PAWN_nameDef]은 래비티시 제국의 함대를 운용하는 제독들 중 하나입니다. \n\n제독들은 거의 우주의 기함에서 지내지만, [PAWN_nameDef]은 직접 행성을 살피고 관리하는것이 중요하다고 생각하고 있습니다.</Rabbie_Fleetadmiral.baseDescription>
+  <Rabbie_Fleetadmiral.title>Admiral of the Rabbie Fleet</Rabbie_Fleetadmiral.title>
+  <Rabbie_Fleetadmiral.titleShort>Admiral</Rabbie_Fleetadmiral.titleShort>
+  <Rabbie_Fleetadmiral.baseDescription>[PAWN_nameDef] is one of the admirals who operate the fleet of the ravity empire. \n\nAdmirals mostly live on cosmic flagships, but [PAWN_nameDef] believes that it is important to inspect and manage the planet yourself.</Rabbie_Fleetadmiral.baseDescription>
 
 
   <!-- 래비 메트로놈 -->
 
-  <Rabbie_Metronome.title>래비 메트로놈</Rabbie_Metronome.title>
-  <Rabbie_Metronome.titleShort>메트로놈</Rabbie_Metronome.titleShort>
-  <Rabbie_Metronome.baseDescription>[PAWN_nameDef]은 메트로놈 훈련을 마친 래비입니다. [PAWN_nameDef]의 뇌에는 고용주가 필요로 하는 모든 정보가, 최적의 결론까지 몇가지 내린 채로 준비되어 있습니다. \n\n참모로서 메트로놈을 고용하기 위한 비용은 정말 막대해서 명문가의 가주나 래비 엠프레스, 혹은 행성의 주인 정도가 데리고 다닐 수 있습니다. \n\n그들은 절대 고용주를 배신하지 않는 것으로도 유명합니다. 감정이 없는 것으로도 말이지요.</Rabbie_Metronome.baseDescription>
+  <Rabbie_Metronome.title>Rabbie Metronome</Rabbie_Metronome.title>
+  <Rabbie_Metronome.titleShort>metronome</Rabbie_Metronome.titleShort>
+  <Rabbie_Metronome.baseDescription>[PAWN_nameDef] is a rabbie who has completed metronome training. The brain of [PAWN_nameDef] is prepared with all the information an employer needs, with some of the best conclusions. \n\nThe cost of hiring a metronome as a staff is so enormous that it can be carried by a prestigious house, a Rabbie Empress, or a planetary owner. \n\nThey are also famous for never betraying their employers. Even with no feelings.</Rabbie_Metronome.baseDescription>
 
 
   <!-- 래비 승전 사령관 -->
@@ -395,86 +395,86 @@
 
   <!-- 래비 PMC 베테랑 -->
 
-  <Rabbie_PMCveteran.title>래비 PMC 베테랑</Rabbie_PMCveteran.title>
-  <Rabbie_PMCveteran.titleShort>PMC 베테랑</Rabbie_PMCveteran.titleShort>
-  <Rabbie_PMCveteran.baseDescription>[PAWN_nameDef]은 PMC에서 수도 없이 많은 경험을 겪은 베테랑 용병 토끼입니다. \n\n매 교전 상황마다 적의 위치와 아군의 위치를 가늠해 최적의 결론을 도출했고, [PAWN_pronoun]의 선택은 전투를 승리로 이끌거나, 최소의 피해로 후퇴할 수 있게 했습니다. \n그 능력은 정규군 지휘자와 비견될 정도입니다.</Rabbie_PMCveteran.baseDescription>
+  <Rabbie_PMCveteran.title>Rabbie PMC veteran</Rabbie_PMCveteran.title>
+  <Rabbie_PMCveteran.titleShort>PMC veteran</Rabbie_PMCveteran.titleShort>
+  <Rabbie_PMCveteran.baseDescription>[PAWN_nameDef] is a veteran mercenary rabbit with countless experiences in PMC. \n\nOptimal conclusions were drawn by weighing the enemy's position and allies' positions in each engagement situation, and the choice of [PAWN_pronoun] led the battle to victory or retreat with minimal damage. \nThat ability is comparable to a regular commander.</Rabbie_PMCveteran.baseDescription>
 
 
   <!-- 래비 전투기 조종사 -->
 
-  <Rabbie_Fighterpilot.title>래비 전투기 조종사</Rabbie_Fighterpilot.title>
-  <Rabbie_Fighterpilot.titleShort>조종사</Rabbie_Fighterpilot.titleShort>
-  <Rabbie_Fighterpilot.baseDescription>[PAWN_nameDef]은 함선에 실린 전투기를 조종하는 파일럿 래비였습니다. \n\n문제가 생겨 항법장치가 파괴되고 작전구역에서 튕겨져 나온 후, 동면장치를 가동한 전투기를 운행한지 알수없는 시일 후에 [PAWN_pronoun]은 간신히 변방계의 행성에 불시착했습니다.</Rabbie_Fighterpilot.baseDescription>
+  <Rabbie_Fighterpilot.title>Rabbie fighter pilot</Rabbie_Fighterpilot.title>
+  <Rabbie_Fighterpilot.titleShort>pilot</Rabbie_Fighterpilot.titleShort>
+  <Rabbie_Fighterpilot.baseDescription>[PAWN_nameDef] was a pilot rabbi controlling a fighter aboard a ship. \n\nAfter a problem caused the navigation system to be destroyed and bounced out of the operating area, [PAWN_pronoun] barely crash-landed on a planet in the marginal system after a period of time when it was not known whether or not a fighter with hibernation was in operation.</Rabbie_Fighterpilot.baseDescription>
 
 
   <!-- 래비 야전 의무관 -->
 
-  <Rabbie_Fieldmedic.title>래비 야전 의무관</Rabbie_Fieldmedic.title>
-  <Rabbie_Fieldmedic.titleShort>의무관</Rabbie_Fieldmedic.titleShort>
-  <Rabbie_Fieldmedic.baseDescription>[PAWN_nameDef]은 전쟁 중 래비들이 끔찍한 모습이 되는 꼴을 많이 봐 왔습니다. \n\n[PAWN_nameDef]은 자신의 앞주머니에 달린 붉은 십자 모양을 보고 희망을 찾은 전장의 부상토끼들을 치료하고, 이송하며 삶의 보람을 느낍니다. \n예전에 동료 의무관이 폭발에 휘말려 가루가 되는 걸 봤지만, 다른 이들을 구할 수 있다면 그렇게 죽어도 좋다 생각했습니다.</Rabbie_Fieldmedic.baseDescription>
+  <Rabbie_Fieldmedic.title>Rabbie Field Medical Officer</Rabbie_Fieldmedic.title>
+  <Rabbie_Fieldmedic.titleShort>Medical officer</Rabbie_Fieldmedic.titleShort>
+  <Rabbie_Fieldmedic.baseDescription>[PAWN_nameDef] has seen many rabbis look terrible during the war. \n\n[PAWN_nameDef] sees the red cross on his front pocket and finds hope, heals and transports the wounded rabbits on the battlefield and feels the reward of life. \nI've seen a fellow medical officer get caught in an explosion and turn into powder, but I thought it was okay to die like that if I could save others.</Rabbie_Fieldmedic.baseDescription>
 
 
   <!-- 래비 생존한 장교 -->
 
-  <Rabbie_Survivorofficer.title>래비 생존한 장교</Rabbie_Survivorofficer.title>
-  <Rabbie_Survivorofficer.titleShort>장교</Rabbie_Survivorofficer.titleShort>
-  <Rabbie_Survivorofficer.baseDescription>어떤 달의 도시 외곽의 주택가에서, 젊은 장교인 [PAWN_nameDef]와 아내는 행복하게 살고 있었습니다. \n\n어느날 월면으로 빛줄기들이 떨어지고 도시가 파괴되기 전까지는요. 적 문명의 군사력은 강력했고 래비티시 제국은 피해가 큰 전쟁을 치렀습니다. \n\n[PAWN_nameDef]은 가족의 생사도 모른 채 방공호채로 우주로 튕겨졌습니다.</Rabbie_Survivorofficer.baseDescription>
+  <Rabbie_Survivorofficer.title>Rabbie Surviving Officer</Rabbie_Survivorofficer.title>
+  <Rabbie_Survivorofficer.titleShort>officer</Rabbie_Survivorofficer.titleShort>
+  <Rabbie_Survivorofficer.baseDescription>In a residential area outside the city of a certain month, a young officer [PAWN_nameDef] and his wife were living happily. \n\nUntil one day, rays of light fall to the moon and the city is destroyed. The enemy civilization's military power was strong, and the ravity empire fought a devastating war. \n\n[PAWN_nameDef] was thrown into space as an air defense shelter without knowing the life or death of his family.</Rabbie_Survivorofficer.baseDescription>
 
 
   <!-- 래비 전술 지휘관 -->
 
-  <Rabbie_tacticalcommander.title>래비 전술 지휘관</Rabbie_tacticalcommander.title>
-  <Rabbie_tacticalcommander.titleShort>지휘관</Rabbie_tacticalcommander.titleShort>
-  <Rabbie_tacticalcommander.baseDescription>[PAWN_nameDef]은 처음엔 장교가 되는 것엔 관심도 없었습니다. \n\n그냥 평범한 보병 중 하나였던 [PAWN_nameDef]은 전쟁중에 분대원들과 고립되어 위기에 빠졌지만, 그들을 이끌고 적을 뚫어내 생환했고 전과를 인정받아 장교로 진급했습니다.</Rabbie_tacticalcommander.baseDescription>
+  <Rabbie_tacticalcommander.title>Rabbie Tactical Commander</Rabbie_tacticalcommander.title>
+  <Rabbie_tacticalcommander.titleShort>Commander</Rabbie_tacticalcommander.titleShort>
+  <Rabbie_tacticalcommander.baseDescription>[PAWN_nameDef] was not interested in becoming an officer at first. \n\n[PAWN_nameDef], who was just one of the ordinary infantry, was isolated from the squad members during the war and fell into crisis, but he led them to break through the enemy and survived, and he was promoted to officer in recognition of his criminal record.</Rabbie_tacticalcommander.baseDescription>
 
 
   <!-- 래비 무기설계국 기술자 -->
 
-  <Rabbie_Weaponarchitect.title>래비 무기설계국 기술자</Rabbie_Weaponarchitect.title>
-  <Rabbie_Weaponarchitect.titleShort>설계자</Rabbie_Weaponarchitect.titleShort>
-  <Rabbie_Weaponarchitect.baseDescription>[PAWN_nameDef]은 래비티시 제국대학을 졸업한 엘리트 기술자입니다. \n\n이 우주의 래비용 무기체계와 강력한 장비들은 대부분 [PAWN_nameDef]의 팀인 콜리플라워 웍스에서 청사진을 그렸고, 테스트를 거쳐 생산 및 배치되었습니다.</Rabbie_Weaponarchitect.baseDescription>
+  <Rabbie_Weaponarchitect.title>Rabbie Weapon Design Bureau Engineer</Rabbie_Weaponarchitect.title>
+  <Rabbie_Weaponarchitect.titleShort>designer</Rabbie_Weaponarchitect.titleShort>
+  <Rabbie_Weaponarchitect.baseDescription>[PAWN_nameDef] is an elite engineer who graduated from the Imperial University of Labity City. \n\nThis space's Rabbie weapon system and powerful equipment were mostly blueprinted by Cauliflower Works, a team of [PAWN_nameDef], tested, produced and deployed.</Rabbie_Weaponarchitect.baseDescription>
 
 
   <!-- 래비 내과 의사 -->
 
-  <Rabbie_Internist.title>래비 내과 의사</Rabbie_Internist.title>
-  <Rabbie_Internist.titleShort>내과 의사</Rabbie_Internist.titleShort>
-  <Rabbie_Internist.baseDescription>[PAWN_nameDef]은 달의 도시 한가운데에 개인병원을 차려 진료를 봤습니다. \n\n[PAWN_nameDef]은 여러 간호사들도, 환자 래비들에게도 존경받는 의사 선생님이었습니다. 병원 운영은 어려운 일이었으나 잘 해 나갔습니다.</Rabbie_Internist.baseDescription>
+  <Rabbie_Internist.title>Rabbie physician</Rabbie_Internist.title>
+  <Rabbie_Internist.titleShort>physician</Rabbie_Internist.titleShort>
+  <Rabbie_Internist.baseDescription>[PAWN_nameDef] set up a private hospital in the middle of the Moon City for medical treatment. \n\n[PAWN_nameDef] was a doctor who was respected by many nurses and patient rabbis. Operating the hospital was difficult, but it went well.</Rabbie_Internist.baseDescription>
 
 
   <!-- 래비 외과 의사 -->
 
-  <Rabbie_surgeon.title>래비 외과 의사</Rabbie_surgeon.title>
-  <Rabbie_surgeon.titleShort>외과 의사</Rabbie_surgeon.titleShort>
-  <Rabbie_surgeon.baseDescription>커다란 종합 병원의 외과부서에서 페이닥터로 월급을 받는 [PAWN_nameDef]는 응급환자가 발생할때마다 잠도 제대로 자지 못하고 달려와서 래비들을 치료하곤 했습니다. \n\가끔은 응급실에서 분란을 일으키는 술취한 래비들이나 폭력 래비들에게 혼쭐을 내 주기도 했습니다.</Rabbie_surgeon.baseDescription>
+  <Rabbie_surgeon.title>Laby Surgeon</Rabbie_surgeon.title>
+  <Rabbie_surgeon.titleShort>surgeon</Rabbie_surgeon.titleShort>
+  <Rabbie_surgeon.baseDescription>[PAWN_nameDef], who is paid as a pay doctor in the surgical department of a large general hospital, used to treat rabbies by running out of sleep whenever an emergency patient occurred. \n\Sometimes, I've been chasing drunken rabbies and violent rabbis who are causing trouble in the emergency room.</Rabbie_surgeon.baseDescription>
 
 
   <!-- 래비 정신보건국 의료원 -->
 
-  <Rabbie_psychiatry.title>래비 정신보건국 의료원</Rabbie_psychiatry.title>
-  <Rabbie_psychiatry.titleShort>의사</Rabbie_psychiatry.titleShort>
-  <Rabbie_psychiatry.baseDescription>[PAWN_nameDef]은 모종의 일로 래비 종족의 유전자에 각인된 정신적 불안정함을 치료하기 위해 보건의학에 평생을 바치기로 다짐했습니다.</Rabbie_psychiatry.baseDescription>
+  <Rabbie_psychiatry.title>Rabbie Mental Health Bureau Medical Center</Rabbie_psychiatry.title>
+  <Rabbie_psychiatry.titleShort>doctor</Rabbie_psychiatry.titleShort>
+  <Rabbie_psychiatry.baseDescription>[PAWN_nameDef] pledged to devote a whole life to health medicine to treat the mental instability imprinted in the genes of the Rabbie race for some kind of work.</Rabbie_psychiatry.baseDescription>
 
 
   <!-- 래비 토끼굴 굴착공 -->
 
-  <Rabbie_excavator.title>래비 토끼굴 굴착공</Rabbie_excavator.title>
-  <Rabbie_excavator.titleShort>굴착공</Rabbie_excavator.titleShort>
-  <Rabbie_excavator.baseDescription>토끼굴을 파는 것은 팔이 연약한 래비들은 기피하는 일이지만, 굴을 파는 본능이 강하게 남은 래비들이 있습니다. \n\n[PAWN_nameDef]은 바로 그러한 래비였고, [PAWN_pronoun]은 그동안 하던 일을 내려놓고서, 달의 갱도에서 드릴로 굴을 파고 보수를 받는 굴파기 전문가가 되었습니다. 어두운 굴에 있을때 뭐라 말할 수 없는 편안함을 느꼈습니다.</Rabbie_excavator.baseDescription>
+  <Rabbie_excavator.title>Laby Rabbit Excavator</Rabbie_excavator.title>
+  <Rabbie_excavator.titleShort>Excavator</Rabbie_excavator.titleShort>
+  <Rabbie_excavator.baseDescription>Digging a rabbit hole is something that rabbis with weak arms avoid, but there are rabbis who have a strong instinct to dig. \n\n[PAWN_nameDef] was just such a rabbie, and [PAWN_pronoun] laid down what he had been doing and became a paid digging expert who drilled in the lunar shaft. When I was in a dark cave, I felt indescribable comfort.</Rabbie_excavator.baseDescription>
 
 
   <!-- 래비 달농장 농부 -->
 
-  <Rabbie_Moonfarmer.title>래비 달농장 농부</Rabbie_Moonfarmer.title>
-  <Rabbie_Moonfarmer.titleShort>달농부</Rabbie_Moonfarmer.titleShort>
-  <Rabbie_Moonfarmer.baseDescription>유리온실이 덮인 달의 토양에 쪼그려 앉아 감자와 당근, 브로콜리와 샐러리, 콜리플라워, 그리고 갖가지 곡물을 재배하는 것이 [PAWN_nameDef]의 일입니다.\n\n농부로서의 일에 편안함을 느낀 그녀는 복잡한 일을 생각하지 않고, 땀 흘리며 마음편히 살기로 했습니다.</Rabbie_Moonfarmer.baseDescription>
+  <Rabbie_Moonfarmer.title>Rabbie Moon Farm Farmer</Rabbie_Moonfarmer.title>
+  <Rabbie_Moonfarmer.titleShort>Moon Farmer</Rabbie_Moonfarmer.titleShort>
+  <Rabbie_Moonfarmer.baseDescription>[PAWN_nameDef] is the job of [PAWN_nameDef] to squat in the soil of the moon covered in a glass greenhouse and grow potatoes and carrots, broccoli and celery, cauliflower, and various kinds of grains.\n\nShe feels comfortable in her work as a farmer. I decided to live comfortably by sweating without thinking about it.</Rabbie_Moonfarmer.baseDescription>
 
 
   <!-- 래비 학교 교사 -->
 
-  <Rabbie_Schoolteacher.title>래비 학교 교사</Rabbie_Schoolteacher.title>
-  <Rabbie_Schoolteacher.titleShort>학교 교사</Rabbie_Schoolteacher.titleShort>
-  <Rabbie_Schoolteacher.baseDescription>[PAWN_nameDef] 은 래비 학생들을 사랑하고, 무한정 칭찬해주는 덕에 인기 많은 선생님이었습니다. \n\n졸업을 앞둔 학생들과 여행을 떠났을 때도 많은 래비 학생들이 [PAWN_pronoun]과 함께 앉길 원했습니다.</Rabbie_Schoolteacher.baseDescription>
+  <Rabbie_Schoolteacher.title>Laby School Teacher</Rabbie_Schoolteacher.title>
+  <Rabbie_Schoolteacher.titleShort>School teacher</Rabbie_Schoolteacher.titleShort>
+  <Rabbie_Schoolteacher.baseDescription>[PAWN_nameDef] was a popular teacher because he loved the rabbie students and praised him infinitely. \n\nWhen I went on a trip with students who were about to graduate, many rabbie students wanted to sit down with [PAWN_pronoun].</Rabbie_Schoolteacher.baseDescription>
 
 
   <!-- 래비 사기업 영업요원 -->

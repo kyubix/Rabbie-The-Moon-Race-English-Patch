@@ -8,7 +8,7 @@
   <ThingDef ParentName="ResourceBase">
     <defName>Moonthread</defName>
     <label>Moonthread</label>
-    <description>래비티시 제국에서 생산하는 합성원단입니다. \n\n여타 우주에서 생산하는 합성원단과 크게 다르지 않게 가볍고 튼튼한데다, 발색이 잘 되고 좋은 질감으로 래비들이 각종 옷을 만들때 널리 사용합니다.</description>
+    <description>It is a synthetic fabric produced by the Labitish Empire \n\nNot much different from synthetic fabrics produced in other universes, it is light and durable, has good color development, and has a good texture, so it is widely used by rabbies to make various clothes.</description>
     <graphicData>
       <texPath>Things/Resource/Moonthread</texPath>
       <graphicClass>Graphic_StackCount</graphicClass>
@@ -46,8 +46,8 @@
 
   <ThingDef ParentName="ResourceBase">
     <defName>Moonsilk</defName>
-    <label>달 비단</label>
-    <description>래비티시 제국의 특산품인 문실크입니다. \n\n달빛을 담은 듯 창백한 푸른 빛이 살짝 감도는 이 직물은, 분자단위에서 결합되어 달의 연구자들이 생각하는 이상적인 강도와 감촉을 만들어내어 여러 우주에서 귀하게 여겨지고 있습니다만 \n제조에 많은 비용이 들어 래비들의 수요조차 감당하지 못하고 있습니다.</description>
+    <label>Moon silk</label>
+    <description>It is Moonsilk, a special product of the Labity Empire. \n\nThis fabric, which has a slight pale blue light as if containing moonlight, is combined at the molecular level to create the ideal strength and texture that the moon researchers think, and is regarded as precious in many universes. Due to the high cost, we cannot even meet the demand of rabbies.</description>
     <graphicData>
       <texPath>Things/Resource/Moonsilk</texPath>
       <graphicClass>Graphic_StackCount</graphicClass>

@@ -3,86 +3,86 @@
 
   <!-- 래비 플레이어 정착민 -->
 
-  <RB_Colonist.label>래비 정착민</RB_Colonist.label>
-  <RB_Colonist.labelPlural>래비 정착민들</RB_Colonist.labelPlural>
-  <RB_Colonist.labelMale>남성 래비 정착민</RB_Colonist.labelMale>
-  <RB_Colonist.labelMalePlural>남성 래비 정착민들</RB_Colonist.labelMalePlural>
-  <RB_Colonist.labelFemale>여성 래비 정착민</RB_Colonist.labelFemale>
-  <RB_Colonist.labelFemalePlural>여성 래비 정착민들</RB_Colonist.labelFemalePlural>
+  <RB_Colonist.label>Rabbie Settlers</RB_Colonist.label>
+  <RB_Colonist.labelPlural>Rabbie Settlers</RB_Colonist.labelPlural>
+  <RB_Colonist.labelMale>Male rabbie settlers</RB_Colonist.labelMale>
+  <RB_Colonist.labelMalePlural>Male rabbie settlers</RB_Colonist.labelMalePlural>
+  <RB_Colonist.labelFemale>Female rabbie settlers</RB_Colonist.labelFemale>
+  <RB_Colonist.labelFemalePlural>Female rabbie settlers</RB_Colonist.labelFemalePlural>
 
 
   <!-- 래비티시 전력관리국 -->
 
-  <RB_EnergySupply.label>전력관리국 직원</RB_EnergySupply.label>
-  <RB_EnergySupply.labelPlural>전력관리국 직원들</RB_EnergySupply.labelPlural>
-  <RB_EnergySupply.labelMale>남성 전력관리국 직원</RB_EnergySupply.labelMale>
-  <RB_EnergySupply.labelMalePlural>남성 전력관리국 직원들</RB_EnergySupply.labelMalePlural>
-  <RB_EnergySupply.labelFemale>여성 전력관리국 직원</RB_EnergySupply.labelFemale>
-  <RB_EnergySupply.labelFemalePlural>여성 전력관리국 직원들</RB_EnergySupply.labelFemalePlural>
+  <RB_EnergySupply.label>Power Management Bureau staff</RB_EnergySupply.label>
+  <RB_EnergySupply.labelPlural>Power Management Bureau staff</RB_EnergySupply.labelPlural>
+  <RB_EnergySupply.labelMale>Male Power Management Officer</RB_EnergySupply.labelMale>
+  <RB_EnergySupply.labelMalePlural>Men's power management office staff</RB_EnergySupply.labelMalePlural>
+  <RB_EnergySupply.labelFemale>Women's Power Management Bureau staff</RB_EnergySupply.labelFemale>
+  <RB_EnergySupply.labelFemalePlural>Women's Power Authority staff</RB_EnergySupply.labelFemalePlural>
 
 
   <!-- 래비티시 기술자 -->
 
-  <RB_Technician.label>기술자</RB_Technician.label>
-  <RB_Technician.labelPlural>기술자s</RB_Technician.labelPlural>
-  <RB_Technician.labelMale>남성 기술자</RB_Technician.labelMale>
-  <RB_Technician.labelMalePlural>남성 기술자s</RB_Technician.labelMalePlural>
-  <RB_Technician.labelFemale>여성 기술자</RB_Technician.labelFemale>
-  <RB_Technician.labelFemalePlural>여성 기술자s</RB_Technician.labelFemalePlural>
+  <RB_Technician.label>technician</RB_Technician.label>
+  <RB_Technician.labelPlural>Technicians</RB_Technician.labelPlural>
+  <RB_Technician.labelMale>Male technician</RB_Technician.labelMale>
+  <RB_Technician.labelMalePlural>Male technicians</RB_Technician.labelMalePlural>
+  <RB_Technician.labelFemale>Female technician</RB_Technician.labelFemale>
+  <RB_Technician.labelFemalePlural>Female technicians</RB_Technician.labelFemalePlural>
 
 
   <!-- 노동자 -->
 
-  <RB_Worker.label>노동자</RB_Worker.label>
-  <RB_Worker.labelPlural>노동자들</RB_Worker.labelPlural>
-  <RB_Worker.labelMale>남성 노동자</RB_Worker.labelMale>
-  <RB_Worker.labelMalePlural>남성 노동자들</RB_Worker.labelMalePlural>
-  <RB_Worker.labelFemale>여성 노동자</RB_Worker.labelFemale>
-  <RB_Worker.labelFemalePlural>여성 노동자들</RB_Worker.labelFemalePlural>
+  <RB_Worker.label>worker</RB_Worker.label>
+  <RB_Worker.labelPlural>Workers</RB_Worker.labelPlural>
+  <RB_Worker.labelMale>Male worker</RB_Worker.labelMale>
+  <RB_Worker.labelMalePlural>Male workers</RB_Worker.labelMalePlural>
+  <RB_Worker.labelFemale>Female worker</RB_Worker.labelFemale>
+  <RB_Worker.labelFemalePlural>Women workers</RB_Worker.labelFemalePlural>
 
 
   <!-- 자유토끼 -->
 
-  <RB_Wanderer.label>자유토끼</RB_Wanderer.label>
-  <RB_Wanderer.labelPlural>자유토끼들</RB_Wanderer.labelPlural>
-  <RB_Wanderer.labelMale>남성 자유토끼</RB_Wanderer.labelMale>
-  <RB_Wanderer.labelMalePlural>남성 자유토끼들</RB_Wanderer.labelMalePlural>
-  <RB_Wanderer.labelFemale>여성 자유토끼</RB_Wanderer.labelFemale>
-  <RB_Wanderer.labelFemalePlural>여성 자유토끼들</RB_Wanderer.labelFemalePlural>
+  <RB_Wanderer.label>Free rabbit</RB_Wanderer.label>
+  <RB_Wanderer.labelPlural>Free rabbits</RB_Wanderer.labelPlural>
+  <RB_Wanderer.labelMale>Male free rabbit</RB_Wanderer.labelMale>
+  <RB_Wanderer.labelMalePlural>Male free rabbits</RB_Wanderer.labelMalePlural>
+  <RB_Wanderer.labelFemale>Female free rabbit</RB_Wanderer.labelFemale>
+  <RB_Wanderer.labelFemalePlural>Female free rabbits</RB_Wanderer.labelFemalePlural>
 
 
   <!-- 실무장교 -->
 
-  <RB_SubOfficer.label>실무장교</RB_SubOfficer.label>
-  <RB_SubOfficer.labelPlural>실무장교들</RB_SubOfficer.labelPlural>
-  <RB_SubOfficer.labelMale>남성 실무장교</RB_SubOfficer.labelMale>
-  <RB_SubOfficer.labelMalePlural>남성 실무장교들</RB_SubOfficer.labelMalePlural>
-  <RB_SubOfficer.labelFemale>여성 실무장교</RB_SubOfficer.labelFemale>
-  <RB_SubOfficer.labelFemalePlural>여성 실무장교들</RB_SubOfficer.labelFemalePlural>
+  <RB_SubOfficer.label>Working Officer</RB_SubOfficer.label>
+  <RB_SubOfficer.labelPlural>Executive officers</RB_SubOfficer.labelPlural>
+  <RB_SubOfficer.labelMale>Male executive officer</RB_SubOfficer.labelMale>
+  <RB_SubOfficer.labelMalePlural>Male executive officers</RB_SubOfficer.labelMalePlural>
+  <RB_SubOfficer.labelFemale>Female executive officer</RB_SubOfficer.labelFemale>
+  <RB_SubOfficer.labelFemalePlural>Female executive officers</RB_SubOfficer.labelFemalePlural>
 
 
   <!-- 고위 장교 -->
 
-  <RB_EliteOfficer.label>지휘관</RB_EliteOfficer.label>
-  <RB_EliteOfficer.labelPlural>지휘관들</RB_EliteOfficer.labelPlural>
-  <RB_EliteOfficer.labelMale>남성 지휘관</RB_EliteOfficer.labelMale>
-  <RB_EliteOfficer.labelMalePlural>남성 지휘관들</RB_EliteOfficer.labelMalePlural>
-  <RB_EliteOfficer.labelFemale>여성 지휘관</RB_EliteOfficer.labelFemale>
-  <RB_EliteOfficer.labelFemalePlural>여성 지휘관들</RB_EliteOfficer.labelFemalePlural>
+  <RB_EliteOfficer.label>Commander</RB_EliteOfficer.label>
+  <RB_EliteOfficer.labelPlural>Commanders</RB_EliteOfficer.labelPlural>
+  <RB_EliteOfficer.labelMale>Male commander</RB_EliteOfficer.labelMale>
+  <RB_EliteOfficer.labelMalePlural>Male commander</RB_EliteOfficer.labelMalePlural>
+  <RB_EliteOfficer.labelFemale>Female commander</RB_EliteOfficer.labelFemale>
+  <RB_EliteOfficer.labelFemalePlural>Female commanders</RB_EliteOfficer.labelFemalePlural>
 
 
   <!-- 래비티시 야전군 - 소총병, Sniper, Machinegunner, Sapper -->
 
-  <RB_FRifle.label>야전군 소총병</RB_FRifle.label>
-  <RB_FRifle.labelPlural>야전군 소총병들</RB_FRifle.labelPlural>
-  <RB_FRifle.labelMale>남성 야전군 소총병</RB_FRifle.labelMale>
-  <RB_FRifle.labelMalePlural>남성 야전군 소총병들</RB_FRifle.labelMalePlural>
-  <RB_FRifle.labelFemale>여성 야전군 소총병</RB_FRifle.labelFemale>
-  <RB_FRifle.labelFemalePlural>여성 야전군 소총병들</RB_FRifle.labelFemalePlural>
+  <RB_FRifle.label>Field Army Rifleman</RB_FRifle.label>
+  <RB_FRifle.labelPlural>Field army riflemen</RB_FRifle.labelPlural>
+  <RB_FRifle.labelMale>Male field army rifleman</RB_FRifle.labelMale>
+  <RB_FRifle.labelMalePlural>Male field army riflemen</RB_FRifle.labelMalePlural>
+  <RB_FRifle.labelFemale>Female field army rifleman</RB_FRifle.labelFemale>
+  <RB_FRifle.labelFemalePlural>Female field army riflemen</RB_FRifle.labelFemalePlural>
 
-  <RB_FSniper.label>야전군 저격병</RB_FSniper.label>
-  <RB_FSniper.labelPlural>야전군 저격병들</RB_FSniper.labelPlural>
-  <RB_FSniper.labelMale>남성 야전군 저격병</RB_FSniper.labelMale>
+  <RB_FSniper.label>Field army sniper</RB_FSniper.label>
+  <RB_FSniper.labelPlural>Field Army snipers</RB_FSniper.labelPlural>
+  <RB_FSniper.labelMale>Male field army sniper</RB_FSniper.labelMale>
   <RB_FSniper.labelMalePlural>남성 야전군 저격병들</RB_FSniper.labelMalePlural>
   <RB_FSniper.labelFemale>여성 야전군 저격병</RB_FSniper.labelFemale>
   <RB_FSniper.labelFemalePlural>여성 야전군 저격병들</RB_FSniper.labelFemalePlural>

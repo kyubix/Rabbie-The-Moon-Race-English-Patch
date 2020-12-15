@@ -3,9 +3,9 @@
 
 	<HediffDef ParentName="AddedBodyPartBase">
 		<defName>RB_BionicTail</defName>
-		<label>생체공학 래비 꼬리</label>
-		<labelNoun>생체공학 래비 꼬리</labelNoun>
-		<description>생체공학 꼬리의 보정으로 인해 움직임이 조금 빨라집니다.</description>
+		<label>Bionic rabbie tail</label>
+		<labelNoun>Bionic rabbie tail</labelNoun>
+		<description>Movement is slightly faster due to the correction of the bionic tail.</description>
 		<spawnThingOnRemoved>RB_BionicTail</spawnThingOnRemoved>
 		<addedPartProps>
 			<solid>true</solid>

@@ -3,8 +3,8 @@
 
 	<ThingDef ParentName="BodyPartBionicBase">
 		<defName>RB_BionicTail</defName>
-		<label>생체공학 래비 꼬리</label>
-		<description>척추와 신경이 연결된 생체공학 꼬리입니다. 내장된 자이로스코프가 균형과 걸음을 자연스럽게 조정해줍니다.</description>
+		<label>Bionic rabbie tail</label>
+		<description>It is a bionic tail that connects the spine and nerves. Built-in gyroscope provides natural balance and step adjustment.</description>
 		<techLevel>Spacer</techLevel>
 		<costList> 
 			<Plasteel>15</Plasteel>

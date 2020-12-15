@@ -6,28 +6,28 @@
 
   <!-- Recipe Users: RB_MoonTailoringBench -->
 
-  <Make_RB_CasualTshirt.label>래비 캐주얼 티셔츠 제작</Make_RB_CasualTshirt.label>
-  <Make_RB_CasualTshirt.description>래비 캐주얼 티셔츠 제작.</Make_RB_CasualTshirt.description>
-  <Make_RB_CasualTshirt.jobString>래비 캐주얼 티셔츠 제작.</Make_RB_CasualTshirt.jobString>
+  <Make_RB_CasualTshirt.label>Rabbie casual t-shirt production</Make_RB_CasualTshirt.label>
+  <Make_RB_CasualTshirt.description>Rabbie casual t-shirt production.</Make_RB_CasualTshirt.description>
+  <Make_RB_CasualTshirt.jobString>Rabbie casual t-shirt production.</Make_RB_CasualTshirt.jobString>
 
-  <Make_RB_Apron.label>래비 실내용 앞치마 제작</Make_RB_Apron.label>
-  <Make_RB_Apron.description>래비 실내용 앞치마 제작.</Make_RB_Apron.description>
-  <Make_RB_Apron.jobString>래비 실내용 앞치마 제작.</Make_RB_Apron.jobString>
+  <Make_RB_Apron.label>Laby indoor apron production</Make_RB_Apron.label>
+  <Make_RB_Apron.description>Laby indoor apron production.</Make_RB_Apron.description>
+  <Make_RB_Apron.jobString>Laby indoor apron production.</Make_RB_Apron.jobString>
 
-  <Make_RB_Earjacket.label>래비 토끼후드 바람막이 제작</Make_RB_Earjacket.label>
-  <Make_RB_Earjacket.description>래비 토끼후드 바람막이 제작.</Make_RB_Earjacket.description>
-  <Make_RB_Earjacket.jobString>래비 토끼후드 바람막이 제작.</Make_RB_Earjacket.jobString>
+  <Make_RB_Earjacket.label>Rabbi rabbit hood windshield production</Make_RB_Earjacket.label>
+  <Make_RB_Earjacket.description>Rabbi rabbit hood windshield production.</Make_RB_Earjacket.description>
+  <Make_RB_Earjacket.jobString>Rabbi rabbit hood windshield production.</Make_RB_Earjacket.jobString>
 
-  <Make_RB_Casualribbonshirt.label>래비 리본셔츠 제작</Make_RB_Casualribbonshirt.label>
-  <Make_RB_Casualribbonshirt.description>래비 리본셔츠 제작.</Make_RB_Casualribbonshirt.description>
-  <Make_RB_Casualribbonshirt.jobString>래비 리본셔츠 제작.</Make_RB_Casualribbonshirt.jobString>
+  <Make_RB_Casualribbonshirt.label>Laby ribbon shirt production</Make_RB_Casualribbonshirt.label>
+  <Make_RB_Casualribbonshirt.description>Laby ribbon shirt production.</Make_RB_Casualribbonshirt.description>
+  <Make_RB_Casualribbonshirt.jobString>Laby ribbon shirt production.</Make_RB_Casualribbonshirt.jobString>
 
-  <Make_RB_Starjacket.label>래비 별 점퍼 제작</Make_RB_Starjacket.label>
-  <Make_RB_Starjacket.description>래비 별 점퍼 제작.</Make_RB_Starjacket.description>
-  <Make_RB_Starjacket.jobString>래비 별 점퍼 제작.</Make_RB_Starjacket.jobString>
+  <Make_RB_Starjacket.label>Jumper production by rabbie</Make_RB_Starjacket.label>
+  <Make_RB_Starjacket.description>Jumper production by rabbie.</Make_RB_Starjacket.description>
+  <Make_RB_Starjacket.jobString>Jumper production by rabbie.</Make_RB_Starjacket.jobString>
 
-  <Make_RB_Casualtieshirt.label>래비 넥타이셔츠 제작</Make_RB_Casualtieshirt.label>
-  <Make_RB_Casualtieshirt.description>래비 넥타이셔츠 제작.</Make_RB_Casualtieshirt.description>
+  <Make_RB_Casualtieshirt.label>Laby tie shirt production</Make_RB_Casualtieshirt.label>
+  <Make_RB_Casualtieshirt.description>Laby tie shirt production.</Make_RB_Casualtieshirt.description>
   <Make_RB_Casualtieshirt.jobString>래비 넥타이셔츠 제작.</Make_RB_Casualtieshirt.jobString>
 
   <Make_RB_Blazer.label>래비 블레이저 제작</Make_RB_Blazer.label>

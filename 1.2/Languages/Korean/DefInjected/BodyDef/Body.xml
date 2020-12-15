@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Rabbie.label>래비</Rabbie.label>
-  <Rabbie.corePart.parts.tail.customLabel>꼬리</Rabbie.corePart.parts.tail.customLabel>
-  <Rabbie.corePart.parts.left_lung.customLabel>왼쪽 폐</Rabbie.corePart.parts.left_lung.customLabel>
+  <Rabbie.label>Rabbie</Rabbie.label>
+  <Rabbie.corePart.parts.tail.customLabel>tail</Rabbie.corePart.parts.tail.customLabel>
+  <Rabbie.corePart.parts.left_lung.customLabel>Left lung</Rabbie.corePart.parts.left_lung.customLabel>
   <Rabbie.corePart.parts.right_lung.customLabel>오른쪽 폐</Rabbie.corePart.parts.right_lung.customLabel>
   <Rabbie.corePart.parts.left_kidney.customLabel>왼쪽 신장</Rabbie.corePart.parts.left_kidney.customLabel>
   <Rabbie.corePart.parts.right_kidney.customLabel>오른쪽 신장</Rabbie.corePart.parts.right_kidney.customLabel>

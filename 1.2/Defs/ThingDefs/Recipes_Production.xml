@@ -5,7 +5,7 @@
   <RecipeDef>
     <defName>Make_Moonthread</defName>
     <label>make Moonthread</label>
-    <description>섬유와 여러 종류의 유기질, 은을 이용해 달의 합성원단을 제작합니다.</description>
+    <description>The moon's synthetic fabric is made using fibers, organic materials and silver.</description>
     <jobString>Making moonthread.</jobString>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Tailor</effectWorking>
@@ -64,8 +64,8 @@
   
   <RecipeDef>
     <defName>Make_Moonsilk</defName>
-    <label>달의 비단 제작</label>
-    <description>섬유와 여러 종류의 유기질, 은과 플라스틸을 이용해 달의 비단을 제작합니다.</description>
+    <label>Moon Silk Crafting</label>
+    <description>The moon's silk is made from fibers, a variety of organic materials, silver and plastic.</description>
     <jobString>Making moonthread.</jobString>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Tailor</effectWorking>
